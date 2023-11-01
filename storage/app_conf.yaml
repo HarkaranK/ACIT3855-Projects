@@ -1,0 +1,12 @@
+version: 1
+datastore:
+  user: user
+  password: "#4Havel"
+  hostname: lab6-servicebased.eastus.cloudapp.azure.com
+  port: 3306
+  db: macro_weight_tracker
+events:
+  hostname: lab6-servicebased.eastus.cloudapp.azure.com
+  port: 9092
+  topic: macro_weight_tracker
+

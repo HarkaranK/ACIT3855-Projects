@@ -1,0 +1,144 @@
+---
+openapi: 3.0.0
+info:
+  title: Macro Nutrient API
+  description: This API tracks the nutrients absorbed throughout the day
+  contact:
+    email: hkang79@my.bcit.ca
+  version: 1.0.0
+
+tags:
+- name: macros
+  description: Individual nutrients for a day
+- name: weight_average
+  description: The average weight for a given day
+
+paths:
+  /weight:
+    post:
+      tags:
+      - weight_average
+      summary: Logs the average weight for the day
+      description: Adds a new entry for average weight to the system
+      operationId: app.add_weight
+      requestBody:
+        description: Reading weight to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/weight_logging'
+      responses:
+        "201":
+          description: Weight successfully logged
+        "400":
+          description: "Invalid entry, weight was not logged"
+  /macro:
+    post:
+      tags:
+      - macros
+      summary: Logs the macro nutrients for the day
+      description: Adding new macro nutrients to the system
+      operationId: app.adding_macros
+      requestBody:
+        description: Reading macros to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/macro_logging'
+      responses:
+        "201":
+          description: Macros added
+        "400":
+          description: "Invalid entry, macros type or amount is invalid"
+components:
+  schemas:
+    weight_logging:
+      required:
+      - note
+      - weight
+      type: object
+      properties:
+        weight:
+          type: number
+          example: 179.5
+        note:
+          type: string
+          example: Feeling kind of bloated today
+        trace_id:
+          type: string
+          format: uuid
+    macro_logging:
+      required:
+      - calcium
+      - carbohydrate
+      - fats
+      - iron
+      - magnesium
+      - omega_3
+      - omega_6
+      - potassium
+      - protein
+      - sodium
+      - vitamin_A
+      - vitamin_B
+      - vitamin_C
+      - vitamin_D
+      - vitamin_E
+      - vitamin_K
+      - zinc
+      type: object
+      properties:
+        protein:
+          type: number
+          example: 27
+        carbohydrate:
+          type: number
+          example: 12
+        fats:
+          type: number
+          example: 15
+        vitamin_A:
+          type: number
+          example: 17
+        vitamin_B:
+          type: number
+          example: 19
+        vitamin_C:
+          type: number
+          example: 8
+        vitamin_D:
+          type: number
+          example: 4
+        vitamin_E:
+          type: number
+          example: 24
+        vitamin_K:
+          type: number
+          example: 29
+        calcium:
+          type: number
+          example: 22.2
+        sodium:
+          type: number
+          example: 23
+        iron:
+          type: number
+          example: 4.1
+        potassium:
+          type: number
+          example: 1.7
+        magnesium:
+          type: number
+          example: 3.7
+        zinc:
+          type: number
+          example: 22
+        omega_3:
+          type: number
+          example: 4
+        omega_6:
+          type: number
+          example: 12
+        trace_id:
+          type: string
+          format: uuid

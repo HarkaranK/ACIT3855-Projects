@@ -1,0 +1,1276 @@
+2023-10-19 11:11:31,150 - basicLogger - INFO - Received event add_macros request with a trace id of 8047b21c-4486-4a8d-8664-6dceeda84701
+2023-10-19 11:11:33,258 - basicLogger - INFO - Returned event add_macros response (Id: 8047b21c-4486-4a8d-8664-6dceeda84701) with status 200
+2023-10-19 11:15:58,472 - basicLogger - INFO - Received event add_macros request with a trace id of 94c3a4b6-2117-4bce-b33d-33015ffc941e
+2023-10-19 11:16:00,510 - basicLogger - INFO - Returned event add_macros response (Id: 94c3a4b6-2117-4bce-b33d-33015ffc941e) with status 200
+2023-10-19 11:16:33,597 - basicLogger - INFO - Received event add_macros request with a trace id of 16b21028-350b-4925-92c6-57cb90da8361
+2023-10-19 11:16:35,653 - basicLogger - INFO - Returned event add_macros response (Id: 16b21028-350b-4925-92c6-57cb90da8361) with status 200
+2023-10-19 11:16:36,229 - basicLogger - INFO - Received event add_weight request with a trace id of 62608140-c90f-42e4-9a92-577fb1b8eedf
+2023-10-19 11:16:38,266 - basicLogger - INFO - Returned event add_weight response (Id: 62608140-c90f-42e4-9a92-577fb1b8eedf) with status 200
+2023-10-19 11:17:51,844 - basicLogger - INFO - Received event add_weight request with a trace id of b6eb2747-5c27-4b77-8a29-dcea2902cf63
+2023-10-19 11:17:51,933 - basicLogger - INFO - Received event add_weight request with a trace id of 954ee84f-eae8-4caf-890e-0a38438f4d92
+2023-10-19 11:17:52,131 - basicLogger - INFO - Received event add_weight request with a trace id of e7c62501-36c6-42c4-aa28-ad085be285a8
+2023-10-19 11:17:52,379 - basicLogger - INFO - Received event add_weight request with a trace id of d26d6357-9744-4538-b502-b0846b167aea
+2023-10-19 11:17:52,531 - basicLogger - INFO - Received event add_weight request with a trace id of 6680d728-3003-454c-8771-6f420ffe27bf
+2023-10-19 11:17:53,903 - basicLogger - INFO - Returned event add_weight response (Id: b6eb2747-5c27-4b77-8a29-dcea2902cf63) with status 200
+2023-10-19 11:17:53,914 - basicLogger - INFO - Received event add_macros request with a trace id of 9fe01d68-9506-46f5-8fa3-ab578a737737
+2023-10-19 11:17:53,979 - basicLogger - INFO - Returned event add_weight response (Id: 954ee84f-eae8-4caf-890e-0a38438f4d92) with status 200
+2023-10-19 11:17:53,982 - basicLogger - INFO - Received event add_macros request with a trace id of 6fcfda40-7918-4c3e-847a-d689ccf4f8a3
+2023-10-19 11:17:54,180 - basicLogger - INFO - Returned event add_weight response (Id: e7c62501-36c6-42c4-aa28-ad085be285a8) with status 200
+2023-10-19 11:17:54,184 - basicLogger - INFO - Received event add_macros request with a trace id of 010afc45-c00b-4538-aad5-e57902edc19d
+2023-10-19 11:17:54,429 - basicLogger - INFO - Returned event add_weight response (Id: d26d6357-9744-4538-b502-b0846b167aea) with status 200
+2023-10-19 11:17:54,433 - basicLogger - INFO - Received event add_macros request with a trace id of 31b8f0a0-d6d5-446d-a79d-35f14c410a79
+2023-10-19 11:17:54,583 - basicLogger - INFO - Returned event add_weight response (Id: 6680d728-3003-454c-8771-6f420ffe27bf) with status 200
+2023-10-19 11:17:54,586 - basicLogger - INFO - Received event add_macros request with a trace id of ba0e1d6a-afd6-485a-aa16-d8ff1d7c9e68
+2023-10-19 11:17:55,955 - basicLogger - INFO - Returned event add_macros response (Id: 9fe01d68-9506-46f5-8fa3-ab578a737737) with status 200
+2023-10-19 11:17:55,959 - basicLogger - INFO - Received event add_weight request with a trace id of 1ceb0309-a981-444c-b05a-5ce9e120c234
+2023-10-19 11:17:56,032 - basicLogger - INFO - Returned event add_macros response (Id: 6fcfda40-7918-4c3e-847a-d689ccf4f8a3) with status 200
+2023-10-19 11:17:56,036 - basicLogger - INFO - Received event add_weight request with a trace id of 72b960b7-6ef8-4793-bd62-112fd7196a72
+2023-10-19 11:17:56,219 - basicLogger - INFO - Returned event add_macros response (Id: 010afc45-c00b-4538-aad5-e57902edc19d) with status 200
+2023-10-19 11:17:56,223 - basicLogger - INFO - Received event add_weight request with a trace id of 5de8db66-0631-4790-ba1f-c5429b32a8b6
+2023-10-19 11:17:56,482 - basicLogger - INFO - Returned event add_macros response (Id: 31b8f0a0-d6d5-446d-a79d-35f14c410a79) with status 200
+2023-10-19 11:17:56,486 - basicLogger - INFO - Received event add_weight request with a trace id of 3f847468-da64-4a3a-8135-1572f5e51d1c
+2023-10-19 11:17:56,637 - basicLogger - INFO - Returned event add_macros response (Id: ba0e1d6a-afd6-485a-aa16-d8ff1d7c9e68) with status 200
+2023-10-19 11:17:56,640 - basicLogger - INFO - Received event add_weight request with a trace id of 30f49e9b-1eef-4881-abed-bfabe3b21b63
+2023-10-19 11:17:58,019 - basicLogger - INFO - Returned event add_weight response (Id: 1ceb0309-a981-444c-b05a-5ce9e120c234) with status 200
+2023-10-19 11:17:58,022 - basicLogger - INFO - Received event add_macros request with a trace id of c590b30c-4acd-4d0a-94c8-1ad6997f371c
+2023-10-19 11:17:58,080 - basicLogger - INFO - Returned event add_weight response (Id: 72b960b7-6ef8-4793-bd62-112fd7196a72) with status 200
+2023-10-19 11:17:58,084 - basicLogger - INFO - Received event add_macros request with a trace id of 570feca8-2c14-40a8-a3eb-87bf87ee83bd
+2023-10-19 11:17:58,272 - basicLogger - INFO - Returned event add_weight response (Id: 5de8db66-0631-4790-ba1f-c5429b32a8b6) with status 200
+2023-10-19 11:17:58,276 - basicLogger - INFO - Received event add_macros request with a trace id of 10ef544a-d581-4fd7-b981-ee2ef61422ad
+2023-10-19 11:17:58,526 - basicLogger - INFO - Returned event add_weight response (Id: 3f847468-da64-4a3a-8135-1572f5e51d1c) with status 200
+2023-10-19 11:17:58,529 - basicLogger - INFO - Received event add_macros request with a trace id of de7dd3ae-6081-458d-b3a4-c354f16c508a
+2023-10-19 11:17:58,684 - basicLogger - INFO - Returned event add_weight response (Id: 30f49e9b-1eef-4881-abed-bfabe3b21b63) with status 200
+2023-10-19 11:17:58,687 - basicLogger - INFO - Received event add_macros request with a trace id of 900f92ed-9cec-4a60-a2d1-01f8a3e4088c
+2023-10-19 11:18:00,067 - basicLogger - INFO - Returned event add_macros response (Id: c590b30c-4acd-4d0a-94c8-1ad6997f371c) with status 200
+2023-10-19 11:18:00,071 - basicLogger - INFO - Received event add_weight request with a trace id of c174c39c-93d2-460f-a347-f9d18ff40f47
+2023-10-19 11:18:00,128 - basicLogger - INFO - Returned event add_macros response (Id: 570feca8-2c14-40a8-a3eb-87bf87ee83bd) with status 200
+2023-10-19 11:18:00,131 - basicLogger - INFO - Received event add_weight request with a trace id of 4be8a19e-9f08-4034-aea1-75a916f263b6
+2023-10-19 11:18:00,330 - basicLogger - INFO - Returned event add_macros response (Id: 10ef544a-d581-4fd7-b981-ee2ef61422ad) with status 200
+2023-10-19 11:18:00,333 - basicLogger - INFO - Received event add_weight request with a trace id of 4d20fe9a-2974-47d1-8b49-eb9bfea0e585
+2023-10-19 11:18:00,574 - basicLogger - INFO - Returned event add_macros response (Id: de7dd3ae-6081-458d-b3a4-c354f16c508a) with status 200
+2023-10-19 11:18:00,578 - basicLogger - INFO - Received event add_weight request with a trace id of 9312e236-5673-4779-a6ab-e19602288f49
+2023-10-19 11:18:00,732 - basicLogger - INFO - Returned event add_macros response (Id: 900f92ed-9cec-4a60-a2d1-01f8a3e4088c) with status 200
+2023-10-19 11:18:00,735 - basicLogger - INFO - Received event add_weight request with a trace id of 1e1d872e-ac66-4b57-9fdb-7a8a5103f1fc
+2023-10-19 11:18:02,118 - basicLogger - INFO - Returned event add_weight response (Id: c174c39c-93d2-460f-a347-f9d18ff40f47) with status 200
+2023-10-19 11:18:02,122 - basicLogger - INFO - Received event add_macros request with a trace id of 0eacc22f-e4ea-4076-acac-1c1a6dc8ff77
+2023-10-19 11:18:02,181 - basicLogger - INFO - Returned event add_weight response (Id: 4be8a19e-9f08-4034-aea1-75a916f263b6) with status 200
+2023-10-19 11:18:02,184 - basicLogger - INFO - Received event add_macros request with a trace id of 90e6b27d-0c1c-4e64-8da4-bda451de7703
+2023-10-19 11:18:02,369 - basicLogger - INFO - Returned event add_weight response (Id: 4d20fe9a-2974-47d1-8b49-eb9bfea0e585) with status 200
+2023-10-19 11:18:02,373 - basicLogger - INFO - Received event add_macros request with a trace id of 93a5cdb9-6b12-4d43-b2df-c4f3c9b0b04b
+2023-10-19 11:18:02,629 - basicLogger - INFO - Returned event add_weight response (Id: 9312e236-5673-4779-a6ab-e19602288f49) with status 200
+2023-10-19 11:18:02,632 - basicLogger - INFO - Received event add_macros request with a trace id of 23f5c9d3-e94a-4d8e-86c9-4793e358b853
+2023-10-19 11:18:02,784 - basicLogger - INFO - Returned event add_weight response (Id: 1e1d872e-ac66-4b57-9fdb-7a8a5103f1fc) with status 200
+2023-10-19 11:18:02,788 - basicLogger - INFO - Received event add_macros request with a trace id of 10326d4b-7aba-4f98-84d2-ce39ab455aa5
+2023-10-19 11:18:04,182 - basicLogger - INFO - Returned event add_macros response (Id: 0eacc22f-e4ea-4076-acac-1c1a6dc8ff77) with status 200
+2023-10-19 11:18:04,186 - basicLogger - INFO - Received event add_weight request with a trace id of 16b4103c-b82a-4eb6-a13e-07e391abb6e3
+2023-10-19 11:18:04,244 - basicLogger - INFO - Returned event add_macros response (Id: 90e6b27d-0c1c-4e64-8da4-bda451de7703) with status 200
+2023-10-19 11:18:04,247 - basicLogger - INFO - Received event add_weight request with a trace id of 903f6dea-6c89-4d5c-95b9-0cb1d80d42c2
+2023-10-19 11:18:04,432 - basicLogger - INFO - Returned event add_macros response (Id: 93a5cdb9-6b12-4d43-b2df-c4f3c9b0b04b) with status 200
+2023-10-19 11:18:04,435 - basicLogger - INFO - Received event add_weight request with a trace id of a8b806e3-1782-4a75-b9e5-1212c17a3427
+2023-10-19 11:18:04,679 - basicLogger - INFO - Returned event add_macros response (Id: 23f5c9d3-e94a-4d8e-86c9-4793e358b853) with status 200
+2023-10-19 11:18:04,682 - basicLogger - INFO - Received event add_weight request with a trace id of 5f7b385c-4161-4870-9ba6-cd18115892eb
+2023-10-19 11:18:04,834 - basicLogger - INFO - Returned event add_macros response (Id: 10326d4b-7aba-4f98-84d2-ce39ab455aa5) with status 200
+2023-10-19 11:18:04,837 - basicLogger - INFO - Received event add_weight request with a trace id of 52c8dcc0-ecb2-4941-8337-664a60055fc0
+2023-10-19 11:18:06,221 - basicLogger - INFO - Returned event add_weight response (Id: 16b4103c-b82a-4eb6-a13e-07e391abb6e3) with status 200
+2023-10-19 11:18:06,224 - basicLogger - INFO - Received event add_macros request with a trace id of d167b01a-4165-4ba3-98d2-cd9e08dd6d61
+2023-10-19 11:18:06,282 - basicLogger - INFO - Returned event add_weight response (Id: 903f6dea-6c89-4d5c-95b9-0cb1d80d42c2) with status 200
+2023-10-19 11:18:06,285 - basicLogger - INFO - Received event add_macros request with a trace id of 76fcb61f-7ebe-4d06-b887-eec952d38a3c
+2023-10-19 11:18:06,487 - basicLogger - INFO - Returned event add_weight response (Id: a8b806e3-1782-4a75-b9e5-1212c17a3427) with status 200
+2023-10-19 11:18:06,491 - basicLogger - INFO - Received event add_macros request with a trace id of 28dafc66-0e24-4d5a-b5fc-50580708e023
+2023-10-19 11:18:06,707 - basicLogger - INFO - Returned event add_weight response (Id: 5f7b385c-4161-4870-9ba6-cd18115892eb) with status 200
+2023-10-19 11:18:06,710 - basicLogger - INFO - Received event add_macros request with a trace id of 6b129576-96fe-4b06-b6af-510504bf8972
+2023-10-19 11:18:06,879 - basicLogger - INFO - Returned event add_weight response (Id: 52c8dcc0-ecb2-4941-8337-664a60055fc0) with status 200
+2023-10-19 11:18:06,882 - basicLogger - INFO - Received event add_macros request with a trace id of e51a6e4c-b1d1-4afb-ae14-9c5ba0cc68b2
+2023-10-19 11:18:08,278 - basicLogger - INFO - Returned event add_macros response (Id: d167b01a-4165-4ba3-98d2-cd9e08dd6d61) with status 200
+2023-10-19 11:18:08,281 - basicLogger - INFO - Received event add_weight request with a trace id of 6aaabb21-52a0-40ce-aecb-73be47ee7eb4
+2023-10-19 11:18:08,325 - basicLogger - INFO - Returned event add_macros response (Id: 76fcb61f-7ebe-4d06-b887-eec952d38a3c) with status 200
+2023-10-19 11:18:08,328 - basicLogger - INFO - Received event add_weight request with a trace id of 2291944d-e55b-4792-8c15-1e66d9526ac4
+2023-10-19 11:18:08,542 - basicLogger - INFO - Returned event add_macros response (Id: 28dafc66-0e24-4d5a-b5fc-50580708e023) with status 200
+2023-10-19 11:18:08,546 - basicLogger - INFO - Received event add_weight request with a trace id of 8e6d70d7-5e60-4768-a694-68ce9ba11902
+2023-10-19 11:18:08,761 - basicLogger - INFO - Returned event add_macros response (Id: 6b129576-96fe-4b06-b6af-510504bf8972) with status 200
+2023-10-19 11:18:08,765 - basicLogger - INFO - Received event add_weight request with a trace id of 97b6f13c-a6aa-4089-bfb9-52213250809f
+2023-10-19 11:18:08,917 - basicLogger - INFO - Returned event add_macros response (Id: e51a6e4c-b1d1-4afb-ae14-9c5ba0cc68b2) with status 200
+2023-10-19 11:18:08,920 - basicLogger - INFO - Received event add_weight request with a trace id of b2575285-9a43-41d7-b0d0-11e9903d6c18
+2023-10-19 11:18:10,332 - basicLogger - INFO - Returned event add_weight response (Id: 6aaabb21-52a0-40ce-aecb-73be47ee7eb4) with status 200
+2023-10-19 11:18:10,335 - basicLogger - INFO - Received event add_macros request with a trace id of 9b05dd1c-3ab6-463b-bffd-22e3d35a0af1
+2023-10-19 11:18:10,363 - basicLogger - INFO - Returned event add_weight response (Id: 2291944d-e55b-4792-8c15-1e66d9526ac4) with status 200
+2023-10-19 11:18:10,367 - basicLogger - INFO - Received event add_macros request with a trace id of b5449652-2893-4ee2-a4f4-6c3bd137c616
+2023-10-19 11:18:10,591 - basicLogger - INFO - Returned event add_weight response (Id: 8e6d70d7-5e60-4768-a694-68ce9ba11902) with status 200
+2023-10-19 11:18:10,595 - basicLogger - INFO - Received event add_macros request with a trace id of 5c679e45-ea8c-48fa-bbb5-c3dc84d67c92
+2023-10-19 11:18:10,814 - basicLogger - INFO - Returned event add_weight response (Id: 97b6f13c-a6aa-4089-bfb9-52213250809f) with status 200
+2023-10-19 11:18:10,817 - basicLogger - INFO - Received event add_macros request with a trace id of 937fb611-ce67-483e-b721-af9583deaccc
+2023-10-19 11:18:10,985 - basicLogger - INFO - Returned event add_weight response (Id: b2575285-9a43-41d7-b0d0-11e9903d6c18) with status 200
+2023-10-19 11:18:10,988 - basicLogger - INFO - Received event add_macros request with a trace id of daed8b45-5d52-49c9-8011-7456633d32c0
+2023-10-19 11:18:12,360 - basicLogger - INFO - Returned event add_macros response (Id: 9b05dd1c-3ab6-463b-bffd-22e3d35a0af1) with status 200
+2023-10-19 11:18:12,363 - basicLogger - INFO - Received event add_weight request with a trace id of 2d26c291-0de4-4d64-b34c-979751872da9
+2023-10-19 11:18:12,406 - basicLogger - INFO - Returned event add_macros response (Id: b5449652-2893-4ee2-a4f4-6c3bd137c616) with status 200
+2023-10-19 11:18:12,409 - basicLogger - INFO - Received event add_weight request with a trace id of 01c326fa-6bf5-4981-8ab7-2423975d3af7
+2023-10-19 11:18:12,624 - basicLogger - INFO - Returned event add_macros response (Id: 5c679e45-ea8c-48fa-bbb5-c3dc84d67c92) with status 200
+2023-10-19 11:18:12,627 - basicLogger - INFO - Received event add_weight request with a trace id of 489a7f8f-3b27-4918-a2e2-01a8dc83ff2c
+2023-10-19 11:18:12,873 - basicLogger - INFO - Returned event add_macros response (Id: 937fb611-ce67-483e-b721-af9583deaccc) with status 200
+2023-10-19 11:18:12,877 - basicLogger - INFO - Received event add_weight request with a trace id of dfe71369-6308-4019-9b8c-f41afa1036c8
+2023-10-19 11:18:13,030 - basicLogger - INFO - Returned event add_macros response (Id: daed8b45-5d52-49c9-8011-7456633d32c0) with status 200
+2023-10-19 11:18:13,033 - basicLogger - INFO - Received event add_weight request with a trace id of d40f6905-5c40-48ec-8dea-3cb5aab0a13a
+2023-10-19 11:18:14,402 - basicLogger - INFO - Returned event add_weight response (Id: 2d26c291-0de4-4d64-b34c-979751872da9) with status 200
+2023-10-19 11:18:14,405 - basicLogger - INFO - Received event add_macros request with a trace id of b2cf8ff9-21fa-4f00-879d-94e48e5ac7cd
+2023-10-19 11:18:14,448 - basicLogger - INFO - Returned event add_weight response (Id: 01c326fa-6bf5-4981-8ab7-2423975d3af7) with status 200
+2023-10-19 11:18:14,451 - basicLogger - INFO - Received event add_macros request with a trace id of df8a4e84-a21a-4ff5-b517-c773267c3da9
+2023-10-19 11:18:14,681 - basicLogger - INFO - Returned event add_weight response (Id: 489a7f8f-3b27-4918-a2e2-01a8dc83ff2c) with status 200
+2023-10-19 11:18:14,685 - basicLogger - INFO - Received event add_macros request with a trace id of e0bbd57f-cf1d-4be6-a375-5b1ee6898aaa
+2023-10-19 11:18:14,932 - basicLogger - INFO - Returned event add_weight response (Id: dfe71369-6308-4019-9b8c-f41afa1036c8) with status 200
+2023-10-19 11:18:14,935 - basicLogger - INFO - Received event add_macros request with a trace id of 1ba6331a-db98-4173-adbf-6207e0b7d82b
+2023-10-19 11:18:15,071 - basicLogger - INFO - Returned event add_weight response (Id: d40f6905-5c40-48ec-8dea-3cb5aab0a13a) with status 200
+2023-10-19 11:18:15,075 - basicLogger - INFO - Received event add_macros request with a trace id of b2793a99-0dc2-4e56-b3c5-9e63b5024dc7
+2023-10-19 11:18:16,444 - basicLogger - INFO - Returned event add_macros response (Id: b2cf8ff9-21fa-4f00-879d-94e48e5ac7cd) with status 200
+2023-10-19 11:18:16,448 - basicLogger - INFO - Received event add_weight request with a trace id of ea099876-702d-4564-927e-facb4c97b091
+2023-10-19 11:18:16,490 - basicLogger - INFO - Returned event add_macros response (Id: df8a4e84-a21a-4ff5-b517-c773267c3da9) with status 200
+2023-10-19 11:18:16,494 - basicLogger - INFO - Received event add_weight request with a trace id of 1838392e-a12b-418a-9c18-023e7252825e
+2023-10-19 11:18:16,740 - basicLogger - INFO - Returned event add_macros response (Id: e0bbd57f-cf1d-4be6-a375-5b1ee6898aaa) with status 200
+2023-10-19 11:18:16,743 - basicLogger - INFO - Received event add_weight request with a trace id of 06a035b3-c140-4475-b59e-518d9455405f
+2023-10-19 11:18:16,988 - basicLogger - INFO - Returned event add_macros response (Id: 1ba6331a-db98-4173-adbf-6207e0b7d82b) with status 200
+2023-10-19 11:18:16,992 - basicLogger - INFO - Received event add_weight request with a trace id of d2afa655-7807-4914-bb90-0824f9b01f31
+2023-10-19 11:18:17,112 - basicLogger - INFO - Returned event add_macros response (Id: b2793a99-0dc2-4e56-b3c5-9e63b5024dc7) with status 200
+2023-10-19 11:18:17,116 - basicLogger - INFO - Received event add_weight request with a trace id of ec4425fd-577d-43ce-ab7f-f432997fb08c
+2023-10-19 11:18:18,495 - basicLogger - INFO - Returned event add_weight response (Id: ea099876-702d-4564-927e-facb4c97b091) with status 200
+2023-10-19 11:18:18,498 - basicLogger - INFO - Received event add_macros request with a trace id of 5ef05f82-aafa-488c-931c-85624a2701e7
+2023-10-19 11:18:18,539 - basicLogger - INFO - Returned event add_weight response (Id: 1838392e-a12b-418a-9c18-023e7252825e) with status 200
+2023-10-19 11:18:18,542 - basicLogger - INFO - Received event add_macros request with a trace id of a99a0f71-7809-4ee5-894f-3b6f8891aa87
+2023-10-19 11:18:18,795 - basicLogger - INFO - Returned event add_weight response (Id: 06a035b3-c140-4475-b59e-518d9455405f) with status 200
+2023-10-19 11:18:18,799 - basicLogger - INFO - Received event add_macros request with a trace id of 8f546382-c329-4aba-aa77-e369e8bb6bcd
+2023-10-19 11:18:19,048 - basicLogger - INFO - Returned event add_weight response (Id: d2afa655-7807-4914-bb90-0824f9b01f31) with status 200
+2023-10-19 11:18:19,052 - basicLogger - INFO - Received event add_macros request with a trace id of 4ca339c5-d4b6-4f7d-8774-146f230f8012
+2023-10-19 11:18:19,175 - basicLogger - INFO - Returned event add_weight response (Id: ec4425fd-577d-43ce-ab7f-f432997fb08c) with status 200
+2023-10-19 11:18:19,179 - basicLogger - INFO - Received event add_macros request with a trace id of 1b1e0f24-e0d5-4e86-8fcc-5f4e51b10fa8
+2023-10-19 11:18:20,539 - basicLogger - INFO - Returned event add_macros response (Id: 5ef05f82-aafa-488c-931c-85624a2701e7) with status 200
+2023-10-19 11:18:20,543 - basicLogger - INFO - Received event add_weight request with a trace id of 07a4c779-9451-4e94-a330-8d4e6e070fce
+2023-10-19 11:18:20,586 - basicLogger - INFO - Returned event add_macros response (Id: a99a0f71-7809-4ee5-894f-3b6f8891aa87) with status 200
+2023-10-19 11:18:20,589 - basicLogger - INFO - Received event add_weight request with a trace id of 5bb60c43-239d-476c-bb6a-739640284b93
+2023-10-19 11:18:20,835 - basicLogger - INFO - Returned event add_macros response (Id: 8f546382-c329-4aba-aa77-e369e8bb6bcd) with status 200
+2023-10-19 11:18:20,839 - basicLogger - INFO - Received event add_weight request with a trace id of 9f8ddb20-03e0-4ba1-aceb-a02a6b4edfd2
+2023-10-19 11:18:21,098 - basicLogger - INFO - Returned event add_macros response (Id: 4ca339c5-d4b6-4f7d-8774-146f230f8012) with status 200
+2023-10-19 11:18:21,101 - basicLogger - INFO - Received event add_weight request with a trace id of 46c6c0eb-5a74-4ab8-82cc-b158af7b45ed
+2023-10-19 11:18:21,221 - basicLogger - INFO - Returned event add_macros response (Id: 1b1e0f24-e0d5-4e86-8fcc-5f4e51b10fa8) with status 200
+2023-10-19 11:18:21,225 - basicLogger - INFO - Received event add_weight request with a trace id of d62666f4-8c65-4c71-a16d-995e0ca3a426
+2023-10-19 11:18:22,602 - basicLogger - INFO - Returned event add_weight response (Id: 07a4c779-9451-4e94-a330-8d4e6e070fce) with status 200
+2023-10-19 11:18:22,606 - basicLogger - INFO - Received event add_macros request with a trace id of 784cbb4f-30cd-4597-8efb-c57e8e5c21ed
+2023-10-19 11:18:22,632 - basicLogger - INFO - Returned event add_weight response (Id: 5bb60c43-239d-476c-bb6a-739640284b93) with status 200
+2023-10-19 11:18:22,635 - basicLogger - INFO - Received event add_macros request with a trace id of 94408f2f-d060-4871-b77d-b03dc6a05c5d
+2023-10-19 11:18:22,898 - basicLogger - INFO - Returned event add_weight response (Id: 9f8ddb20-03e0-4ba1-aceb-a02a6b4edfd2) with status 200
+2023-10-19 11:18:22,902 - basicLogger - INFO - Received event add_macros request with a trace id of bd65d8fa-c0c5-4cbe-b07d-3dacc0a2e08b
+2023-10-19 11:18:23,163 - basicLogger - INFO - Returned event add_weight response (Id: 46c6c0eb-5a74-4ab8-82cc-b158af7b45ed) with status 200
+2023-10-19 11:18:23,166 - basicLogger - INFO - Received event add_macros request with a trace id of 0d5f9f81-2466-400c-992a-f037d63f0e34
+2023-10-19 11:18:23,270 - basicLogger - INFO - Returned event add_weight response (Id: d62666f4-8c65-4c71-a16d-995e0ca3a426) with status 200
+2023-10-19 11:18:23,274 - basicLogger - INFO - Received event add_macros request with a trace id of 3b633085-1517-419c-a15a-3da4687cd1bc
+2023-10-19 11:18:24,650 - basicLogger - INFO - Returned event add_macros response (Id: 784cbb4f-30cd-4597-8efb-c57e8e5c21ed) with status 200
+2023-10-19 11:18:24,653 - basicLogger - INFO - Received event add_weight request with a trace id of 1c6ffd66-ef9f-4050-b350-064428affcc7
+2023-10-19 11:18:24,682 - basicLogger - INFO - Returned event add_macros response (Id: 94408f2f-d060-4871-b77d-b03dc6a05c5d) with status 200
+2023-10-19 11:18:24,685 - basicLogger - INFO - Received event add_weight request with a trace id of abba0451-a242-4b4a-9af7-e97d04e6f12d
+2023-10-19 11:18:24,946 - basicLogger - INFO - Returned event add_macros response (Id: bd65d8fa-c0c5-4cbe-b07d-3dacc0a2e08b) with status 200
+2023-10-19 11:18:24,950 - basicLogger - INFO - Received event add_weight request with a trace id of cc399da5-03be-4928-b918-e1ee967cf6b9
+2023-10-19 11:18:25,227 - basicLogger - INFO - Returned event add_macros response (Id: 0d5f9f81-2466-400c-992a-f037d63f0e34) with status 200
+2023-10-19 11:18:25,230 - basicLogger - INFO - Received event add_weight request with a trace id of 6009a552-566f-4f90-8fd5-c52f0ef8c8f5
+2023-10-19 11:18:25,335 - basicLogger - INFO - Returned event add_macros response (Id: 3b633085-1517-419c-a15a-3da4687cd1bc) with status 200
+2023-10-19 11:18:25,339 - basicLogger - INFO - Received event add_weight request with a trace id of ce7f9b79-08bb-4f56-85ad-b9e248c201b2
+2023-10-19 11:18:26,677 - basicLogger - INFO - Returned event add_weight response (Id: 1c6ffd66-ef9f-4050-b350-064428affcc7) with status 200
+2023-10-19 11:18:26,681 - basicLogger - INFO - Received event add_macros request with a trace id of 71f4e708-3dc9-48d2-89e9-1dc9bafc8c9c
+2023-10-19 11:18:26,709 - basicLogger - INFO - Returned event add_weight response (Id: abba0451-a242-4b4a-9af7-e97d04e6f12d) with status 200
+2023-10-19 11:18:26,712 - basicLogger - INFO - Received event add_macros request with a trace id of 1c13db55-5ec8-4703-9a60-af43421c0acc
+2023-10-19 11:18:26,985 - basicLogger - INFO - Returned event add_weight response (Id: cc399da5-03be-4928-b918-e1ee967cf6b9) with status 200
+2023-10-19 11:18:26,989 - basicLogger - INFO - Received event add_macros request with a trace id of eb5b7ff5-ea53-4f9a-83e7-00d3d0b3c2de
+2023-10-19 11:18:27,284 - basicLogger - INFO - Returned event add_weight response (Id: 6009a552-566f-4f90-8fd5-c52f0ef8c8f5) with status 200
+2023-10-19 11:18:27,288 - basicLogger - INFO - Received event add_macros request with a trace id of e08b019c-27e9-4be6-9a23-a9d60c46086f
+2023-10-19 11:18:27,392 - basicLogger - INFO - Returned event add_weight response (Id: ce7f9b79-08bb-4f56-85ad-b9e248c201b2) with status 200
+2023-10-19 11:18:27,396 - basicLogger - INFO - Received event add_macros request with a trace id of 6eb37d0c-af1b-4559-b699-c8c00e7a5727
+2023-10-19 11:18:28,716 - basicLogger - INFO - Returned event add_macros response (Id: 71f4e708-3dc9-48d2-89e9-1dc9bafc8c9c) with status 200
+2023-10-19 11:18:28,720 - basicLogger - INFO - Received event add_weight request with a trace id of c1ea40c0-2892-4ecf-8db1-80895221cfbd
+2023-10-19 11:18:28,747 - basicLogger - INFO - Returned event add_macros response (Id: 1c13db55-5ec8-4703-9a60-af43421c0acc) with status 200
+2023-10-19 11:18:28,751 - basicLogger - INFO - Received event add_weight request with a trace id of 6078f18a-f771-40a2-8237-5c4a092c457f
+2023-10-19 11:18:29,025 - basicLogger - INFO - Returned event add_macros response (Id: eb5b7ff5-ea53-4f9a-83e7-00d3d0b3c2de) with status 200
+2023-10-19 11:18:29,029 - basicLogger - INFO - Received event add_weight request with a trace id of d3d787af-4dce-4a99-8679-e730d94c882b
+2023-10-19 11:18:29,325 - basicLogger - INFO - Returned event add_macros response (Id: e08b019c-27e9-4be6-9a23-a9d60c46086f) with status 200
+2023-10-19 11:18:29,328 - basicLogger - INFO - Received event add_weight request with a trace id of 208b4c2f-d361-434e-b992-7d156e6ee41b
+2023-10-19 11:18:29,436 - basicLogger - INFO - Returned event add_macros response (Id: 6eb37d0c-af1b-4559-b699-c8c00e7a5727) with status 200
+2023-10-19 11:18:29,439 - basicLogger - INFO - Received event add_weight request with a trace id of f4384ebe-26a3-4e0a-8019-bb963de880d8
+2023-10-19 11:18:30,755 - basicLogger - INFO - Returned event add_weight response (Id: c1ea40c0-2892-4ecf-8db1-80895221cfbd) with status 200
+2023-10-19 11:18:30,759 - basicLogger - INFO - Received event add_macros request with a trace id of 7e1ffd71-f156-449b-9d65-5d3611a305da
+2023-10-19 11:18:30,770 - basicLogger - INFO - Returned event add_weight response (Id: 6078f18a-f771-40a2-8237-5c4a092c457f) with status 200
+2023-10-19 11:18:30,775 - basicLogger - INFO - Received event add_macros request with a trace id of 830cbe35-8522-40cd-9f66-429f4dc40b50
+2023-10-19 11:18:31,082 - basicLogger - INFO - Returned event add_weight response (Id: d3d787af-4dce-4a99-8679-e730d94c882b) with status 200
+2023-10-19 11:18:31,086 - basicLogger - INFO - Received event add_macros request with a trace id of 65e78d34-eafa-4543-a8df-230260a8be6b
+2023-10-19 11:18:31,376 - basicLogger - INFO - Returned event add_weight response (Id: 208b4c2f-d361-434e-b992-7d156e6ee41b) with status 200
+2023-10-19 11:18:31,379 - basicLogger - INFO - Received event add_macros request with a trace id of 19510d01-461a-4705-b2b8-cf58bb61f647
+2023-10-19 11:18:31,501 - basicLogger - INFO - Returned event add_weight response (Id: f4384ebe-26a3-4e0a-8019-bb963de880d8) with status 200
+2023-10-19 11:18:31,504 - basicLogger - INFO - Received event add_macros request with a trace id of 864aa550-5bd3-4e17-8775-5da8d55e91ca
+2023-10-19 11:18:32,795 - basicLogger - INFO - Returned event add_macros response (Id: 7e1ffd71-f156-449b-9d65-5d3611a305da) with status 200
+2023-10-19 11:18:32,814 - basicLogger - INFO - Returned event add_macros response (Id: 830cbe35-8522-40cd-9f66-429f4dc40b50) with status 200
+2023-10-19 11:18:33,137 - basicLogger - INFO - Returned event add_macros response (Id: 65e78d34-eafa-4543-a8df-230260a8be6b) with status 200
+2023-10-19 11:18:33,417 - basicLogger - INFO - Returned event add_macros response (Id: 19510d01-461a-4705-b2b8-cf58bb61f647) with status 200
+2023-10-19 11:18:33,542 - basicLogger - INFO - Returned event add_macros response (Id: 864aa550-5bd3-4e17-8775-5da8d55e91ca) with status 200
+2023-10-19 12:06:58,396 - basicLogger - INFO - Received event add_weight request with a trace id of b36d36ea-aa20-4b24-9411-530b892736d7
+2023-10-19 12:06:58,463 - basicLogger - INFO - Received event add_weight request with a trace id of 3319c4df-6617-4131-a65f-9768868536d9
+2023-10-19 12:06:58,663 - basicLogger - INFO - Received event add_weight request with a trace id of 1a9f5743-4ad3-4b6d-a29c-503a65841ef9
+2023-10-19 12:06:58,864 - basicLogger - INFO - Received event add_weight request with a trace id of 54255b8b-1977-4e37-85f8-b7cc72bc1cc9
+2023-10-19 12:06:59,065 - basicLogger - INFO - Received event add_weight request with a trace id of 4d8ab24f-d33a-41b9-ac59-c961006c5a86
+2023-10-19 12:07:00,450 - basicLogger - INFO - Returned event add_weight response (Id: b36d36ea-aa20-4b24-9411-530b892736d7) with status 200
+2023-10-19 12:07:00,458 - basicLogger - INFO - Received event add_macros request with a trace id of 368725f6-2aeb-48b3-89ca-085fa55b2fe3
+2023-10-19 12:07:00,492 - basicLogger - INFO - Returned event add_weight response (Id: 3319c4df-6617-4131-a65f-9768868536d9) with status 200
+2023-10-19 12:07:00,501 - basicLogger - INFO - Received event add_macros request with a trace id of 16d67a31-506b-4a37-afdf-484ef100c803
+2023-10-19 12:07:00,712 - basicLogger - INFO - Returned event add_weight response (Id: 1a9f5743-4ad3-4b6d-a29c-503a65841ef9) with status 200
+2023-10-19 12:07:00,719 - basicLogger - INFO - Received event add_macros request with a trace id of 59c47b1f-f736-497b-b157-2433ffaa8e76
+2023-10-19 12:07:00,913 - basicLogger - INFO - Returned event add_weight response (Id: 54255b8b-1977-4e37-85f8-b7cc72bc1cc9) with status 200
+2023-10-19 12:07:00,920 - basicLogger - INFO - Received event add_macros request with a trace id of 4997a0bf-1bd7-46ff-8b8c-1c4be94fb51d
+2023-10-19 12:07:01,100 - basicLogger - INFO - Returned event add_weight response (Id: 4d8ab24f-d33a-41b9-ac59-c961006c5a86) with status 200
+2023-10-19 12:07:01,107 - basicLogger - INFO - Received event add_macros request with a trace id of 2a8910bc-c870-4548-8d75-578d94005711
+2023-10-19 12:07:02,510 - basicLogger - INFO - Returned event add_macros response (Id: 368725f6-2aeb-48b3-89ca-085fa55b2fe3) with status 200
+2023-10-19 12:07:02,516 - basicLogger - INFO - Received event add_weight request with a trace id of cf9cd825-9f0e-4ec5-8140-8f08b2eeb9ea
+2023-10-19 12:07:02,554 - basicLogger - INFO - Returned event add_macros response (Id: 16d67a31-506b-4a37-afdf-484ef100c803) with status 200
+2023-10-19 12:07:02,562 - basicLogger - INFO - Received event add_weight request with a trace id of a4e73abb-eab4-4313-9231-45d2e20c0fe2
+2023-10-19 12:07:02,774 - basicLogger - INFO - Returned event add_macros response (Id: 59c47b1f-f736-497b-b157-2433ffaa8e76) with status 200
+2023-10-19 12:07:02,780 - basicLogger - INFO - Received event add_weight request with a trace id of 842662bd-5edf-4864-9dc3-71c10e02d2f3
+2023-10-19 12:07:02,977 - basicLogger - INFO - Returned event add_macros response (Id: 4997a0bf-1bd7-46ff-8b8c-1c4be94fb51d) with status 200
+2023-10-19 12:07:02,983 - basicLogger - INFO - Received event add_weight request with a trace id of fffac244-05c8-4175-98b0-1ffa59622165
+2023-10-19 12:07:03,150 - basicLogger - INFO - Returned event add_macros response (Id: 2a8910bc-c870-4548-8d75-578d94005711) with status 200
+2023-10-19 12:07:03,157 - basicLogger - INFO - Received event add_weight request with a trace id of d0acda29-dddf-4e16-9df1-f73551b86328
+2023-10-19 12:07:04,550 - basicLogger - INFO - Returned event add_weight response (Id: cf9cd825-9f0e-4ec5-8140-8f08b2eeb9ea) with status 200
+2023-10-19 12:07:04,557 - basicLogger - INFO - Received event add_macros request with a trace id of 87a435f0-6946-4cc8-b071-7240a453fb56
+2023-10-19 12:07:04,596 - basicLogger - INFO - Returned event add_weight response (Id: a4e73abb-eab4-4313-9231-45d2e20c0fe2) with status 200
+2023-10-19 12:07:04,604 - basicLogger - INFO - Received event add_macros request with a trace id of b824224a-60d5-4edc-8aa5-7b9e6040eb39
+2023-10-19 12:07:04,818 - basicLogger - INFO - Returned event add_weight response (Id: 842662bd-5edf-4864-9dc3-71c10e02d2f3) with status 200
+2023-10-19 12:07:04,825 - basicLogger - INFO - Received event add_macros request with a trace id of b5050247-1074-48ce-9135-2763a16e3249
+2023-10-19 12:07:05,018 - basicLogger - INFO - Returned event add_weight response (Id: fffac244-05c8-4175-98b0-1ffa59622165) with status 200
+2023-10-19 12:07:05,024 - basicLogger - INFO - Received event add_macros request with a trace id of 61052b4b-0c90-411d-b5fd-f5824dece30c
+2023-10-19 12:07:05,206 - basicLogger - INFO - Returned event add_weight response (Id: d0acda29-dddf-4e16-9df1-f73551b86328) with status 200
+2023-10-19 12:07:05,214 - basicLogger - INFO - Received event add_macros request with a trace id of 3f1cd877-d38b-4a55-a029-e61a0d4b552c
+2023-10-19 12:07:06,591 - basicLogger - INFO - Returned event add_macros response (Id: 87a435f0-6946-4cc8-b071-7240a453fb56) with status 200
+2023-10-19 12:07:06,597 - basicLogger - INFO - Received event add_weight request with a trace id of 0af0faa2-f135-4f8a-b0a5-135753e084ef
+2023-10-19 12:07:06,638 - basicLogger - INFO - Returned event add_macros response (Id: b824224a-60d5-4edc-8aa5-7b9e6040eb39) with status 200
+2023-10-19 12:07:06,646 - basicLogger - INFO - Received event add_weight request with a trace id of 889898ea-34fa-4d58-9ace-12aa888a8362
+2023-10-19 12:07:06,859 - basicLogger - INFO - Returned event add_macros response (Id: b5050247-1074-48ce-9135-2763a16e3249) with status 200
+2023-10-19 12:07:06,866 - basicLogger - INFO - Received event add_weight request with a trace id of 73a3656b-4ecb-4cb7-85ce-3738bd814b02
+2023-10-19 12:07:07,063 - basicLogger - INFO - Returned event add_macros response (Id: 61052b4b-0c90-411d-b5fd-f5824dece30c) with status 200
+2023-10-19 12:07:07,069 - basicLogger - INFO - Received event add_weight request with a trace id of 32826dbf-10e8-44f4-9a5a-6ce64f06940c
+2023-10-19 12:07:07,263 - basicLogger - INFO - Returned event add_macros response (Id: 3f1cd877-d38b-4a55-a029-e61a0d4b552c) with status 200
+2023-10-19 12:07:07,269 - basicLogger - INFO - Received event add_weight request with a trace id of 82a7e82a-2b28-4a73-8d3f-a828a898dd75
+2023-10-19 12:07:08,652 - basicLogger - INFO - Returned event add_weight response (Id: 0af0faa2-f135-4f8a-b0a5-135753e084ef) with status 200
+2023-10-19 12:07:08,659 - basicLogger - INFO - Received event add_macros request with a trace id of 3f2314e6-b06d-4c39-84b3-f5427f80dec7
+2023-10-19 12:07:08,686 - basicLogger - INFO - Returned event add_weight response (Id: 889898ea-34fa-4d58-9ace-12aa888a8362) with status 200
+2023-10-19 12:07:08,693 - basicLogger - INFO - Received event add_macros request with a trace id of 0a6b2a57-4084-4917-ade2-ec6fc07a175c
+2023-10-19 12:07:08,931 - basicLogger - INFO - Returned event add_weight response (Id: 73a3656b-4ecb-4cb7-85ce-3738bd814b02) with status 200
+2023-10-19 12:07:08,937 - basicLogger - INFO - Received event add_macros request with a trace id of f6beca94-c4c1-4687-b92b-60a7da4a704b
+2023-10-19 12:07:09,104 - basicLogger - INFO - Returned event add_weight response (Id: 32826dbf-10e8-44f4-9a5a-6ce64f06940c) with status 200
+2023-10-19 12:07:09,110 - basicLogger - INFO - Received event add_macros request with a trace id of 8ee62e8d-f170-42db-855c-2c99f8fb38b4
+2023-10-19 12:07:09,335 - basicLogger - INFO - Returned event add_weight response (Id: 82a7e82a-2b28-4a73-8d3f-a828a898dd75) with status 200
+2023-10-19 12:07:09,340 - basicLogger - INFO - Received event add_macros request with a trace id of b2103755-e43b-4319-9b14-770272a7df36
+2023-10-19 12:07:10,719 - basicLogger - INFO - Returned event add_macros response (Id: 3f2314e6-b06d-4c39-84b3-f5427f80dec7) with status 200
+2023-10-19 12:07:10,726 - basicLogger - INFO - Received event add_weight request with a trace id of 28cf0f13-28ea-433a-8219-07bc72a0b079
+2023-10-19 12:07:10,743 - basicLogger - INFO - Returned event add_macros response (Id: 0a6b2a57-4084-4917-ade2-ec6fc07a175c) with status 200
+2023-10-19 12:07:10,751 - basicLogger - INFO - Received event add_weight request with a trace id of 66041cbd-1608-4f4e-b8ff-b919e56ad443
+2023-10-19 12:07:10,982 - basicLogger - INFO - Returned event add_macros response (Id: f6beca94-c4c1-4687-b92b-60a7da4a704b) with status 200
+2023-10-19 12:07:10,991 - basicLogger - INFO - Received event add_weight request with a trace id of f07116f5-e242-452e-ac69-40ff031a4595
+2023-10-19 12:07:11,151 - basicLogger - INFO - Returned event add_macros response (Id: 8ee62e8d-f170-42db-855c-2c99f8fb38b4) with status 200
+2023-10-19 12:07:11,157 - basicLogger - INFO - Received event add_weight request with a trace id of f69d3eae-1759-4c66-a24d-d6e67b7a9479
+2023-10-19 12:07:11,390 - basicLogger - INFO - Returned event add_macros response (Id: b2103755-e43b-4319-9b14-770272a7df36) with status 200
+2023-10-19 12:07:11,395 - basicLogger - INFO - Received event add_weight request with a trace id of c8cb3905-1b01-48f8-a886-21fd4d7e91a0
+2023-10-19 12:07:12,767 - basicLogger - INFO - Returned event add_weight response (Id: 28cf0f13-28ea-433a-8219-07bc72a0b079) with status 200
+2023-10-19 12:07:12,772 - basicLogger - INFO - Received event add_macros request with a trace id of 5491c95e-1dec-405a-867d-808bafbf967e
+2023-10-19 12:07:12,800 - basicLogger - INFO - Returned event add_weight response (Id: 66041cbd-1608-4f4e-b8ff-b919e56ad443) with status 200
+2023-10-19 12:07:12,807 - basicLogger - INFO - Received event add_macros request with a trace id of af23c501-c542-4271-9e91-7559e81fd7f8
+2023-10-19 12:07:13,048 - basicLogger - INFO - Returned event add_weight response (Id: f07116f5-e242-452e-ac69-40ff031a4595) with status 200
+2023-10-19 12:07:13,053 - basicLogger - INFO - Received event add_macros request with a trace id of eda2dfcd-1a36-41cb-a926-73e3f3eedd95
+2023-10-19 12:07:13,205 - basicLogger - INFO - Returned event add_weight response (Id: f69d3eae-1759-4c66-a24d-d6e67b7a9479) with status 200
+2023-10-19 12:07:13,210 - basicLogger - INFO - Received event add_macros request with a trace id of 5f6e7016-ae48-44aa-b688-0c540774d44e
+2023-10-19 12:07:13,428 - basicLogger - INFO - Returned event add_weight response (Id: c8cb3905-1b01-48f8-a886-21fd4d7e91a0) with status 200
+2023-10-19 12:07:13,433 - basicLogger - INFO - Received event add_macros request with a trace id of 601bea1a-ffd5-434c-813d-b0092b439bfa
+2023-10-19 12:07:14,838 - basicLogger - INFO - Returned event add_macros response (Id: 5491c95e-1dec-405a-867d-808bafbf967e) with status 200
+2023-10-19 12:07:14,845 - basicLogger - INFO - Received event add_weight request with a trace id of 222a6a74-d1ff-4b88-9256-35ac8c95be32
+2023-10-19 12:07:14,868 - basicLogger - INFO - Returned event add_macros response (Id: af23c501-c542-4271-9e91-7559e81fd7f8) with status 200
+2023-10-19 12:07:14,874 - basicLogger - INFO - Received event add_weight request with a trace id of fee15eaf-73c8-4ed0-9985-1fda4351f63b
+2023-10-19 12:07:15,221 - basicLogger - INFO - Returned event add_macros response (Id: eda2dfcd-1a36-41cb-a926-73e3f3eedd95) with status 200
+2023-10-19 12:07:15,227 - basicLogger - INFO - Received event add_weight request with a trace id of 81d46443-a5b6-4eaa-886f-602b614819c8
+2023-10-19 12:07:15,257 - basicLogger - INFO - Returned event add_macros response (Id: 5f6e7016-ae48-44aa-b688-0c540774d44e) with status 200
+2023-10-19 12:07:15,264 - basicLogger - INFO - Received event add_weight request with a trace id of 1a6d1891-fae7-451e-a18c-71de5f5d8ad4
+2023-10-19 12:07:15,478 - basicLogger - INFO - Returned event add_macros response (Id: 601bea1a-ffd5-434c-813d-b0092b439bfa) with status 200
+2023-10-19 12:07:15,486 - basicLogger - INFO - Received event add_weight request with a trace id of 8da99a86-c84d-42d6-82ea-0fa9bca35169
+2023-10-19 12:07:16,900 - basicLogger - INFO - Returned event add_weight response (Id: 222a6a74-d1ff-4b88-9256-35ac8c95be32) with status 200
+2023-10-19 12:07:16,908 - basicLogger - INFO - Received event add_macros request with a trace id of db072edf-8c26-407d-89d1-8ad3c4507248
+2023-10-19 12:07:16,928 - basicLogger - INFO - Returned event add_weight response (Id: fee15eaf-73c8-4ed0-9985-1fda4351f63b) with status 200
+2023-10-19 12:07:16,935 - basicLogger - INFO - Received event add_macros request with a trace id of d6a57708-863b-4d77-a470-7974941b8c02
+2023-10-19 12:07:17,259 - basicLogger - INFO - Returned event add_weight response (Id: 81d46443-a5b6-4eaa-886f-602b614819c8) with status 200
+2023-10-19 12:07:17,267 - basicLogger - INFO - Received event add_macros request with a trace id of d049f41b-a4c4-4004-b5c3-31b73c5cc2fa
+2023-10-19 12:07:17,335 - basicLogger - INFO - Returned event add_weight response (Id: 1a6d1891-fae7-451e-a18c-71de5f5d8ad4) with status 200
+2023-10-19 12:07:17,340 - basicLogger - INFO - Received event add_macros request with a trace id of 99996b83-4fa8-4e29-a9cb-53c3f4226127
+2023-10-19 12:07:17,553 - basicLogger - INFO - Returned event add_weight response (Id: 8da99a86-c84d-42d6-82ea-0fa9bca35169) with status 200
+2023-10-19 12:07:17,561 - basicLogger - INFO - Received event add_macros request with a trace id of 0e768f72-c4b9-4cfb-a8a7-787ead866b47
+2023-10-19 12:07:18,957 - basicLogger - INFO - Returned event add_macros response (Id: db072edf-8c26-407d-89d1-8ad3c4507248) with status 200
+2023-10-19 12:07:18,962 - basicLogger - INFO - Received event add_weight request with a trace id of 5279f91e-c075-4eaa-b0d2-e99e078102c5
+2023-10-19 12:07:18,987 - basicLogger - INFO - Returned event add_macros response (Id: d6a57708-863b-4d77-a470-7974941b8c02) with status 200
+2023-10-19 12:07:18,995 - basicLogger - INFO - Received event add_weight request with a trace id of bbd99ffb-d80b-49f2-9f5d-e27d60aa53be
+2023-10-19 12:07:19,319 - basicLogger - INFO - Returned event add_macros response (Id: d049f41b-a4c4-4004-b5c3-31b73c5cc2fa) with status 200
+2023-10-19 12:07:19,326 - basicLogger - INFO - Received event add_weight request with a trace id of 11b2519e-bb8f-4cc9-a3df-b64fdcc8f85b
+2023-10-19 12:07:19,408 - basicLogger - INFO - Returned event add_macros response (Id: 99996b83-4fa8-4e29-a9cb-53c3f4226127) with status 200
+2023-10-19 12:07:19,414 - basicLogger - INFO - Received event add_weight request with a trace id of 86ca91a0-5704-45d2-a13a-959f939c39e1
+2023-10-19 12:07:19,613 - basicLogger - INFO - Returned event add_macros response (Id: 0e768f72-c4b9-4cfb-a8a7-787ead866b47) with status 200
+2023-10-19 12:07:19,621 - basicLogger - INFO - Received event add_weight request with a trace id of 728cd94a-c820-46af-9a4a-212beb7332b3
+2023-10-19 12:07:21,003 - basicLogger - INFO - Returned event add_weight response (Id: 5279f91e-c075-4eaa-b0d2-e99e078102c5) with status 200
+2023-10-19 12:07:21,010 - basicLogger - INFO - Received event add_macros request with a trace id of cddb8522-a4c4-4c54-8c45-aff1bda00dbc
+2023-10-19 12:07:21,029 - basicLogger - INFO - Returned event add_weight response (Id: bbd99ffb-d80b-49f2-9f5d-e27d60aa53be) with status 200
+2023-10-19 12:07:21,037 - basicLogger - INFO - Received event add_macros request with a trace id of f01ecc79-bdb0-4dd7-815d-40bd8d9d874c
+2023-10-19 12:07:21,370 - basicLogger - INFO - Returned event add_weight response (Id: 11b2519e-bb8f-4cc9-a3df-b64fdcc8f85b) with status 200
+2023-10-19 12:07:21,377 - basicLogger - INFO - Received event add_macros request with a trace id of a9d9d34d-37d4-4740-9898-298c3670c486
+2023-10-19 12:07:21,465 - basicLogger - INFO - Returned event add_weight response (Id: 86ca91a0-5704-45d2-a13a-959f939c39e1) with status 200
+2023-10-19 12:07:21,471 - basicLogger - INFO - Received event add_macros request with a trace id of 9f6daea5-d722-4fe6-a0c0-aab38e67ecfa
+2023-10-19 12:07:21,670 - basicLogger - INFO - Returned event add_weight response (Id: 728cd94a-c820-46af-9a4a-212beb7332b3) with status 200
+2023-10-19 12:07:21,676 - basicLogger - INFO - Received event add_macros request with a trace id of b8d0e63c-7865-4610-941e-e1393396c973
+2023-10-19 12:07:23,045 - basicLogger - INFO - Returned event add_macros response (Id: cddb8522-a4c4-4c54-8c45-aff1bda00dbc) with status 200
+2023-10-19 12:07:23,052 - basicLogger - INFO - Received event add_weight request with a trace id of 7c02bd7d-4021-435b-8946-3e06b62396c2
+2023-10-19 12:07:23,078 - basicLogger - INFO - Returned event add_macros response (Id: f01ecc79-bdb0-4dd7-815d-40bd8d9d874c) with status 200
+2023-10-19 12:07:23,087 - basicLogger - INFO - Received event add_weight request with a trace id of 73bed142-2350-4ccb-b218-cec6ae0d1a53
+2023-10-19 12:07:23,435 - basicLogger - INFO - Returned event add_macros response (Id: a9d9d34d-37d4-4740-9898-298c3670c486) with status 200
+2023-10-19 12:07:23,443 - basicLogger - INFO - Received event add_weight request with a trace id of 365bb02a-e897-45ae-9aca-2e224273adb8
+2023-10-19 12:07:23,526 - basicLogger - INFO - Returned event add_macros response (Id: 9f6daea5-d722-4fe6-a0c0-aab38e67ecfa) with status 200
+2023-10-19 12:07:23,533 - basicLogger - INFO - Received event add_weight request with a trace id of f328e8a5-5ca6-420b-b69c-a191678538f6
+2023-10-19 12:07:23,732 - basicLogger - INFO - Returned event add_macros response (Id: b8d0e63c-7865-4610-941e-e1393396c973) with status 200
+2023-10-19 12:07:23,740 - basicLogger - INFO - Received event add_weight request with a trace id of 88273466-713d-4fc6-a060-6ba0ede695bb
+2023-10-19 12:07:25,102 - basicLogger - INFO - Returned event add_weight response (Id: 7c02bd7d-4021-435b-8946-3e06b62396c2) with status 200
+2023-10-19 12:07:25,109 - basicLogger - INFO - Received event add_macros request with a trace id of bbab1f05-7781-4f47-9e82-b5f66e272961
+2023-10-19 12:07:25,147 - basicLogger - INFO - Returned event add_weight response (Id: 73bed142-2350-4ccb-b218-cec6ae0d1a53) with status 200
+2023-10-19 12:07:25,154 - basicLogger - INFO - Received event add_macros request with a trace id of e28de392-31e6-4819-83de-9990e0a1a183
+2023-10-19 12:07:25,506 - basicLogger - INFO - Returned event add_weight response (Id: 365bb02a-e897-45ae-9aca-2e224273adb8) with status 200
+2023-10-19 12:07:25,512 - basicLogger - INFO - Received event add_macros request with a trace id of f4ba791d-749d-44db-939d-2c1b84ccb066
+2023-10-19 12:07:25,581 - basicLogger - INFO - Returned event add_weight response (Id: f328e8a5-5ca6-420b-b69c-a191678538f6) with status 200
+2023-10-19 12:07:25,589 - basicLogger - INFO - Received event add_macros request with a trace id of 83063bfd-9e83-4ba1-abd5-a9f28286fe03
+2023-10-19 12:07:25,798 - basicLogger - INFO - Returned event add_weight response (Id: 88273466-713d-4fc6-a060-6ba0ede695bb) with status 200
+2023-10-19 12:07:25,805 - basicLogger - INFO - Received event add_macros request with a trace id of 69e2c0d5-177e-4f6d-8f51-fa8588b81307
+2023-10-19 12:07:27,167 - basicLogger - INFO - Returned event add_macros response (Id: bbab1f05-7781-4f47-9e82-b5f66e272961) with status 200
+2023-10-19 12:07:27,174 - basicLogger - INFO - Received event add_weight request with a trace id of 3c737d62-7146-4e9d-979f-588e42fb93e2
+2023-10-19 12:07:27,214 - basicLogger - INFO - Returned event add_macros response (Id: e28de392-31e6-4819-83de-9990e0a1a183) with status 200
+2023-10-19 12:07:27,221 - basicLogger - INFO - Received event add_weight request with a trace id of d649aa89-483c-4876-bffe-a07f90f4a097
+2023-10-19 12:07:27,558 - basicLogger - INFO - Returned event add_macros response (Id: f4ba791d-749d-44db-939d-2c1b84ccb066) with status 200
+2023-10-19 12:07:27,564 - basicLogger - INFO - Received event add_weight request with a trace id of 07712749-0f27-4350-bcf6-e82ad3beb403
+2023-10-19 12:07:27,636 - basicLogger - INFO - Returned event add_macros response (Id: 83063bfd-9e83-4ba1-abd5-a9f28286fe03) with status 200
+2023-10-19 12:07:27,641 - basicLogger - INFO - Received event add_weight request with a trace id of 5d6f3b74-226b-4ebb-9ba8-8f8613238a4a
+2023-10-19 12:07:27,859 - basicLogger - INFO - Returned event add_macros response (Id: 69e2c0d5-177e-4f6d-8f51-fa8588b81307) with status 200
+2023-10-19 12:07:27,867 - basicLogger - INFO - Received event add_weight request with a trace id of 01509928-eddb-49f0-b5dc-131155360b20
+2023-10-19 12:07:29,232 - basicLogger - INFO - Returned event add_weight response (Id: 3c737d62-7146-4e9d-979f-588e42fb93e2) with status 200
+2023-10-19 12:07:29,239 - basicLogger - INFO - Received event add_macros request with a trace id of cd98fdb6-0c53-491a-be50-00b6db349d20
+2023-10-19 12:07:29,261 - basicLogger - INFO - Returned event add_weight response (Id: d649aa89-483c-4876-bffe-a07f90f4a097) with status 200
+2023-10-19 12:07:29,268 - basicLogger - INFO - Received event add_macros request with a trace id of 0a89392f-0b68-43b2-9ad8-2ce62c3765ea
+2023-10-19 12:07:29,621 - basicLogger - INFO - Returned event add_weight response (Id: 07712749-0f27-4350-bcf6-e82ad3beb403) with status 200
+2023-10-19 12:07:29,628 - basicLogger - INFO - Received event add_macros request with a trace id of eda7230e-1c98-4fbb-a45b-ce8ad56c9bde
+2023-10-19 12:07:29,698 - basicLogger - INFO - Returned event add_weight response (Id: 5d6f3b74-226b-4ebb-9ba8-8f8613238a4a) with status 200
+2023-10-19 12:07:29,704 - basicLogger - INFO - Received event add_macros request with a trace id of 60346b0d-7f01-485e-befa-4054785f210b
+2023-10-19 12:07:29,930 - basicLogger - INFO - Returned event add_weight response (Id: 01509928-eddb-49f0-b5dc-131155360b20) with status 200
+2023-10-19 12:07:29,937 - basicLogger - INFO - Received event add_macros request with a trace id of ecf79611-e438-481b-b008-4585b3abd51b
+2023-10-19 12:07:31,304 - basicLogger - INFO - Returned event add_macros response (Id: cd98fdb6-0c53-491a-be50-00b6db349d20) with status 200
+2023-10-19 12:07:31,309 - basicLogger - INFO - Received event add_weight request with a trace id of 07110c60-bd1c-420a-b252-2b0e2dc315ee
+2023-10-19 12:07:31,336 - basicLogger - INFO - Returned event add_macros response (Id: 0a89392f-0b68-43b2-9ad8-2ce62c3765ea) with status 200
+2023-10-19 12:07:31,345 - basicLogger - INFO - Received event add_weight request with a trace id of ef0ed570-cf61-4056-a52b-2158be56eae2
+2023-10-19 12:07:31,693 - basicLogger - INFO - Returned event add_macros response (Id: eda7230e-1c98-4fbb-a45b-ce8ad56c9bde) with status 200
+2023-10-19 12:07:31,699 - basicLogger - INFO - Received event add_weight request with a trace id of 0707ea13-a772-4b98-8e1b-d0e345c4bb37
+2023-10-19 12:07:31,769 - basicLogger - INFO - Returned event add_macros response (Id: 60346b0d-7f01-485e-befa-4054785f210b) with status 200
+2023-10-19 12:07:31,774 - basicLogger - INFO - Received event add_weight request with a trace id of 88d4d764-a16d-4f1e-98bb-c47563c6ee3e
+2023-10-19 12:07:32,006 - basicLogger - INFO - Returned event add_macros response (Id: ecf79611-e438-481b-b008-4585b3abd51b) with status 200
+2023-10-19 12:07:32,012 - basicLogger - INFO - Received event add_weight request with a trace id of 4246059d-9518-47b6-884d-6bc28e5a2391
+2023-10-19 12:07:33,372 - basicLogger - INFO - Returned event add_weight response (Id: 07110c60-bd1c-420a-b252-2b0e2dc315ee) with status 200
+2023-10-19 12:07:33,379 - basicLogger - INFO - Received event add_macros request with a trace id of ddc5b026-f214-4021-9acb-f6a86065d828
+2023-10-19 12:07:33,403 - basicLogger - INFO - Returned event add_weight response (Id: ef0ed570-cf61-4056-a52b-2158be56eae2) with status 200
+2023-10-19 12:07:33,412 - basicLogger - INFO - Received event add_macros request with a trace id of 60ba3473-4676-4fc9-aacf-0a7c2d1b553e
+2023-10-19 12:07:33,762 - basicLogger - INFO - Returned event add_weight response (Id: 0707ea13-a772-4b98-8e1b-d0e345c4bb37) with status 200
+2023-10-19 12:07:33,769 - basicLogger - INFO - Received event add_macros request with a trace id of ce5e051b-f0ca-44d3-b5c1-9f9ca122940e
+2023-10-19 12:07:33,838 - basicLogger - INFO - Returned event add_weight response (Id: 88d4d764-a16d-4f1e-98bb-c47563c6ee3e) with status 200
+2023-10-19 12:07:33,843 - basicLogger - INFO - Received event add_macros request with a trace id of db2b5b10-cf43-4122-9b4f-daeec85800f6
+2023-10-19 12:07:34,076 - basicLogger - INFO - Returned event add_weight response (Id: 4246059d-9518-47b6-884d-6bc28e5a2391) with status 200
+2023-10-19 12:07:34,082 - basicLogger - INFO - Received event add_macros request with a trace id of fae54b08-68d8-4ab3-99ff-1413a70d0d14
+2023-10-19 12:07:35,412 - basicLogger - INFO - Returned event add_macros response (Id: ddc5b026-f214-4021-9acb-f6a86065d828) with status 200
+2023-10-19 12:07:35,418 - basicLogger - INFO - Received event add_weight request with a trace id of 4920eff6-a54b-4a1a-ae8c-de8ca1b3aaad
+2023-10-19 12:07:35,460 - basicLogger - INFO - Returned event add_macros response (Id: 60ba3473-4676-4fc9-aacf-0a7c2d1b553e) with status 200
+2023-10-19 12:07:35,468 - basicLogger - INFO - Received event add_weight request with a trace id of fc5924e4-c7a1-4f7a-9b4b-d67d756225fa
+2023-10-19 12:07:35,817 - basicLogger - INFO - Returned event add_macros response (Id: ce5e051b-f0ca-44d3-b5c1-9f9ca122940e) with status 200
+2023-10-19 12:07:35,822 - basicLogger - INFO - Received event add_weight request with a trace id of f16416c4-560b-4cb7-aa55-aa1a75161812
+2023-10-19 12:07:35,881 - basicLogger - INFO - Returned event add_macros response (Id: db2b5b10-cf43-4122-9b4f-daeec85800f6) with status 200
+2023-10-19 12:07:35,887 - basicLogger - INFO - Received event add_weight request with a trace id of aeb2a3e8-670e-4a38-b4e6-adfb5e8c4c1b
+2023-10-19 12:07:36,146 - basicLogger - INFO - Returned event add_macros response (Id: fae54b08-68d8-4ab3-99ff-1413a70d0d14) with status 200
+2023-10-19 12:07:36,153 - basicLogger - INFO - Received event add_weight request with a trace id of f48bd462-c904-41a4-ac83-fece2399c19b
+2023-10-19 12:07:37,489 - basicLogger - INFO - Returned event add_weight response (Id: 4920eff6-a54b-4a1a-ae8c-de8ca1b3aaad) with status 200
+2023-10-19 12:07:37,495 - basicLogger - INFO - Received event add_macros request with a trace id of 544af10c-95c4-4243-bf31-fe6b618d9a56
+2023-10-19 12:07:37,533 - basicLogger - INFO - Returned event add_weight response (Id: fc5924e4-c7a1-4f7a-9b4b-d67d756225fa) with status 200
+2023-10-19 12:07:37,540 - basicLogger - INFO - Received event add_macros request with a trace id of 1eb2d077-9472-4883-aca6-016ca480dc40
+2023-10-19 12:07:37,875 - basicLogger - INFO - Returned event add_weight response (Id: f16416c4-560b-4cb7-aa55-aa1a75161812) with status 200
+2023-10-19 12:07:37,882 - basicLogger - INFO - Received event add_macros request with a trace id of 31142545-f526-4765-a872-3b4ce4180c97
+2023-10-19 12:07:37,938 - basicLogger - INFO - Returned event add_weight response (Id: aeb2a3e8-670e-4a38-b4e6-adfb5e8c4c1b) with status 200
+2023-10-19 12:07:37,945 - basicLogger - INFO - Received event add_macros request with a trace id of ecd3c528-c4f7-4897-967c-26b84afd67df
+2023-10-19 12:07:38,202 - basicLogger - INFO - Returned event add_weight response (Id: f48bd462-c904-41a4-ac83-fece2399c19b) with status 200
+2023-10-19 12:07:38,208 - basicLogger - INFO - Received event add_macros request with a trace id of 7ca64ad7-2da5-4c76-bd14-d31802568d28
+2023-10-19 12:07:39,544 - basicLogger - INFO - Returned event add_macros response (Id: 544af10c-95c4-4243-bf31-fe6b618d9a56) with status 200
+2023-10-19 12:07:39,604 - basicLogger - INFO - Returned event add_macros response (Id: 1eb2d077-9472-4883-aca6-016ca480dc40) with status 200
+2023-10-19 12:07:39,919 - basicLogger - INFO - Returned event add_macros response (Id: 31142545-f526-4765-a872-3b4ce4180c97) with status 200
+2023-10-19 12:07:39,981 - basicLogger - INFO - Returned event add_macros response (Id: ecd3c528-c4f7-4897-967c-26b84afd67df) with status 200
+2023-10-19 12:07:40,260 - basicLogger - INFO - Returned event add_macros response (Id: 7ca64ad7-2da5-4c76-bd14-d31802568d28) with status 200
+2023-10-23 18:06:50,962 - basicLogger - INFO - Received event add_weight request with a trace id of 4615f778-51ae-458a-a809-c63e3ae4dae2
+2023-10-23 18:06:53,004 - basicLogger - INFO - Returned event add_weight response (Id: 4615f778-51ae-458a-a809-c63e3ae4dae2) with status 405
+2023-10-23 18:06:57,392 - basicLogger - INFO - Received event add_macros request with a trace id of 30cc6db8-fff0-4f17-83dc-c99d157e6ed6
+2023-10-23 18:06:59,426 - basicLogger - INFO - Returned event add_macros response (Id: 30cc6db8-fff0-4f17-83dc-c99d157e6ed6) with status 405
+2023-10-23 18:09:53,726 - basicLogger - INFO - Received event add_macros request with a trace id of d6190c9f-66a0-439b-9fdc-3626ce181dc2
+2023-10-23 18:09:55,768 - basicLogger - INFO - Returned event add_macros response (Id: d6190c9f-66a0-439b-9fdc-3626ce181dc2) with status 405
+2023-10-23 18:24:07,041 - basicLogger - INFO - Received event add_macros request with a trace id of c8f31df2-006c-42b9-8b4a-4b46c9e9343b
+2023-10-23 18:24:41,534 - basicLogger - INFO - Received event add_weight request with a trace id of afe97052-81f5-4f5d-86dc-c098913f186d
+2023-10-23 18:31:44,437 - basicLogger - INFO - Received event add_weight request with a trace id of 734e5a5c-ac28-41ef-ad41-2cf75a81919a
+2023-10-23 18:35:13,650 - basicLogger - INFO - Received event add_weight request with a trace id of c707f320-973a-4987-bfce-1e470b71581f
+2023-10-23 18:37:30,130 - basicLogger - INFO - Received event add_weight request with a trace id of 2bb9d7a8-90d1-4df2-a768-d5e6c5611c09
+2023-10-24 19:42:37,101 - basicLogger - INFO - Received event add_weight request with a trace id of ea2203f8-58df-4097-a698-29a6c68fd6b6
+2023-10-24 19:43:42,447 - basicLogger - INFO - Received event add_weight request with a trace id of 43ccc427-a9a9-4343-81aa-af4b57fde8f7
+2023-10-24 19:50:59,426 - basicLogger - INFO - Received event add_weight request with a trace id of b3ac5b34-4b1a-4c03-8b43-3d2bf647a20d
+2023-10-24 20:04:47,923 - basicLogger - INFO - Received event add_weight request with a trace id of 877ef4e4-be58-4611-a71e-43192772d656
+2023-10-24 20:05:36,795 - basicLogger - INFO - Received event add_macros request with a trace id of 4ecfcb78-1574-40b5-88ca-764bf7ffdaee
+2023-10-24 20:07:21,284 - basicLogger - INFO - Received event add_macros request with a trace id of 5a6a85fc-bb24-4896-9788-4820e3a34f52
+2023-10-24 20:08:21,928 - basicLogger - INFO - Received event add_macros request with a trace id of 6ce4d6b9-a067-434b-93c5-0cc7edf459a6
+2023-10-24 20:18:58,956 - basicLogger - INFO - Received event add_macros request with a trace id of 49c2e8be-3e38-478e-987a-656b353dd5de
+2023-10-24 20:19:04,568 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 49c2e8be-3e38-478e-987a-656b353dd5de)
+2023-10-24 20:19:08,619 - basicLogger - INFO - Received event add_weight request with a trace id of 02fe3ebc-3744-48d7-8129-288c2b69a3f4
+2023-10-24 20:19:14,195 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 02fe3ebc-3744-48d7-8129-288c2b69a3f4)
+2023-10-24 20:22:01,882 - basicLogger - INFO - Received event add_weight request with a trace id of fcc88288-978d-468a-a877-94d81bb6a34f
+2023-10-24 20:22:08,065 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: fcc88288-978d-468a-a877-94d81bb6a34f)
+2023-10-24 20:22:21,104 - basicLogger - INFO - Received event add_macros request with a trace id of 1fb7684b-417a-4993-af64-184aa7fbca4a
+2023-10-24 20:22:27,047 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1fb7684b-417a-4993-af64-184aa7fbca4a)
+2023-10-24 21:07:45,132 - basicLogger - INFO - Received event add_weight request with a trace id of 08483171-8fc4-4e18-8314-143686c0fb9d
+2023-10-24 21:07:51,705 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 08483171-8fc4-4e18-8314-143686c0fb9d)
+2023-10-24 21:08:37,473 - basicLogger - INFO - Received event add_weight request with a trace id of f268f52d-0dd9-4e4a-ad0e-ecc934ed4c95
+2023-10-24 21:08:42,957 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f268f52d-0dd9-4e4a-ad0e-ecc934ed4c95)
+2023-10-24 21:12:35,030 - basicLogger - INFO - Received event add_weight request with a trace id of 7fcda72b-291f-4bf3-bfd2-39a4c18488b2
+2023-10-24 21:12:40,730 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 7fcda72b-291f-4bf3-bfd2-39a4c18488b2)
+2023-10-29 13:50:47,785 - basicLogger - INFO - Received event add_macros request with a trace id of 552a686c-58fb-47cd-bbeb-b4ec22732d72
+2023-10-29 14:08:21,049 - basicLogger - INFO - Received event add_weight request with a trace id of 265cc569-3d2f-4aac-83d5-ed069d6c6892
+2023-10-29 14:16:42,215 - basicLogger - INFO - Received event add_weight request with a trace id of e9193aa2-40a8-4637-ade9-30a5bfc2caf0
+2023-10-29 14:24:35,816 - basicLogger - INFO - Received event add_weight request with a trace id of 7a4a8e95-2d41-4efa-93fe-ab54dd2a910c
+2023-10-29 14:33:52,868 - basicLogger - INFO - Received event add_weight request with a trace id of f800f71f-758c-492b-9cce-381eb7b37d95
+2023-10-29 14:36:39,569 - basicLogger - INFO - Received event add_weight request with a trace id of a7e8e597-a385-40fe-965e-2bab5488ba4c
+2023-10-29 14:36:45,188 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a7e8e597-a385-40fe-965e-2bab5488ba4c)
+2023-10-29 14:36:55,883 - basicLogger - INFO - Received event add_weight request with a trace id of 4206b48c-9bca-43df-8a98-93a4ac94f1e8
+2023-10-29 14:37:01,393 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 4206b48c-9bca-43df-8a98-93a4ac94f1e8)
+2023-10-30 18:22:57,200 - basicLogger - INFO - Received event add_weight request with a trace id of f95accfa-d1eb-48ab-94e9-420b048da1af
+2023-10-30 18:24:59,172 - basicLogger - INFO - Received event add_weight request with a trace id of 754e0ad9-328b-40c7-9b2c-bea48ddba593
+2023-10-30 18:25:04,739 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 754e0ad9-328b-40c7-9b2c-bea48ddba593)
+2023-10-30 18:51:25,688 - basicLogger - INFO - Received event add_weight request with a trace id of d01dc34b-d6f5-48b2-8788-04f0f20fe63d
+2023-10-30 18:51:31,176 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: d01dc34b-d6f5-48b2-8788-04f0f20fe63d)
+2023-10-30 18:57:35,686 - basicLogger - INFO - Received event add_macros request with a trace id of bdf9cc4c-8d8d-4a50-a40b-f850e81d85ab
+2023-10-30 18:57:41,168 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: bdf9cc4c-8d8d-4a50-a40b-f850e81d85ab)
+2023-10-30 18:57:58,706 - basicLogger - INFO - Received event add_macros request with a trace id of b9399c30-3652-42f0-8bd9-a0de4f412bdc
+2023-10-30 18:58:04,203 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b9399c30-3652-42f0-8bd9-a0de4f412bdc)
+2023-10-30 19:01:34,705 - basicLogger - INFO - Received event add_weight request with a trace id of 7afb8835-e554-4ab6-b894-88dfb5e4cd8e
+2023-10-30 19:01:34,791 - basicLogger - INFO - Received event add_weight request with a trace id of bb400a1f-a076-4acb-b7da-cc0b1aa5e89d
+2023-10-30 19:01:34,989 - basicLogger - INFO - Received event add_weight request with a trace id of 9219fb1a-59f9-4931-b474-5382181e8788
+2023-10-30 19:01:35,189 - basicLogger - INFO - Received event add_weight request with a trace id of 71dbd5ac-8021-4a58-90d0-907b22b26215
+2023-10-30 19:01:35,387 - basicLogger - INFO - Received event add_weight request with a trace id of 75eb3a3c-ea96-4d0f-b645-5e2e7509259d
+2023-10-30 19:01:40,218 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 7afb8835-e554-4ab6-b894-88dfb5e4cd8e)
+2023-10-30 19:01:40,228 - basicLogger - INFO - Received event add_macros request with a trace id of 970ec104-2400-4034-805e-c007f56dcb94
+2023-10-30 19:01:40,264 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: bb400a1f-a076-4acb-b7da-cc0b1aa5e89d)
+2023-10-30 19:01:40,267 - basicLogger - INFO - Received event add_macros request with a trace id of 7cfcb57d-48d5-43b3-8122-18d7f2e4077d
+2023-10-30 19:01:40,497 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 9219fb1a-59f9-4931-b474-5382181e8788)
+2023-10-30 19:01:40,501 - basicLogger - INFO - Received event add_macros request with a trace id of f4c1e16b-57ea-4281-846d-ac61e05a80dc
+2023-10-30 19:01:41,013 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 71dbd5ac-8021-4a58-90d0-907b22b26215)
+2023-10-30 19:01:41,016 - basicLogger - INFO - Received event add_macros request with a trace id of a323e9d7-04eb-4ed3-b762-79367438750d
+2023-10-30 19:01:41,868 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 75eb3a3c-ea96-4d0f-b645-5e2e7509259d)
+2023-10-30 19:01:41,871 - basicLogger - INFO - Received event add_macros request with a trace id of c7c24b93-16c4-49ae-848d-42f600dd71e9
+2023-10-30 19:01:45,736 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 970ec104-2400-4034-805e-c007f56dcb94)
+2023-10-30 19:01:45,739 - basicLogger - INFO - Received event add_weight request with a trace id of 001e33cc-76f1-485d-a285-37fa3d116801
+2023-10-30 19:01:45,781 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 7cfcb57d-48d5-43b3-8122-18d7f2e4077d)
+2023-10-30 19:01:45,784 - basicLogger - INFO - Received event add_weight request with a trace id of 2925a322-6e40-48b0-b867-d1904f7cd526
+2023-10-30 19:01:45,994 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: f4c1e16b-57ea-4281-846d-ac61e05a80dc)
+2023-10-30 19:01:45,998 - basicLogger - INFO - Received event add_weight request with a trace id of f4423a5c-54fa-4c04-b346-545088751f9a
+2023-10-30 19:01:46,499 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a323e9d7-04eb-4ed3-b762-79367438750d)
+2023-10-30 19:01:46,502 - basicLogger - INFO - Received event add_weight request with a trace id of 81fe9a2e-8645-4877-ae4b-ee3d73fc39ed
+2023-10-30 19:01:47,355 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c7c24b93-16c4-49ae-848d-42f600dd71e9)
+2023-10-30 19:01:47,360 - basicLogger - INFO - Received event add_weight request with a trace id of d21a0141-9da7-41e9-833f-e67711b69844
+2023-10-30 19:01:51,250 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 2925a322-6e40-48b0-b867-d1904f7cd526)
+2023-10-30 19:01:51,250 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 001e33cc-76f1-485d-a285-37fa3d116801)
+2023-10-30 19:01:51,254 - basicLogger - INFO - Received event add_macros request with a trace id of 36f72b7f-80d0-4a3c-854f-2663dbcae9ee
+2023-10-30 19:01:51,255 - basicLogger - INFO - Received event add_macros request with a trace id of 72eee9bc-3c8b-449b-ab88-02d7f55e7d54
+2023-10-30 19:01:51,482 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f4423a5c-54fa-4c04-b346-545088751f9a)
+2023-10-30 19:01:51,487 - basicLogger - INFO - Received event add_macros request with a trace id of 7dadfe02-2efd-40c7-94df-ff8d3c1b67d7
+2023-10-30 19:01:52,808 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: d21a0141-9da7-41e9-833f-e67711b69844)
+2023-10-30 19:01:52,812 - basicLogger - INFO - Received event add_macros request with a trace id of ba6ff747-0e9d-4a20-8774-1d39ddd9c6a5
+2023-10-30 19:01:52,994 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 81fe9a2e-8645-4877-ae4b-ee3d73fc39ed)
+2023-10-30 19:01:52,998 - basicLogger - INFO - Received event add_macros request with a trace id of 20969d2d-f993-44af-93b8-8bca1ae412f4
+2023-10-30 19:01:56,704 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 72eee9bc-3c8b-449b-ab88-02d7f55e7d54)
+2023-10-30 19:01:56,704 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 36f72b7f-80d0-4a3c-854f-2663dbcae9ee)
+2023-10-30 19:01:56,709 - basicLogger - INFO - Received event add_weight request with a trace id of 81b5db46-aa2b-4bcb-bd9d-6e48b460b1c3
+2023-10-30 19:01:56,709 - basicLogger - INFO - Received event add_weight request with a trace id of cc7f81f9-c2c2-4795-852c-0e633ad93491
+2023-10-30 19:01:57,015 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 7dadfe02-2efd-40c7-94df-ff8d3c1b67d7)
+2023-10-30 19:01:57,019 - basicLogger - INFO - Received event add_weight request with a trace id of 277de569-f757-4f17-8960-1d7d5a23d8fa
+2023-10-30 19:01:58,291 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: ba6ff747-0e9d-4a20-8774-1d39ddd9c6a5)
+2023-10-30 19:01:58,295 - basicLogger - INFO - Received event add_weight request with a trace id of e88d2e0d-df12-4053-a630-a3c7349fa1f1
+2023-10-30 19:01:58,508 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 20969d2d-f993-44af-93b8-8bca1ae412f4)
+2023-10-30 19:01:58,512 - basicLogger - INFO - Received event add_weight request with a trace id of ab2a789f-1073-442e-9511-e6b0440dd564
+2023-10-30 19:02:02,221 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: cc7f81f9-c2c2-4795-852c-0e633ad93491)
+2023-10-30 19:02:02,221 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 81b5db46-aa2b-4bcb-bd9d-6e48b460b1c3)
+2023-10-30 19:02:02,226 - basicLogger - INFO - Received event add_macros request with a trace id of c72498f9-c0e9-411e-984b-40975e06a2b2
+2023-10-30 19:02:02,226 - basicLogger - INFO - Received event add_macros request with a trace id of ae84d308-54c7-4f95-938a-ee0901ad1ac8
+2023-10-30 19:02:02,504 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 277de569-f757-4f17-8960-1d7d5a23d8fa)
+2023-10-30 19:02:02,508 - basicLogger - INFO - Received event add_macros request with a trace id of b265fe0d-a17b-4949-bce5-3bf86294eefd
+2023-10-30 19:02:03,780 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: e88d2e0d-df12-4053-a630-a3c7349fa1f1)
+2023-10-30 19:02:03,784 - basicLogger - INFO - Received event add_macros request with a trace id of d4a93696-45c1-4943-b89d-b9dae5a721ca
+2023-10-30 19:02:03,998 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: ab2a789f-1073-442e-9511-e6b0440dd564)
+2023-10-30 19:02:04,002 - basicLogger - INFO - Received event add_macros request with a trace id of 326f8516-188b-4a8a-9129-62d4d65d0688
+2023-10-30 19:02:07,723 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c72498f9-c0e9-411e-984b-40975e06a2b2)
+2023-10-30 19:02:07,723 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: ae84d308-54c7-4f95-938a-ee0901ad1ac8)
+2023-10-30 19:02:07,727 - basicLogger - INFO - Received event add_weight request with a trace id of bce0a1e3-9542-4db7-bc37-991becfd031c
+2023-10-30 19:02:07,728 - basicLogger - INFO - Received event add_weight request with a trace id of ec3f390f-376f-4fe2-a794-90e84ef884aa
+2023-10-30 19:02:07,988 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b265fe0d-a17b-4949-bce5-3bf86294eefd)
+2023-10-30 19:02:07,992 - basicLogger - INFO - Received event add_weight request with a trace id of 71a814cb-1200-49c6-b045-c70dc2766f86
+2023-10-30 19:02:09,474 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 326f8516-188b-4a8a-9129-62d4d65d0688)
+2023-10-30 19:02:09,478 - basicLogger - INFO - Received event add_weight request with a trace id of 27c9d816-4c78-4917-b95b-0b8cb8aafb33
+2023-10-30 19:02:10,259 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: d4a93696-45c1-4943-b89d-b9dae5a721ca)
+2023-10-30 19:02:10,263 - basicLogger - INFO - Received event add_weight request with a trace id of 53e70bc6-29d6-42ea-9e03-8aedc235690a
+2023-10-30 19:02:13,221 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: bce0a1e3-9542-4db7-bc37-991becfd031c)
+2023-10-30 19:02:13,225 - basicLogger - INFO - Received event add_macros request with a trace id of fe6a4301-2858-4c43-8189-62cefda99401
+2023-10-30 19:02:13,236 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: ec3f390f-376f-4fe2-a794-90e84ef884aa)
+2023-10-30 19:02:13,239 - basicLogger - INFO - Received event add_macros request with a trace id of 6b175368-44f5-4642-8f26-6e5aefa96d74
+2023-10-30 19:02:13,499 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 71a814cb-1200-49c6-b045-c70dc2766f86)
+2023-10-30 19:02:13,502 - basicLogger - INFO - Received event add_macros request with a trace id of fac763a4-884f-49f4-9ff9-585c37b3b295
+2023-10-30 19:02:14,977 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 27c9d816-4c78-4917-b95b-0b8cb8aafb33)
+2023-10-30 19:02:14,981 - basicLogger - INFO - Received event add_macros request with a trace id of aea3411e-233d-42ac-98f8-5037b35fde7b
+2023-10-30 19:02:15,787 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 53e70bc6-29d6-42ea-9e03-8aedc235690a)
+2023-10-30 19:02:15,791 - basicLogger - INFO - Received event add_macros request with a trace id of 9128e3f8-4a38-4038-8940-5f44e55a845d
+2023-10-30 19:02:18,708 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 6b175368-44f5-4642-8f26-6e5aefa96d74)
+2023-10-30 19:02:18,708 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: fe6a4301-2858-4c43-8189-62cefda99401)
+2023-10-30 19:02:18,712 - basicLogger - INFO - Received event add_weight request with a trace id of 1ca6991d-79c8-4ab0-8809-c0a6ae4fd437
+2023-10-30 19:02:18,712 - basicLogger - INFO - Received event add_weight request with a trace id of f4fd2d70-78d7-4f08-bb4f-4c9f19f469ef
+2023-10-30 19:02:19,001 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: fac763a4-884f-49f4-9ff9-585c37b3b295)
+2023-10-30 19:02:19,006 - basicLogger - INFO - Received event add_weight request with a trace id of 5d669dd9-2593-4901-985e-a5f4ef4cc6ae
+2023-10-30 19:02:20,486 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: aea3411e-233d-42ac-98f8-5037b35fde7b)
+2023-10-30 19:02:20,490 - basicLogger - INFO - Received event add_weight request with a trace id of 92345158-2bd3-45f1-a01c-8a6ce5b12d31
+2023-10-30 19:02:21,280 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 9128e3f8-4a38-4038-8940-5f44e55a845d)
+2023-10-30 19:02:21,284 - basicLogger - INFO - Received event add_weight request with a trace id of 6b914b2d-752d-4a0a-8101-aa0488168c2a
+2023-10-30 19:02:24,235 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 1ca6991d-79c8-4ab0-8809-c0a6ae4fd437)
+2023-10-30 19:02:24,235 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f4fd2d70-78d7-4f08-bb4f-4c9f19f469ef)
+2023-10-30 19:02:24,240 - basicLogger - INFO - Received event add_macros request with a trace id of 55b1924d-1aef-4a96-bf71-140e79730a8c
+2023-10-30 19:02:24,241 - basicLogger - INFO - Received event add_macros request with a trace id of d2fe485a-7166-460d-ba57-83a6d4aeee19
+2023-10-30 19:02:24,515 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 5d669dd9-2593-4901-985e-a5f4ef4cc6ae)
+2023-10-30 19:02:24,519 - basicLogger - INFO - Received event add_macros request with a trace id of 9d56f31d-e6f6-4b2e-bf98-f5446f4495f3
+2023-10-30 19:02:25,984 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 92345158-2bd3-45f1-a01c-8a6ce5b12d31)
+2023-10-30 19:02:25,988 - basicLogger - INFO - Received event add_macros request with a trace id of 68e50f08-62fd-48be-9ab6-8a7abcaec348
+2023-10-30 19:02:26,807 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 6b914b2d-752d-4a0a-8101-aa0488168c2a)
+2023-10-30 19:02:26,811 - basicLogger - INFO - Received event add_macros request with a trace id of 703d9afa-ac82-4cc8-b40e-21670d23fe65
+2023-10-30 19:02:29,910 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: d2fe485a-7166-460d-ba57-83a6d4aeee19)
+2023-10-30 19:02:29,910 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 55b1924d-1aef-4a96-bf71-140e79730a8c)
+2023-10-30 19:02:29,914 - basicLogger - INFO - Received event add_weight request with a trace id of 12fea0bc-f978-4e5d-8d40-8ef2bb901441
+2023-10-30 19:02:29,915 - basicLogger - INFO - Received event add_weight request with a trace id of 047bda63-6027-4151-b0e4-ef6cc5ba6f6d
+2023-10-30 19:02:30,100 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 9d56f31d-e6f6-4b2e-bf98-f5446f4495f3)
+2023-10-30 19:02:30,104 - basicLogger - INFO - Received event add_weight request with a trace id of 2a3bdb09-5781-428a-ae8f-375720b3345e
+2023-10-30 19:02:31,496 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 68e50f08-62fd-48be-9ab6-8a7abcaec348)
+2023-10-30 19:02:31,500 - basicLogger - INFO - Received event add_weight request with a trace id of 3e182d4b-f391-4d69-b5c8-9c2ab658286f
+2023-10-30 19:02:32,320 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 703d9afa-ac82-4cc8-b40e-21670d23fe65)
+2023-10-30 19:02:32,324 - basicLogger - INFO - Received event add_weight request with a trace id of 55c43958-63cd-46fa-833a-bd5c941e306b
+2023-10-30 19:02:35,430 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 12fea0bc-f978-4e5d-8d40-8ef2bb901441)
+2023-10-30 19:02:35,430 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 047bda63-6027-4151-b0e4-ef6cc5ba6f6d)
+2023-10-30 19:02:35,434 - basicLogger - INFO - Received event add_macros request with a trace id of f2db5ab6-7a35-497f-8acd-d00001457b46
+2023-10-30 19:02:35,435 - basicLogger - INFO - Received event add_macros request with a trace id of 24251607-83f0-40d4-9e37-f69b7f3e0211
+2023-10-30 19:02:35,586 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 2a3bdb09-5781-428a-ae8f-375720b3345e)
+2023-10-30 19:02:35,590 - basicLogger - INFO - Received event add_macros request with a trace id of e68a97ed-8f67-4b51-9c1e-19ebf10b7d0a
+2023-10-30 19:02:37,014 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 3e182d4b-f391-4d69-b5c8-9c2ab658286f)
+2023-10-30 19:02:37,017 - basicLogger - INFO - Received event add_macros request with a trace id of a4f404d7-e21c-432c-8728-c61a4b414638
+2023-10-30 19:02:37,844 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 55c43958-63cd-46fa-833a-bd5c941e306b)
+2023-10-30 19:02:37,848 - basicLogger - INFO - Received event add_macros request with a trace id of 74e4c836-74fd-4347-83c3-a54d36784740
+2023-10-30 19:02:40,911 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 24251607-83f0-40d4-9e37-f69b7f3e0211)
+2023-10-30 19:02:40,911 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: f2db5ab6-7a35-497f-8acd-d00001457b46)
+2023-10-30 19:02:40,916 - basicLogger - INFO - Received event add_weight request with a trace id of 3a7b481c-edd2-47fc-ac1b-bb9eacd85dab
+2023-10-30 19:02:40,917 - basicLogger - INFO - Received event add_weight request with a trace id of f070ef71-d674-44a6-b803-d8839b6a03bd
+2023-10-30 19:02:41,115 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: e68a97ed-8f67-4b51-9c1e-19ebf10b7d0a)
+2023-10-30 19:02:41,119 - basicLogger - INFO - Received event add_weight request with a trace id of 40a383e3-b301-426b-9bff-996740b53cac
+2023-10-30 19:02:42,486 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a4f404d7-e21c-432c-8728-c61a4b414638)
+2023-10-30 19:02:42,489 - basicLogger - INFO - Received event add_weight request with a trace id of 8cd6ace8-61ae-4954-85d4-4d060e27035a
+2023-10-30 19:02:43,310 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 74e4c836-74fd-4347-83c3-a54d36784740)
+2023-10-30 19:02:43,314 - basicLogger - INFO - Received event add_weight request with a trace id of d0df4f37-a793-4334-94f6-ff30a8e0d9f8
+2023-10-30 19:02:46,442 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 3a7b481c-edd2-47fc-ac1b-bb9eacd85dab)
+2023-10-30 19:02:46,442 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f070ef71-d674-44a6-b803-d8839b6a03bd)
+2023-10-30 19:02:46,447 - basicLogger - INFO - Received event add_macros request with a trace id of 5bd40d3e-7332-4790-afba-b081c805315c
+2023-10-30 19:02:46,448 - basicLogger - INFO - Received event add_macros request with a trace id of f7796c08-ec29-4aec-9a95-57cadd4619ab
+2023-10-30 19:02:46,610 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 40a383e3-b301-426b-9bff-996740b53cac)
+2023-10-30 19:02:46,614 - basicLogger - INFO - Received event add_macros request with a trace id of 3aef2aa4-493b-47e3-b2f2-168d4bbbc346
+2023-10-30 19:02:47,977 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 8cd6ace8-61ae-4954-85d4-4d060e27035a)
+2023-10-30 19:02:47,981 - basicLogger - INFO - Received event add_macros request with a trace id of 96c221ea-baba-4555-b91e-f9ecd8885af6
+2023-10-30 19:02:48,794 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: d0df4f37-a793-4334-94f6-ff30a8e0d9f8)
+2023-10-30 19:02:48,798 - basicLogger - INFO - Received event add_macros request with a trace id of 93a63dfe-50dc-42e7-8201-028c750e7aca
+2023-10-30 19:02:51,921 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 5bd40d3e-7332-4790-afba-b081c805315c)
+2023-10-30 19:02:51,921 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: f7796c08-ec29-4aec-9a95-57cadd4619ab)
+2023-10-30 19:02:51,925 - basicLogger - INFO - Received event add_weight request with a trace id of 7c9cd920-2cbc-4507-a369-0d4cb031b472
+2023-10-30 19:02:51,926 - basicLogger - INFO - Received event add_weight request with a trace id of 582bc709-ddfd-4d13-98f5-97b8116d2740
+2023-10-30 19:02:52,158 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 3aef2aa4-493b-47e3-b2f2-168d4bbbc346)
+2023-10-30 19:02:52,161 - basicLogger - INFO - Received event add_weight request with a trace id of 98b7b169-551a-4cd4-9d22-5f8766aca598
+2023-10-30 19:02:53,501 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 96c221ea-baba-4555-b91e-f9ecd8885af6)
+2023-10-30 19:02:53,505 - basicLogger - INFO - Received event add_weight request with a trace id of 6357d652-7523-4f37-955e-3ccb9c1d7794
+2023-10-30 19:02:54,437 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 93a63dfe-50dc-42e7-8201-028c750e7aca)
+2023-10-30 19:02:54,441 - basicLogger - INFO - Received event add_weight request with a trace id of c8b8d9d5-8894-4dbe-90f6-f63b58f490a4
+2023-10-30 19:02:57,641 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 7c9cd920-2cbc-4507-a369-0d4cb031b472)
+2023-10-30 19:02:57,641 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 582bc709-ddfd-4d13-98f5-97b8116d2740)
+2023-10-30 19:02:57,645 - basicLogger - INFO - Received event add_macros request with a trace id of 99373a42-d833-46a0-91a4-19503f4afaff
+2023-10-30 19:02:57,646 - basicLogger - INFO - Received event add_macros request with a trace id of 1bd397c3-2382-4e62-956c-0065416534ed
+2023-10-30 19:02:57,737 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 98b7b169-551a-4cd4-9d22-5f8766aca598)
+2023-10-30 19:02:57,740 - basicLogger - INFO - Received event add_macros request with a trace id of a589f43a-0f42-4278-9538-5966b16cfb8e
+2023-10-30 19:02:59,019 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 6357d652-7523-4f37-955e-3ccb9c1d7794)
+2023-10-30 19:02:59,023 - basicLogger - INFO - Received event add_macros request with a trace id of 5e0b5fc0-b9d3-4b0e-b026-07c9b46891e4
+2023-10-30 19:02:59,954 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: c8b8d9d5-8894-4dbe-90f6-f63b58f490a4)
+2023-10-30 19:02:59,958 - basicLogger - INFO - Received event add_macros request with a trace id of d1a81436-8abd-4ebd-bf3c-5908858b7d4d
+2023-10-30 19:03:03,115 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1bd397c3-2382-4e62-956c-0065416534ed)
+2023-10-30 19:03:03,119 - basicLogger - INFO - Received event add_weight request with a trace id of 0dc48ca9-f364-4bce-b689-77b88d4ade22
+2023-10-30 19:03:03,147 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 99373a42-d833-46a0-91a4-19503f4afaff)
+2023-10-30 19:03:03,151 - basicLogger - INFO - Received event add_weight request with a trace id of 3d8b48f9-0a58-480a-b3b5-d52f5990c363
+2023-10-30 19:03:03,238 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a589f43a-0f42-4278-9538-5966b16cfb8e)
+2023-10-30 19:03:03,241 - basicLogger - INFO - Received event add_weight request with a trace id of ea10ff7b-f159-4832-8369-f091937308ca
+2023-10-30 19:03:04,481 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 5e0b5fc0-b9d3-4b0e-b026-07c9b46891e4)
+2023-10-30 19:03:04,485 - basicLogger - INFO - Received event add_weight request with a trace id of 4767f459-6184-4a1d-a883-c4a8f8151218
+2023-10-30 19:03:06,430 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: d1a81436-8abd-4ebd-bf3c-5908858b7d4d)
+2023-10-30 19:03:06,434 - basicLogger - INFO - Received event add_weight request with a trace id of b85c12a5-9198-4a5b-acb8-e9746b1740b3
+2023-10-30 19:03:08,604 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 0dc48ca9-f364-4bce-b689-77b88d4ade22)
+2023-10-30 19:03:08,609 - basicLogger - INFO - Received event add_macros request with a trace id of b9754c40-0ea0-4b3e-8398-4ec2ed82266f
+2023-10-30 19:03:08,620 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 3d8b48f9-0a58-480a-b3b5-d52f5990c363)
+2023-10-30 19:03:08,624 - basicLogger - INFO - Received event add_macros request with a trace id of dff204ac-b23a-4d9b-a755-80aa05f3f594
+2023-10-30 19:03:08,727 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: ea10ff7b-f159-4832-8369-f091937308ca)
+2023-10-30 19:03:08,730 - basicLogger - INFO - Received event add_macros request with a trace id of 05aecda7-d33b-4803-82e6-1f9c910cbe78
+2023-10-30 19:03:09,991 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 4767f459-6184-4a1d-a883-c4a8f8151218)
+2023-10-30 19:03:09,995 - basicLogger - INFO - Received event add_macros request with a trace id of fad45010-3b68-4104-b451-8cfefed31e12
+2023-10-30 19:03:11,946 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: b85c12a5-9198-4a5b-acb8-e9746b1740b3)
+2023-10-30 19:03:11,950 - basicLogger - INFO - Received event add_macros request with a trace id of 72b36c0b-9a45-4301-acc0-ed1d084a8b5f
+2023-10-30 19:03:14,095 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b9754c40-0ea0-4b3e-8398-4ec2ed82266f)
+2023-10-30 19:03:14,099 - basicLogger - INFO - Received event add_weight request with a trace id of a3423cb9-33d2-40a2-9081-5aedc8c30046
+2023-10-30 19:03:14,126 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: dff204ac-b23a-4d9b-a755-80aa05f3f594)
+2023-10-30 19:03:14,130 - basicLogger - INFO - Received event add_weight request with a trace id of 38511d2d-0672-40dc-aa9a-1a70264d2171
+2023-10-30 19:03:14,233 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 05aecda7-d33b-4803-82e6-1f9c910cbe78)
+2023-10-30 19:03:14,236 - basicLogger - INFO - Received event add_weight request with a trace id of 4ee98c8b-0b51-402a-80f0-0d8b6d02117e
+2023-10-30 19:03:15,503 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: fad45010-3b68-4104-b451-8cfefed31e12)
+2023-10-30 19:03:15,507 - basicLogger - INFO - Received event add_weight request with a trace id of 8d66f27f-5c83-4a63-926f-4e891936e90d
+2023-10-30 19:03:17,440 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 72b36c0b-9a45-4301-acc0-ed1d084a8b5f)
+2023-10-30 19:03:17,444 - basicLogger - INFO - Received event add_weight request with a trace id of 7c7e8e28-9a1e-4649-85e0-5ec6cab46748
+2023-10-30 19:03:19,606 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a3423cb9-33d2-40a2-9081-5aedc8c30046)
+2023-10-30 19:03:19,610 - basicLogger - INFO - Received event add_macros request with a trace id of 8f5caf64-b972-41dd-8e1d-f18cb4491532
+2023-10-30 19:03:19,622 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 38511d2d-0672-40dc-aa9a-1a70264d2171)
+2023-10-30 19:03:19,625 - basicLogger - INFO - Received event add_macros request with a trace id of d78664c8-1ce4-4adf-a3a3-856546a9f5d3
+2023-10-30 19:03:19,747 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 4ee98c8b-0b51-402a-80f0-0d8b6d02117e)
+2023-10-30 19:03:19,751 - basicLogger - INFO - Received event add_macros request with a trace id of c1f6e3d9-16ee-4e01-b11e-9dd99bfebfa7
+2023-10-30 19:03:20,991 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 8d66f27f-5c83-4a63-926f-4e891936e90d)
+2023-10-30 19:03:20,995 - basicLogger - INFO - Received event add_macros request with a trace id of d3e3e3c0-14fb-47d4-8e56-3a284ba52e49
+2023-10-30 19:03:22,942 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 7c7e8e28-9a1e-4649-85e0-5ec6cab46748)
+2023-10-30 19:03:22,945 - basicLogger - INFO - Received event add_macros request with a trace id of df451a2e-0c4e-485a-883e-5f436162ee9f
+2023-10-30 19:03:25,122 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 8f5caf64-b972-41dd-8e1d-f18cb4491532)
+2023-10-30 19:03:25,122 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: d78664c8-1ce4-4adf-a3a3-856546a9f5d3)
+2023-10-30 19:03:25,232 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c1f6e3d9-16ee-4e01-b11e-9dd99bfebfa7)
+2023-10-30 19:03:26,479 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: d3e3e3c0-14fb-47d4-8e56-3a284ba52e49)
+2023-10-30 19:03:29,486 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: df451a2e-0c4e-485a-883e-5f436162ee9f)
+2023-10-30 19:08:04,343 - basicLogger - INFO - Received event add_weight request with a trace id of b1b75729-7b36-48f0-9507-1d8ae526c5c6
+2023-10-30 19:08:09,852 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: b1b75729-7b36-48f0-9507-1d8ae526c5c6)
+2023-10-30 19:08:11,645 - basicLogger - INFO - Received event add_macros request with a trace id of 001e8743-c424-40af-8108-684450bbde53
+2023-10-30 19:08:17,149 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 001e8743-c424-40af-8108-684450bbde53)
+2023-10-30 19:10:27,203 - basicLogger - INFO - Received event add_macros request with a trace id of 53607dc0-cc91-44aa-b19c-487d8c3dc6a5
+2023-10-30 19:10:32,688 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 53607dc0-cc91-44aa-b19c-487d8c3dc6a5)
+2023-10-30 19:10:38,594 - basicLogger - INFO - Received event add_macros request with a trace id of f2bf5bb8-a203-4583-a469-1040792b1e0d
+2023-10-30 19:10:41,373 - basicLogger - INFO - Received event add_weight request with a trace id of 8e72d256-c34a-4df5-a09f-77128f945795
+2023-10-30 19:10:44,066 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: f2bf5bb8-a203-4583-a469-1040792b1e0d)
+2023-10-30 19:10:46,819 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 8e72d256-c34a-4df5-a09f-77128f945795)
+2023-10-30 19:32:44,956 - basicLogger - INFO - Received event add_weight request with a trace id of 08db9e32-419f-442e-856c-01e2fca5b818
+2023-10-30 19:32:50,467 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 08db9e32-419f-442e-856c-01e2fca5b818)
+2023-10-30 19:36:27,666 - basicLogger - INFO - Received event add_weight request with a trace id of f4648d56-2fee-464e-8788-0bc4e259535e
+2023-10-30 19:36:33,163 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f4648d56-2fee-464e-8788-0bc4e259535e)
+2023-10-30 19:37:05,668 - basicLogger - INFO - Received event add_weight request with a trace id of d61a0d89-08a9-4368-ae07-72f474f40cff
+2023-10-30 19:37:11,154 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: d61a0d89-08a9-4368-ae07-72f474f40cff)
+2023-10-30 19:38:10,115 - basicLogger - INFO - Received event add_weight request with a trace id of f8fa1d54-2991-411e-98e4-e27a95cd893e
+2023-10-30 19:38:15,596 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f8fa1d54-2991-411e-98e4-e27a95cd893e)
+2023-10-30 19:38:51,196 - basicLogger - INFO - Received event add_weight request with a trace id of 3635010c-8ecb-4879-89a6-d48d0211d666
+2023-10-30 19:38:56,706 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 3635010c-8ecb-4879-89a6-d48d0211d666)
+2023-10-30 19:45:04,283 - basicLogger - INFO - Received event add_weight request with a trace id of 165d3eb6-ca1a-4e2f-bd6e-a5b37ea7ed3f
+2023-10-30 19:45:10,740 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 165d3eb6-ca1a-4e2f-bd6e-a5b37ea7ed3f)
+2023-10-30 19:45:27,526 - basicLogger - INFO - Received event add_weight request with a trace id of 84aa7528-e420-4409-b4ff-c4d5c7299c83
+2023-10-30 19:45:32,995 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 84aa7528-e420-4409-b4ff-c4d5c7299c83)
+2023-10-30 19:45:41,884 - basicLogger - INFO - Received event add_weight request with a trace id of cb9dc5a1-96e1-454a-a1a0-e033fe798ac2
+2023-10-30 19:45:44,568 - basicLogger - INFO - Received event add_macros request with a trace id of 86a302eb-0b18-4f28-b427-9d7f5b9f20f7
+2023-10-30 19:45:47,402 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: cb9dc5a1-96e1-454a-a1a0-e033fe798ac2)
+2023-10-30 19:45:50,040 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 86a302eb-0b18-4f28-b427-9d7f5b9f20f7)
+2023-10-30 20:00:47,319 - basicLogger - INFO - Received event add_macros request with a trace id of 639dd9c8-cb94-49f9-88aa-8ac9d6880917
+2023-10-30 20:00:49,581 - basicLogger - INFO - Received event add_weight request with a trace id of 74b1b75a-837b-4b46-b96f-53e99168aa8e
+2023-10-30 20:00:52,788 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 639dd9c8-cb94-49f9-88aa-8ac9d6880917)
+2023-10-30 20:00:55,034 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 74b1b75a-837b-4b46-b96f-53e99168aa8e)
+2023-10-31 13:45:17,124 - basicLogger - INFO - Received event add_macros request with a trace id of 163607d1-eee4-4d40-8b1b-ac841111ffd8
+2023-10-31 13:45:22,633 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 163607d1-eee4-4d40-8b1b-ac841111ffd8)
+2023-10-31 13:47:18,232 - basicLogger - INFO - Received event add_weight request with a trace id of 1481595e-6752-43fc-90c6-28c0085a14bf
+2023-10-31 13:47:23,705 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 1481595e-6752-43fc-90c6-28c0085a14bf)
+2023-10-31 13:47:34,313 - basicLogger - INFO - Received event add_weight request with a trace id of f1f3164b-13c4-490c-bfbd-9ec4838775b1
+2023-10-31 13:47:39,759 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f1f3164b-13c4-490c-bfbd-9ec4838775b1)
+2023-10-31 13:55:42,942 - basicLogger - INFO - Received event add_weight request with a trace id of 2205e9d4-69c8-4fec-bf47-b3b424e867a1
+2023-10-31 13:55:48,439 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 2205e9d4-69c8-4fec-bf47-b3b424e867a1)
+2023-10-31 13:57:58,274 - basicLogger - INFO - Received event add_weight request with a trace id of 5468402c-b8b6-48bb-aaf6-df2350fd6909
+2023-10-31 13:58:04,348 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 5468402c-b8b6-48bb-aaf6-df2350fd6909)
+2023-10-31 14:00:00,803 - basicLogger - INFO - Received event add_macros request with a trace id of 53ff651c-c2c2-452e-a67f-f29ed99a28b1
+2023-10-31 14:00:06,340 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 53ff651c-c2c2-452e-a67f-f29ed99a28b1)
+2023-10-31 14:18:33,901 - basicLogger - INFO - Received event add_macros request with a trace id of 506d7d0e-c6f1-44c5-b428-c6c414fb12c2
+2023-10-31 14:18:39,459 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 506d7d0e-c6f1-44c5-b428-c6c414fb12c2)
+2023-10-31 14:20:57,925 - basicLogger - INFO - Received event add_macros request with a trace id of 82f42e2f-f87e-4423-b325-2eaea26a3463
+2023-10-31 14:21:03,405 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 82f42e2f-f87e-4423-b325-2eaea26a3463)
+2023-10-31 14:22:20,531 - basicLogger - INFO - Received event add_weight request with a trace id of 9d0417d3-b0c7-418e-b550-1673c702e44c
+2023-10-31 14:22:20,630 - basicLogger - INFO - Received event add_weight request with a trace id of 9bfd9af0-6e18-4e36-a234-4b034dd883c7
+2023-10-31 14:22:20,821 - basicLogger - INFO - Received event add_weight request with a trace id of 88976859-f985-4d31-9c3e-59cf02089651
+2023-10-31 14:22:21,020 - basicLogger - INFO - Received event add_weight request with a trace id of fd54c521-c9c2-48d6-b7ce-042763e65d9f
+2023-10-31 14:22:21,208 - basicLogger - INFO - Received event add_weight request with a trace id of f35c8616-c59f-4f0e-b0b8-84200670b29d
+2023-10-31 14:22:26,002 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 9d0417d3-b0c7-418e-b550-1673c702e44c)
+2023-10-31 14:22:26,014 - basicLogger - INFO - Received event add_macros request with a trace id of c34a2c2c-73b3-4d26-97cf-02a0f12bd5ea
+2023-10-31 14:22:26,159 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 9bfd9af0-6e18-4e36-a234-4b034dd883c7)
+2023-10-31 14:22:26,162 - basicLogger - INFO - Received event add_macros request with a trace id of 501af479-7c1c-47b9-b682-15da46214e98
+2023-10-31 14:22:26,314 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 88976859-f985-4d31-9c3e-59cf02089651)
+2023-10-31 14:22:26,318 - basicLogger - INFO - Received event add_macros request with a trace id of 98ca0c97-471d-4db4-bd91-724c6b4db5ee
+2023-10-31 14:22:26,607 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: fd54c521-c9c2-48d6-b7ce-042763e65d9f)
+2023-10-31 14:22:26,611 - basicLogger - INFO - Received event add_macros request with a trace id of 11cad962-1358-4e72-a741-007ea9eece71
+2023-10-31 14:22:26,762 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f35c8616-c59f-4f0e-b0b8-84200670b29d)
+2023-10-31 14:22:26,766 - basicLogger - INFO - Received event add_macros request with a trace id of c91c31d5-c469-44f4-89aa-ac0bc91d7d13
+2023-10-31 14:22:31,499 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c34a2c2c-73b3-4d26-97cf-02a0f12bd5ea)
+2023-10-31 14:22:31,503 - basicLogger - INFO - Received event add_weight request with a trace id of 748b8576-0fde-46ee-9ea4-4ba088c0c606
+2023-10-31 14:22:31,672 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 501af479-7c1c-47b9-b682-15da46214e98)
+2023-10-31 14:22:31,676 - basicLogger - INFO - Received event add_weight request with a trace id of e17bf06b-85fd-4cd6-801a-b8af036a44c8
+2023-10-31 14:22:31,749 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 98ca0c97-471d-4db4-bd91-724c6b4db5ee)
+2023-10-31 14:22:31,753 - basicLogger - INFO - Received event add_weight request with a trace id of 6ff39bac-d3e0-4b4d-89fc-8390376ae941
+2023-10-31 14:22:32,107 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 11cad962-1358-4e72-a741-007ea9eece71)
+2023-10-31 14:22:32,111 - basicLogger - INFO - Received event add_weight request with a trace id of 05f42934-6634-4290-b6d1-f6c11aa26c12
+2023-10-31 14:22:32,262 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c91c31d5-c469-44f4-89aa-ac0bc91d7d13)
+2023-10-31 14:22:32,267 - basicLogger - INFO - Received event add_weight request with a trace id of 1bbda57c-4f04-43b3-a799-0cd287f801d9
+2023-10-31 14:22:36,992 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 748b8576-0fde-46ee-9ea4-4ba088c0c606)
+2023-10-31 14:22:36,996 - basicLogger - INFO - Received event add_macros request with a trace id of 0390c3dc-bef1-45e5-9f23-b8dc35808f01
+2023-10-31 14:22:37,194 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: e17bf06b-85fd-4cd6-801a-b8af036a44c8)
+2023-10-31 14:22:37,198 - basicLogger - INFO - Received event add_macros request with a trace id of fc23d2aa-5f4e-415d-b154-f28d0f542520
+2023-10-31 14:22:37,224 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 6ff39bac-d3e0-4b4d-89fc-8390376ae941)
+2023-10-31 14:22:37,229 - basicLogger - INFO - Received event add_macros request with a trace id of 55bf1386-e4f3-4de6-89a8-f234192a5169
+2023-10-31 14:22:37,602 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 05f42934-6634-4290-b6d1-f6c11aa26c12)
+2023-10-31 14:22:37,605 - basicLogger - INFO - Received event add_macros request with a trace id of 4905b6c3-c0b7-4529-a335-42b765b2a9e6
+2023-10-31 14:22:37,727 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 1bbda57c-4f04-43b3-a799-0cd287f801d9)
+2023-10-31 14:22:37,731 - basicLogger - INFO - Received event add_macros request with a trace id of 41751e67-8974-4610-a124-a77f6051fb0d
+2023-10-31 14:22:42,449 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 0390c3dc-bef1-45e5-9f23-b8dc35808f01)
+2023-10-31 14:22:42,453 - basicLogger - INFO - Received event add_weight request with a trace id of 96998f92-4f68-41bf-b244-6ab36f6dd842
+2023-10-31 14:22:42,634 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: fc23d2aa-5f4e-415d-b154-f28d0f542520)
+2023-10-31 14:22:42,638 - basicLogger - INFO - Received event add_weight request with a trace id of 5713e2f0-c7f8-416d-82cc-99cfe1e6017a
+2023-10-31 14:22:42,711 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 55bf1386-e4f3-4de6-89a8-f234192a5169)
+2023-10-31 14:22:42,715 - basicLogger - INFO - Received event add_weight request with a trace id of a974eb97-e889-415f-b5fb-733506a02ef8
+2023-10-31 14:22:43,036 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 4905b6c3-c0b7-4529-a335-42b765b2a9e6)
+2023-10-31 14:22:43,042 - basicLogger - INFO - Received event add_weight request with a trace id of 187282a6-3e40-40b3-8ecd-24fb326cae9a
+2023-10-31 14:22:43,160 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 41751e67-8974-4610-a124-a77f6051fb0d)
+2023-10-31 14:22:43,164 - basicLogger - INFO - Received event add_weight request with a trace id of 249dbffe-a1aa-4a36-89e4-24ca2bc9e494
+2023-10-31 14:22:47,928 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 96998f92-4f68-41bf-b244-6ab36f6dd842)
+2023-10-31 14:22:47,932 - basicLogger - INFO - Received event add_macros request with a trace id of 3c944bc0-6d8a-4d5b-801c-036e7c67f989
+2023-10-31 14:22:48,067 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 5713e2f0-c7f8-416d-82cc-99cfe1e6017a)
+2023-10-31 14:22:48,071 - basicLogger - INFO - Received event add_macros request with a trace id of ac762bb2-a412-4b3f-ad2a-f91f6a0e3a4e
+2023-10-31 14:22:48,160 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a974eb97-e889-415f-b5fb-733506a02ef8)
+2023-10-31 14:22:48,164 - basicLogger - INFO - Received event add_macros request with a trace id of 99f03a38-1bf0-4248-a103-1c0e68e7ca88
+2023-10-31 14:22:48,486 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 187282a6-3e40-40b3-8ecd-24fb326cae9a)
+2023-10-31 14:22:48,490 - basicLogger - INFO - Received event add_macros request with a trace id of 3ab3dff3-e190-45eb-9d44-bb1c5cadbe06
+2023-10-31 14:22:48,609 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 249dbffe-a1aa-4a36-89e4-24ca2bc9e494)
+2023-10-31 14:22:48,613 - basicLogger - INFO - Received event add_macros request with a trace id of 25c88724-d2ee-44ce-8a71-53ccff94ab4b
+2023-10-31 14:22:53,394 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 3c944bc0-6d8a-4d5b-801c-036e7c67f989)
+2023-10-31 14:22:53,399 - basicLogger - INFO - Received event add_weight request with a trace id of 7d36ebb7-63a9-49c3-98c2-3904035b29de
+2023-10-31 14:22:53,536 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: ac762bb2-a412-4b3f-ad2a-f91f6a0e3a4e)
+2023-10-31 14:22:53,539 - basicLogger - INFO - Received event add_weight request with a trace id of a22838c3-e364-4c4f-a16e-4720ae70253a
+2023-10-31 14:22:53,631 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 99f03a38-1bf0-4248-a103-1c0e68e7ca88)
+2023-10-31 14:22:53,634 - basicLogger - INFO - Received event add_weight request with a trace id of 7e3da447-ab01-4a8b-8c48-113291b90b93
+2023-10-31 14:22:53,974 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 3ab3dff3-e190-45eb-9d44-bb1c5cadbe06)
+2023-10-31 14:22:53,978 - basicLogger - INFO - Received event add_weight request with a trace id of 66fc1459-9e29-4980-af9b-a2fee61e3aab
+2023-10-31 14:22:54,097 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 25c88724-d2ee-44ce-8a71-53ccff94ab4b)
+2023-10-31 14:22:54,101 - basicLogger - INFO - Received event add_weight request with a trace id of 5ddf93e0-4c1c-4b28-8d0b-7ad25e58c51a
+2023-10-31 14:22:58,865 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 7d36ebb7-63a9-49c3-98c2-3904035b29de)
+2023-10-31 14:22:58,868 - basicLogger - INFO - Received event add_macros request with a trace id of a424c5db-17b1-4c8a-95a8-db23dd5a3e47
+2023-10-31 14:22:58,958 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a22838c3-e364-4c4f-a16e-4720ae70253a)
+2023-10-31 14:22:58,962 - basicLogger - INFO - Received event add_macros request with a trace id of ba7e574f-bac4-4449-87f4-b96fb09edb8c
+2023-10-31 14:22:59,067 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 7e3da447-ab01-4a8b-8c48-113291b90b93)
+2023-10-31 14:22:59,071 - basicLogger - INFO - Received event add_macros request with a trace id of 5051ed28-53c5-4a5c-938b-79ec6416a806
+2023-10-31 14:22:59,422 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 66fc1459-9e29-4980-af9b-a2fee61e3aab)
+2023-10-31 14:22:59,426 - basicLogger - INFO - Received event add_macros request with a trace id of 1a0d9070-2537-4dd3-add1-94edbe5fe85c
+2023-10-31 14:22:59,562 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 5ddf93e0-4c1c-4b28-8d0b-7ad25e58c51a)
+2023-10-31 14:22:59,566 - basicLogger - INFO - Received event add_macros request with a trace id of baea73c6-68db-419a-9ca0-5438c71fec91
+2023-10-31 14:23:04,322 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a424c5db-17b1-4c8a-95a8-db23dd5a3e47)
+2023-10-31 14:23:04,326 - basicLogger - INFO - Received event add_weight request with a trace id of b024d7d5-88b9-489a-be18-c86da72745c4
+2023-10-31 14:23:04,401 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: ba7e574f-bac4-4449-87f4-b96fb09edb8c)
+2023-10-31 14:23:04,405 - basicLogger - INFO - Received event add_weight request with a trace id of 46559194-1a55-4959-bf07-5cb37c8d672d
+2023-10-31 14:23:04,525 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 5051ed28-53c5-4a5c-938b-79ec6416a806)
+2023-10-31 14:23:04,529 - basicLogger - INFO - Received event add_weight request with a trace id of 3327b1d6-19eb-40a1-a888-01af24cff6b3
+2023-10-31 14:23:04,886 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1a0d9070-2537-4dd3-add1-94edbe5fe85c)
+2023-10-31 14:23:04,890 - basicLogger - INFO - Received event add_weight request with a trace id of 20938be2-cfd2-4f09-9628-9abbb4955a76
+2023-10-31 14:23:05,040 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: baea73c6-68db-419a-9ca0-5438c71fec91)
+2023-10-31 14:23:05,044 - basicLogger - INFO - Received event add_weight request with a trace id of f2cb58cd-27ad-4227-b549-aeda2f08e8e6
+2023-10-31 14:23:09,850 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: b024d7d5-88b9-489a-be18-c86da72745c4)
+2023-10-31 14:23:09,850 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 46559194-1a55-4959-bf07-5cb37c8d672d)
+2023-10-31 14:23:09,854 - basicLogger - INFO - Received event add_macros request with a trace id of 28e74200-7ab2-468b-9e9b-1a65e9eb8d7a
+2023-10-31 14:23:09,855 - basicLogger - INFO - Received event add_macros request with a trace id of 084ed9cd-67f8-4570-a41f-5deb717194ad
+2023-10-31 14:23:09,993 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 3327b1d6-19eb-40a1-a888-01af24cff6b3)
+2023-10-31 14:23:09,997 - basicLogger - INFO - Received event add_macros request with a trace id of c15321e5-c326-42a1-98b3-0ce7254d7c6b
+2023-10-31 14:23:10,347 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 20938be2-cfd2-4f09-9628-9abbb4955a76)
+2023-10-31 14:23:10,351 - basicLogger - INFO - Received event add_macros request with a trace id of 85c8b6f3-64f7-4503-a1ee-9c32e5414514
+2023-10-31 14:23:10,501 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f2cb58cd-27ad-4227-b549-aeda2f08e8e6)
+2023-10-31 14:23:10,505 - basicLogger - INFO - Received event add_macros request with a trace id of ea8a7174-91e7-4e40-b049-b245cfdf19ff
+2023-10-31 14:23:15,308 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 084ed9cd-67f8-4570-a41f-5deb717194ad)
+2023-10-31 14:23:15,312 - basicLogger - INFO - Received event add_weight request with a trace id of dba21392-d941-4b91-a9b7-401773f8d303
+2023-10-31 14:23:15,340 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 28e74200-7ab2-468b-9e9b-1a65e9eb8d7a)
+2023-10-31 14:23:15,344 - basicLogger - INFO - Received event add_weight request with a trace id of 790ebc2c-8e88-4899-ab3f-240c0610cf81
+2023-10-31 14:23:15,463 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c15321e5-c326-42a1-98b3-0ce7254d7c6b)
+2023-10-31 14:23:15,466 - basicLogger - INFO - Received event add_weight request with a trace id of 9a0aa766-c658-45b5-bbbb-bb323aa79a66
+2023-10-31 14:23:15,804 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 85c8b6f3-64f7-4503-a1ee-9c32e5414514)
+2023-10-31 14:23:15,807 - basicLogger - INFO - Received event add_weight request with a trace id of 98a9007d-9356-4db2-b8c9-ca5001e5a50f
+2023-10-31 14:23:15,976 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: ea8a7174-91e7-4e40-b049-b245cfdf19ff)
+2023-10-31 14:23:15,979 - basicLogger - INFO - Received event add_weight request with a trace id of 749095fc-31af-4fe6-89c1-b9d4a53310ff
+2023-10-31 14:23:20,837 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 790ebc2c-8e88-4899-ab3f-240c0610cf81)
+2023-10-31 14:23:20,837 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: dba21392-d941-4b91-a9b7-401773f8d303)
+2023-10-31 14:23:20,842 - basicLogger - INFO - Received event add_macros request with a trace id of b9f7fe63-ec0a-4e7a-8b38-4fadc913b5a3
+2023-10-31 14:23:20,842 - basicLogger - INFO - Received event add_macros request with a trace id of 7cb75567-16f3-4207-aa1c-e38298ff1019
+2023-10-31 14:23:20,945 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 9a0aa766-c658-45b5-bbbb-bb323aa79a66)
+2023-10-31 14:23:20,948 - basicLogger - INFO - Received event add_macros request with a trace id of 764cba2a-fc24-4567-ae91-27ac70cceb84
+2023-10-31 14:23:21,275 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 98a9007d-9356-4db2-b8c9-ca5001e5a50f)
+2023-10-31 14:23:21,278 - basicLogger - INFO - Received event add_macros request with a trace id of 373f656c-7625-443d-9b75-c5011cec29c0
+2023-10-31 14:23:21,461 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 749095fc-31af-4fe6-89c1-b9d4a53310ff)
+2023-10-31 14:23:21,464 - basicLogger - INFO - Received event add_macros request with a trace id of 352c8247-6057-4777-bf75-a2093c9a4ebe
+2023-10-31 14:23:26,308 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b9f7fe63-ec0a-4e7a-8b38-4fadc913b5a3)
+2023-10-31 14:23:26,308 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 7cb75567-16f3-4207-aa1c-e38298ff1019)
+2023-10-31 14:23:26,313 - basicLogger - INFO - Received event add_weight request with a trace id of 9ed5328e-ce32-4d6c-b010-51245f94a773
+2023-10-31 14:23:26,315 - basicLogger - INFO - Received event add_weight request with a trace id of 73d466e2-ae4b-408e-97cf-66214b9267a7
+2023-10-31 14:23:26,420 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 764cba2a-fc24-4567-ae91-27ac70cceb84)
+2023-10-31 14:23:26,424 - basicLogger - INFO - Received event add_weight request with a trace id of afad8082-9fc0-481b-a5bb-2f7346166c5e
+2023-10-31 14:23:26,715 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 373f656c-7625-443d-9b75-c5011cec29c0)
+2023-10-31 14:23:26,719 - basicLogger - INFO - Received event add_weight request with a trace id of 66cecd15-91bd-4c40-9616-55ab6b97aa9a
+2023-10-31 14:23:26,916 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 352c8247-6057-4777-bf75-a2093c9a4ebe)
+2023-10-31 14:23:26,920 - basicLogger - INFO - Received event add_weight request with a trace id of f02e0b2e-53d3-4acd-a535-518a45b8301d
+2023-10-31 14:23:31,816 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 73d466e2-ae4b-408e-97cf-66214b9267a7)
+2023-10-31 14:23:31,821 - basicLogger - INFO - Received event add_macros request with a trace id of 063854dc-a412-4e06-8e2c-4739db0fe928
+2023-10-31 14:23:31,831 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 9ed5328e-ce32-4d6c-b010-51245f94a773)
+2023-10-31 14:23:31,833 - basicLogger - INFO - Received event add_macros request with a trace id of 1534d457-c3ca-4c2a-99a4-cab7f82e3de8
+2023-10-31 14:23:31,878 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: afad8082-9fc0-481b-a5bb-2f7346166c5e)
+2023-10-31 14:23:31,882 - basicLogger - INFO - Received event add_macros request with a trace id of dab76a23-fd7f-40e5-927d-6b823b421612
+2023-10-31 14:23:32,142 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 66cecd15-91bd-4c40-9616-55ab6b97aa9a)
+2023-10-31 14:23:32,146 - basicLogger - INFO - Received event add_macros request with a trace id of ff4126d0-cb3f-4f95-9af5-f95b49607816
+2023-10-31 14:23:32,357 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f02e0b2e-53d3-4acd-a535-518a45b8301d)
+2023-10-31 14:23:32,361 - basicLogger - INFO - Received event add_macros request with a trace id of 31177b69-49cd-46ea-b9dc-ac9afa407b01
+2023-10-31 14:23:37,315 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1534d457-c3ca-4c2a-99a4-cab7f82e3de8)
+2023-10-31 14:23:37,315 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 063854dc-a412-4e06-8e2c-4739db0fe928)
+2023-10-31 14:23:37,320 - basicLogger - INFO - Received event add_weight request with a trace id of 31d3a3f1-d96d-4776-a58e-5c7a1756a584
+2023-10-31 14:23:37,322 - basicLogger - INFO - Received event add_weight request with a trace id of 8fe3c7a9-bba0-4d46-9555-32281f06ed95
+2023-10-31 14:23:37,362 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: dab76a23-fd7f-40e5-927d-6b823b421612)
+2023-10-31 14:23:37,366 - basicLogger - INFO - Received event add_weight request with a trace id of 9677d292-af1a-404f-b0ce-e07553db775c
+2023-10-31 14:23:37,610 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: ff4126d0-cb3f-4f95-9af5-f95b49607816)
+2023-10-31 14:23:37,613 - basicLogger - INFO - Received event add_weight request with a trace id of 2528ac7b-2a6a-4494-bca2-e4aef5c95fd6
+2023-10-31 14:23:37,814 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 31177b69-49cd-46ea-b9dc-ac9afa407b01)
+2023-10-31 14:23:37,817 - basicLogger - INFO - Received event add_weight request with a trace id of ada5ccb8-da8b-491b-bd04-388d162a222a
+2023-10-31 14:23:42,782 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 8fe3c7a9-bba0-4d46-9555-32281f06ed95)
+2023-10-31 14:23:42,785 - basicLogger - INFO - Received event add_macros request with a trace id of 19dbced9-06a0-4499-af5e-4b59acea548b
+2023-10-31 14:23:42,797 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 31d3a3f1-d96d-4776-a58e-5c7a1756a584)
+2023-10-31 14:23:42,800 - basicLogger - INFO - Received event add_macros request with a trace id of 8faf1f4a-9892-46a2-a72e-209c41e1cf16
+2023-10-31 14:23:42,827 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 9677d292-af1a-404f-b0ce-e07553db775c)
+2023-10-31 14:23:42,831 - basicLogger - INFO - Received event add_macros request with a trace id of 32abd810-2838-4fcd-a018-bbbb5f510639
+2023-10-31 14:23:43,075 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 2528ac7b-2a6a-4494-bca2-e4aef5c95fd6)
+2023-10-31 14:23:43,079 - basicLogger - INFO - Received event add_macros request with a trace id of 153ce4ee-cc58-457a-b2a1-67d092358365
+2023-10-31 14:23:43,274 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: ada5ccb8-da8b-491b-bd04-388d162a222a)
+2023-10-31 14:23:43,279 - basicLogger - INFO - Received event add_macros request with a trace id of 35c80fcc-c3a8-4f93-95b6-ce802f7448ef
+2023-10-31 14:23:48,247 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 19dbced9-06a0-4499-af5e-4b59acea548b)
+2023-10-31 14:23:48,250 - basicLogger - INFO - Received event add_weight request with a trace id of 90f36473-1ceb-46a4-9ec9-eaadc01459ee
+2023-10-31 14:23:48,264 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 8faf1f4a-9892-46a2-a72e-209c41e1cf16)
+2023-10-31 14:23:48,266 - basicLogger - INFO - Received event add_weight request with a trace id of a6439e34-97db-4887-a54f-5d8c178c504e
+2023-10-31 14:23:48,280 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 32abd810-2838-4fcd-a018-bbbb5f510639)
+2023-10-31 14:23:48,283 - basicLogger - INFO - Received event add_weight request with a trace id of bb1eb1ef-e595-438e-aa87-27e4deae0b86
+2023-10-31 14:23:48,560 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 153ce4ee-cc58-457a-b2a1-67d092358365)
+2023-10-31 14:23:48,564 - basicLogger - INFO - Received event add_weight request with a trace id of 37811b77-6b1a-46cf-a1a6-a3e97605c1a9
+2023-10-31 14:23:48,764 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 35c80fcc-c3a8-4f93-95b6-ce802f7448ef)
+2023-10-31 14:23:48,767 - basicLogger - INFO - Received event add_weight request with a trace id of 2f19ae79-4a2a-4e0e-bee6-99101905e370
+2023-10-31 14:23:53,780 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a6439e34-97db-4887-a54f-5d8c178c504e)
+2023-10-31 14:23:53,780 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 90f36473-1ceb-46a4-9ec9-eaadc01459ee)
+2023-10-31 14:23:53,780 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: bb1eb1ef-e595-438e-aa87-27e4deae0b86)
+2023-10-31 14:23:53,785 - basicLogger - INFO - Received event add_macros request with a trace id of 86ac56dc-f89e-4c98-9b75-d333048a38db
+2023-10-31 14:23:53,786 - basicLogger - INFO - Received event add_macros request with a trace id of f1bb9fbf-f3bd-46d7-9415-2ce3344116cc
+2023-10-31 14:23:53,787 - basicLogger - INFO - Received event add_macros request with a trace id of 9fbb5216-f563-4820-a83e-b1655567e4d6
+2023-10-31 14:23:54,028 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 37811b77-6b1a-46cf-a1a6-a3e97605c1a9)
+2023-10-31 14:23:54,031 - basicLogger - INFO - Received event add_macros request with a trace id of 90f58c66-37b0-4bc4-840f-a46ae8cf2853
+2023-10-31 14:23:54,247 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 2f19ae79-4a2a-4e0e-bee6-99101905e370)
+2023-10-31 14:23:54,251 - basicLogger - INFO - Received event add_macros request with a trace id of a00ca659-c538-4fa9-b911-769d23ce19f4
+2023-10-31 14:23:59,206 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 86ac56dc-f89e-4c98-9b75-d333048a38db)
+2023-10-31 14:23:59,211 - basicLogger - INFO - Received event add_weight request with a trace id of ec182ca0-956c-47cf-9f8f-96db095ff01f
+2023-10-31 14:23:59,222 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 9fbb5216-f563-4820-a83e-b1655567e4d6)
+2023-10-31 14:23:59,226 - basicLogger - INFO - Received event add_weight request with a trace id of 08c003e8-d532-4ad3-9b65-c0c77204082d
+2023-10-31 14:23:59,253 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: f1bb9fbf-f3bd-46d7-9415-2ce3344116cc)
+2023-10-31 14:23:59,257 - basicLogger - INFO - Received event add_weight request with a trace id of 86a74d28-9674-481a-b7a3-2eb69b28eec4
+2023-10-31 14:23:59,519 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 90f58c66-37b0-4bc4-840f-a46ae8cf2853)
+2023-10-31 14:23:59,522 - basicLogger - INFO - Received event add_weight request with a trace id of 73b08815-b940-4393-abb4-15347a22b2b3
+2023-10-31 14:23:59,720 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a00ca659-c538-4fa9-b911-769d23ce19f4)
+2023-10-31 14:23:59,724 - basicLogger - INFO - Received event add_weight request with a trace id of 5aee7754-3502-44d1-94f4-96eb906d827b
+2023-10-31 14:24:04,741 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 08c003e8-d532-4ad3-9b65-c0c77204082d)
+2023-10-31 14:24:04,741 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 86a74d28-9674-481a-b7a3-2eb69b28eec4)
+2023-10-31 14:24:04,745 - basicLogger - INFO - Received event add_macros request with a trace id of 08567583-1618-426c-b730-a1ed456afbf1
+2023-10-31 14:24:04,746 - basicLogger - INFO - Received event add_macros request with a trace id of f0c79e3a-7529-4455-bb99-8a18daffea95
+2023-10-31 14:24:04,772 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: ec182ca0-956c-47cf-9f8f-96db095ff01f)
+2023-10-31 14:24:04,776 - basicLogger - INFO - Received event add_macros request with a trace id of 93c29c76-4c2c-4fb3-8555-e2c972d724f7
+2023-10-31 14:24:04,974 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 73b08815-b940-4393-abb4-15347a22b2b3)
+2023-10-31 14:24:04,979 - basicLogger - INFO - Received event add_macros request with a trace id of c151b74b-4751-4ec7-a528-f7d79e432cad
+2023-10-31 14:24:05,190 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 5aee7754-3502-44d1-94f4-96eb906d827b)
+2023-10-31 14:24:05,193 - basicLogger - INFO - Received event add_macros request with a trace id of 233e400f-40e2-47e9-b8b2-2f7a96ecf1d7
+2023-10-31 14:24:10,195 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: f0c79e3a-7529-4455-bb99-8a18daffea95)
+2023-10-31 14:24:10,226 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 93c29c76-4c2c-4fb3-8555-e2c972d724f7)
+2023-10-31 14:24:10,226 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 08567583-1618-426c-b730-a1ed456afbf1)
+2023-10-31 14:24:10,470 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c151b74b-4751-4ec7-a528-f7d79e432cad)
+2023-10-31 14:24:10,659 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 233e400f-40e2-47e9-b8b2-2f7a96ecf1d7)
+2023-10-31 14:31:30,842 - basicLogger - INFO - Received event add_macros request with a trace id of 8fef55ca-16b8-449e-9ed4-27794e037b01
+2023-10-31 14:31:36,292 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 8fef55ca-16b8-449e-9ed4-27794e037b01)
+2023-10-31 14:32:18,189 - basicLogger - INFO - Received event add_weight request with a trace id of f955b572-0815-4084-a50f-1dc40ef80192
+2023-10-31 14:32:18,390 - basicLogger - INFO - Received event add_weight request with a trace id of 79f4dc50-9233-4b72-8636-3205f37dcd63
+2023-10-31 14:32:18,587 - basicLogger - INFO - Received event add_weight request with a trace id of c6950e97-c148-4a1c-be86-ee9dd4914289
+2023-10-31 14:32:18,786 - basicLogger - INFO - Received event add_weight request with a trace id of b55e2e77-2e34-455f-bd75-0885b0b9dfaa
+2023-10-31 14:32:18,988 - basicLogger - INFO - Received event add_weight request with a trace id of bd394824-3bdb-4d40-b642-95f84d7f3622
+2023-10-31 14:32:24,039 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f955b572-0815-4084-a50f-1dc40ef80192)
+2023-10-31 14:32:24,043 - basicLogger - INFO - Received event add_macros request with a trace id of 3cf43612-5259-4c6d-81dd-d8cfe63cc6f8
+2023-10-31 14:32:24,214 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 79f4dc50-9233-4b72-8636-3205f37dcd63)
+2023-10-31 14:32:24,219 - basicLogger - INFO - Received event add_macros request with a trace id of 36a67cb0-9b9e-4c7a-a935-b31bb6ab30f3
+2023-10-31 14:32:24,277 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: c6950e97-c148-4a1c-be86-ee9dd4914289)
+2023-10-31 14:32:24,281 - basicLogger - INFO - Received event add_macros request with a trace id of c36336ed-edea-4960-8c6c-2967800be5e3
+2023-10-31 14:32:24,325 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: b55e2e77-2e34-455f-bd75-0885b0b9dfaa)
+2023-10-31 14:32:24,329 - basicLogger - INFO - Received event add_macros request with a trace id of 47f23a81-c19c-44ae-8128-af1878f19ec6
+2023-10-31 14:32:24,527 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: bd394824-3bdb-4d40-b642-95f84d7f3622)
+2023-10-31 14:32:24,530 - basicLogger - INFO - Received event add_macros request with a trace id of feadf447-6477-4fed-a01a-ce36b293c1d6
+2023-10-31 14:32:29,585 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 3cf43612-5259-4c6d-81dd-d8cfe63cc6f8)
+2023-10-31 14:32:29,589 - basicLogger - INFO - Received event add_weight request with a trace id of 9f9076a2-eeab-4f2b-8d7e-1255c1e3def7
+2023-10-31 14:32:29,816 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 36a67cb0-9b9e-4c7a-a935-b31bb6ab30f3)
+2023-10-31 14:32:29,820 - basicLogger - INFO - Received event add_weight request with a trace id of ab720860-f2c2-423a-8af1-de25142c2c21
+2023-10-31 14:32:29,878 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c36336ed-edea-4960-8c6c-2967800be5e3)
+2023-10-31 14:32:29,882 - basicLogger - INFO - Received event add_weight request with a trace id of 51fc545a-432d-41bb-a384-c6a0817a4970
+2023-10-31 14:32:29,894 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 47f23a81-c19c-44ae-8128-af1878f19ec6)
+2023-10-31 14:32:29,897 - basicLogger - INFO - Received event add_weight request with a trace id of e6e3eb17-5695-4686-8ff8-65e85de8710c
+2023-10-31 14:32:30,004 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: feadf447-6477-4fed-a01a-ce36b293c1d6)
+2023-10-31 14:32:30,008 - basicLogger - INFO - Received event add_weight request with a trace id of 15141419-17a2-4ee1-9d72-132b038341ce
+2023-10-31 14:32:35,132 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 9f9076a2-eeab-4f2b-8d7e-1255c1e3def7)
+2023-10-31 14:32:35,136 - basicLogger - INFO - Received event add_macros request with a trace id of bdd43d01-c8bb-4511-9ba3-3f63ef844df0
+2023-10-31 14:32:35,412 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: ab720860-f2c2-423a-8af1-de25142c2c21)
+2023-10-31 14:32:35,416 - basicLogger - INFO - Received event add_macros request with a trace id of 0170b5a0-c437-4b48-aef5-946401887c09
+2023-10-31 14:32:35,428 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 51fc545a-432d-41bb-a384-c6a0817a4970)
+2023-10-31 14:32:35,428 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: e6e3eb17-5695-4686-8ff8-65e85de8710c)
+2023-10-31 14:32:35,432 - basicLogger - INFO - Received event add_macros request with a trace id of 514e2a53-1a2e-496e-a655-9c9016a3108f
+2023-10-31 14:32:35,433 - basicLogger - INFO - Received event add_macros request with a trace id of 4e31511f-ca11-4915-863c-a18ddec9deca
+2023-10-31 14:32:35,661 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 15141419-17a2-4ee1-9d72-132b038341ce)
+2023-10-31 14:32:35,665 - basicLogger - INFO - Received event add_macros request with a trace id of 710948cf-a306-41e3-baa9-42e01b252811
+2023-10-31 14:32:40,632 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: bdd43d01-c8bb-4511-9ba3-3f63ef844df0)
+2023-10-31 14:32:40,636 - basicLogger - INFO - Received event add_weight request with a trace id of f8ee0e46-806d-4649-9204-7057fcd65047
+2023-10-31 14:32:40,928 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 0170b5a0-c437-4b48-aef5-946401887c09)
+2023-10-31 14:32:40,933 - basicLogger - INFO - Received event add_weight request with a trace id of afdac719-0096-49e0-aba1-eff3dc2f8119
+2023-10-31 14:32:40,944 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 514e2a53-1a2e-496e-a655-9c9016a3108f)
+2023-10-31 14:32:40,944 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 4e31511f-ca11-4915-863c-a18ddec9deca)
+2023-10-31 14:32:40,948 - basicLogger - INFO - Received event add_weight request with a trace id of dae5cdab-b1d5-452f-8484-80282107bb6a
+2023-10-31 14:32:40,949 - basicLogger - INFO - Received event add_weight request with a trace id of 0a8c50e8-cd65-404a-a3dd-3972b3c59b25
+2023-10-31 14:32:41,177 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 710948cf-a306-41e3-baa9-42e01b252811)
+2023-10-31 14:32:41,181 - basicLogger - INFO - Received event add_weight request with a trace id of 90631950-3bd8-4ded-9918-edd1d6a6d940
+2023-10-31 14:32:46,226 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f8ee0e46-806d-4649-9204-7057fcd65047)
+2023-10-31 14:32:46,230 - basicLogger - INFO - Received event add_macros request with a trace id of 1bfdc65d-39f7-4b6d-8f53-b027de4924b1
+2023-10-31 14:32:46,446 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 0a8c50e8-cd65-404a-a3dd-3972b3c59b25)
+2023-10-31 14:32:46,446 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: afdac719-0096-49e0-aba1-eff3dc2f8119)
+2023-10-31 14:32:46,451 - basicLogger - INFO - Received event add_macros request with a trace id of c8f12ee8-8b63-4eb3-9101-90661cb895e8
+2023-10-31 14:32:46,451 - basicLogger - INFO - Received event add_macros request with a trace id of 698a196c-9853-401b-8f0e-ad97bbdacefa
+2023-10-31 14:32:46,538 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: dae5cdab-b1d5-452f-8484-80282107bb6a)
+2023-10-31 14:32:46,544 - basicLogger - INFO - Received event add_macros request with a trace id of 5fac20d9-151a-4039-b47f-fdf070db40b2
+2023-10-31 14:32:46,753 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 90631950-3bd8-4ded-9918-edd1d6a6d940)
+2023-10-31 14:32:46,758 - basicLogger - INFO - Received event add_macros request with a trace id of 1a9b90d0-1921-49fa-8999-449265bb9b3d
+2023-10-31 14:32:51,790 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1bfdc65d-39f7-4b6d-8f53-b027de4924b1)
+2023-10-31 14:32:51,795 - basicLogger - INFO - Received event add_weight request with a trace id of 5a65b912-827b-47c2-baeb-b46c930659bd
+2023-10-31 14:32:51,976 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c8f12ee8-8b63-4eb3-9101-90661cb895e8)
+2023-10-31 14:32:51,976 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 698a196c-9853-401b-8f0e-ad97bbdacefa)
+2023-10-31 14:32:51,981 - basicLogger - INFO - Received event add_weight request with a trace id of 6786d966-1e75-4edc-9484-1975403ad843
+2023-10-31 14:32:51,982 - basicLogger - INFO - Received event add_weight request with a trace id of e769491d-c583-44a8-bb00-0192c84938aa
+2023-10-31 14:32:52,055 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 5fac20d9-151a-4039-b47f-fdf070db40b2)
+2023-10-31 14:32:52,059 - basicLogger - INFO - Received event add_weight request with a trace id of be357a83-f022-47ce-805a-cee5a1fe5b85
+2023-10-31 14:32:52,322 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1a9b90d0-1921-49fa-8999-449265bb9b3d)
+2023-10-31 14:32:52,326 - basicLogger - INFO - Received event add_weight request with a trace id of 62ab64b3-17f4-4278-81fb-4c034664b4e7
+2023-10-31 14:32:57,576 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 5a65b912-827b-47c2-baeb-b46c930659bd)
+2023-10-31 14:32:57,576 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 6786d966-1e75-4edc-9484-1975403ad843)
+2023-10-31 14:32:57,580 - basicLogger - INFO - Received event add_macros request with a trace id of 792d07dc-f002-4a94-8ea9-c9f596d22fcd
+2023-10-31 14:32:57,582 - basicLogger - INFO - Received event add_macros request with a trace id of 28a1f175-9168-43b8-ab7c-b7d254e35777
+2023-10-31 14:32:57,701 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: be357a83-f022-47ce-805a-cee5a1fe5b85)
+2023-10-31 14:32:57,701 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: e769491d-c583-44a8-bb00-0192c84938aa)
+2023-10-31 14:32:57,707 - basicLogger - INFO - Received event add_macros request with a trace id of 9d20b7bb-0585-4a05-a020-6d524bd5bd6d
+2023-10-31 14:32:57,708 - basicLogger - INFO - Received event add_macros request with a trace id of a6929f2c-3960-421c-8ee8-f0a72d557087
+2023-10-31 14:32:57,949 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 62ab64b3-17f4-4278-81fb-4c034664b4e7)
+2023-10-31 14:32:57,953 - basicLogger - INFO - Received event add_macros request with a trace id of 55ea0716-5a9a-4ea6-aba4-f38eb096d71d
+2023-10-31 14:33:03,330 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 792d07dc-f002-4a94-8ea9-c9f596d22fcd)
+2023-10-31 14:33:03,333 - basicLogger - INFO - Received event add_weight request with a trace id of 8c1dec12-2372-4cff-a846-2edfa9d75b1d
+2023-10-31 14:33:03,392 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 28a1f175-9168-43b8-ab7c-b7d254e35777)
+2023-10-31 14:33:03,396 - basicLogger - INFO - Received event add_weight request with a trace id of d45aa56a-06d6-4bb3-b31a-10bc768d9cf5
+2023-10-31 14:33:03,455 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 9d20b7bb-0585-4a05-a020-6d524bd5bd6d)
+2023-10-31 14:33:03,455 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a6929f2c-3960-421c-8ee8-f0a72d557087)
+2023-10-31 14:33:03,459 - basicLogger - INFO - Received event add_weight request with a trace id of 2e39666d-4f6c-4ec7-b36d-6dfd49b32c20
+2023-10-31 14:33:03,459 - basicLogger - INFO - Received event add_weight request with a trace id of 3fa766f8-e92f-4fac-8727-c577585dd8e8
+2023-10-31 14:33:03,735 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 55ea0716-5a9a-4ea6-aba4-f38eb096d71d)
+2023-10-31 14:33:03,738 - basicLogger - INFO - Received event add_weight request with a trace id of 5ca24112-bce3-4b9e-ad01-72e67d0d0cfa
+2023-10-31 14:33:08,845 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 8c1dec12-2372-4cff-a846-2edfa9d75b1d)
+2023-10-31 14:33:08,848 - basicLogger - INFO - Received event add_macros request with a trace id of bb27e84b-509a-4210-afa0-d015318fd211
+2023-10-31 14:33:08,953 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 2e39666d-4f6c-4ec7-b36d-6dfd49b32c20)
+2023-10-31 14:33:08,953 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: d45aa56a-06d6-4bb3-b31a-10bc768d9cf5)
+2023-10-31 14:33:08,953 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 3fa766f8-e92f-4fac-8727-c577585dd8e8)
+2023-10-31 14:33:08,960 - basicLogger - INFO - Received event add_macros request with a trace id of fd8554de-f4cc-471d-86b9-48a297c23d07
+2023-10-31 14:33:08,960 - basicLogger - INFO - Received event add_macros request with a trace id of 27b0b0cf-9fd2-4484-a3de-41e55f34999b
+2023-10-31 14:33:08,962 - basicLogger - INFO - Received event add_macros request with a trace id of 8347b277-cc8c-4944-91ff-522aee79c803
+2023-10-31 14:33:09,266 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 5ca24112-bce3-4b9e-ad01-72e67d0d0cfa)
+2023-10-31 14:33:09,270 - basicLogger - INFO - Received event add_macros request with a trace id of 93bd020f-2fd6-425a-b322-5bf2a7c69a90
+2023-10-31 14:33:14,446 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 8347b277-cc8c-4944-91ff-522aee79c803)
+2023-10-31 14:33:14,446 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: bb27e84b-509a-4210-afa0-d015318fd211)
+2023-10-31 14:33:14,451 - basicLogger - INFO - Received event add_weight request with a trace id of 1d146250-4bc9-4bf2-93a8-c2b2d3f57389
+2023-10-31 14:33:14,451 - basicLogger - INFO - Received event add_weight request with a trace id of 29e5975a-b486-41b9-aaeb-f800e7318c19
+2023-10-31 14:33:14,507 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 27b0b0cf-9fd2-4484-a3de-41e55f34999b)
+2023-10-31 14:33:14,510 - basicLogger - INFO - Received event add_weight request with a trace id of 4aa14440-24f6-45f5-92ea-a2fbe73b62e0
+2023-10-31 14:33:14,756 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: fd8554de-f4cc-471d-86b9-48a297c23d07)
+2023-10-31 14:33:14,759 - basicLogger - INFO - Received event add_weight request with a trace id of 8475553d-d339-40b6-8cb0-b03abad95de5
+2023-10-31 14:33:14,926 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 93bd020f-2fd6-425a-b322-5bf2a7c69a90)
+2023-10-31 14:33:14,929 - basicLogger - INFO - Received event add_weight request with a trace id of 89f16a0c-b741-4f0b-b3e6-8af3b05e5c21
+2023-10-31 14:33:20,011 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 1d146250-4bc9-4bf2-93a8-c2b2d3f57389)
+2023-10-31 14:33:20,015 - basicLogger - INFO - Received event add_macros request with a trace id of c5ae838b-cedc-464c-8418-6ab6999a1c46
+2023-10-31 14:33:20,090 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 29e5975a-b486-41b9-aaeb-f800e7318c19)
+2023-10-31 14:33:20,090 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 4aa14440-24f6-45f5-92ea-a2fbe73b62e0)
+2023-10-31 14:33:20,094 - basicLogger - INFO - Received event add_macros request with a trace id of 544b3291-5277-4a5e-8578-f0f8f6f70415
+2023-10-31 14:33:20,095 - basicLogger - INFO - Received event add_macros request with a trace id of 49426966-c4fd-4796-a3fc-347b6a3b5c1f
+2023-10-31 14:33:20,304 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 8475553d-d339-40b6-8cb0-b03abad95de5)
+2023-10-31 14:33:20,307 - basicLogger - INFO - Received event add_macros request with a trace id of 8ee3163a-6c3d-4a76-8f34-a023c68b498a
+2023-10-31 14:33:20,489 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 89f16a0c-b741-4f0b-b3e6-8af3b05e5c21)
+2023-10-31 14:33:20,492 - basicLogger - INFO - Received event add_macros request with a trace id of 7b07c940-f649-479a-8466-1c6fddde63a8
+2023-10-31 14:33:25,504 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c5ae838b-cedc-464c-8418-6ab6999a1c46)
+2023-10-31 14:33:25,507 - basicLogger - INFO - Received event add_weight request with a trace id of dc79550c-40e9-4086-8f88-0c01d98b37d8
+2023-10-31 14:33:25,520 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 49426966-c4fd-4796-a3fc-347b6a3b5c1f)
+2023-10-31 14:33:25,520 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 544b3291-5277-4a5e-8578-f0f8f6f70415)
+2023-10-31 14:33:25,523 - basicLogger - INFO - Received event add_weight request with a trace id of 8968d37e-5d9f-4c1b-87dc-df3e1c63af1b
+2023-10-31 14:33:25,524 - basicLogger - INFO - Received event add_weight request with a trace id of ddb93537-f693-4ed0-80ec-6e73c227c5ae
+2023-10-31 14:33:25,768 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 8ee3163a-6c3d-4a76-8f34-a023c68b498a)
+2023-10-31 14:33:25,771 - basicLogger - INFO - Received event add_weight request with a trace id of a6bc0fec-59c5-45b0-9fbc-935839b1b329
+2023-10-31 14:33:25,968 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 7b07c940-f649-479a-8466-1c6fddde63a8)
+2023-10-31 14:33:25,971 - basicLogger - INFO - Received event add_weight request with a trace id of 4cb02a00-cc81-458b-ab2a-8f009d43e6b7
+2023-10-31 14:33:30,995 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: ddb93537-f693-4ed0-80ec-6e73c227c5ae)
+2023-10-31 14:33:30,999 - basicLogger - INFO - Received event add_macros request with a trace id of 6118e2a9-e363-4c1f-b094-114748ce68d4
+2023-10-31 14:33:31,010 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 8968d37e-5d9f-4c1b-87dc-df3e1c63af1b)
+2023-10-31 14:33:31,010 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: dc79550c-40e9-4086-8f88-0c01d98b37d8)
+2023-10-31 14:33:31,014 - basicLogger - INFO - Received event add_macros request with a trace id of b6480d64-8f8c-40c4-b74c-f3398b7a5bda
+2023-10-31 14:33:31,015 - basicLogger - INFO - Received event add_macros request with a trace id of b5590989-b79b-4786-b068-73a84457e61c
+2023-10-31 14:33:31,228 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a6bc0fec-59c5-45b0-9fbc-935839b1b329)
+2023-10-31 14:33:31,232 - basicLogger - INFO - Received event add_macros request with a trace id of 6e45fa5c-3412-4739-b693-dee235510b98
+2023-10-31 14:33:31,401 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 4cb02a00-cc81-458b-ab2a-8f009d43e6b7)
+2023-10-31 14:33:31,406 - basicLogger - INFO - Received event add_macros request with a trace id of 8da409c5-ab98-494a-9813-c4e40098dc77
+2023-10-31 14:33:36,489 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 6118e2a9-e363-4c1f-b094-114748ce68d4)
+2023-10-31 14:33:36,489 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b5590989-b79b-4786-b068-73a84457e61c)
+2023-10-31 14:33:36,490 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b6480d64-8f8c-40c4-b74c-f3398b7a5bda)
+2023-10-31 14:33:36,494 - basicLogger - INFO - Received event add_weight request with a trace id of 7a885908-af59-400b-803e-480fae759951
+2023-10-31 14:33:36,495 - basicLogger - INFO - Received event add_weight request with a trace id of 4cf51192-e21f-4ab1-af54-ae73e44bccf4
+2023-10-31 14:33:36,496 - basicLogger - INFO - Received event add_weight request with a trace id of 9b111ca8-32fa-42e5-a162-9e554e2cae43
+2023-10-31 14:33:36,704 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 6e45fa5c-3412-4739-b693-dee235510b98)
+2023-10-31 14:33:36,707 - basicLogger - INFO - Received event add_weight request with a trace id of fbaa47db-4dbe-45a5-8bcc-75834a7209e6
+2023-10-31 14:33:36,907 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 8da409c5-ab98-494a-9813-c4e40098dc77)
+2023-10-31 14:33:36,910 - basicLogger - INFO - Received event add_weight request with a trace id of edbe59c9-c468-4eb9-89ca-c7505107c658
+2023-10-31 14:33:42,102 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 7a885908-af59-400b-803e-480fae759951)
+2023-10-31 14:33:42,102 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 9b111ca8-32fa-42e5-a162-9e554e2cae43)
+2023-10-31 14:33:42,103 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 4cf51192-e21f-4ab1-af54-ae73e44bccf4)
+2023-10-31 14:33:42,108 - basicLogger - INFO - Received event add_macros request with a trace id of 07abc1f2-c079-4f4f-85c0-bb6c4d053ec9
+2023-10-31 14:33:42,109 - basicLogger - INFO - Received event add_macros request with a trace id of 00bb362b-581d-4261-b275-c7dc039f02fb
+2023-10-31 14:33:42,110 - basicLogger - INFO - Received event add_macros request with a trace id of bdd3b56b-de40-4ccb-b789-7e735dda172f
+2023-10-31 14:33:42,352 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: fbaa47db-4dbe-45a5-8bcc-75834a7209e6)
+2023-10-31 14:33:42,356 - basicLogger - INFO - Received event add_macros request with a trace id of 666e3aeb-71b3-49b4-9ef9-51b336ba7975
+2023-10-31 14:33:42,474 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: edbe59c9-c468-4eb9-89ca-c7505107c658)
+2023-10-31 14:33:42,477 - basicLogger - INFO - Received event add_macros request with a trace id of fba49c2c-cded-47a5-8693-143fe5c142e1
+2023-10-31 14:33:47,580 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 00bb362b-581d-4261-b275-c7dc039f02fb)
+2023-10-31 14:33:47,583 - basicLogger - INFO - Received event add_weight request with a trace id of 1e729dd8-8a0e-4c94-875b-c45869047c58
+2023-10-31 14:33:47,596 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 07abc1f2-c079-4f4f-85c0-bb6c4d053ec9)
+2023-10-31 14:33:47,596 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: bdd3b56b-de40-4ccb-b789-7e735dda172f)
+2023-10-31 14:33:47,600 - basicLogger - INFO - Received event add_weight request with a trace id of d72dd06b-431a-4f25-aded-1d490848aedb
+2023-10-31 14:33:47,601 - basicLogger - INFO - Received event add_weight request with a trace id of 5a4ce3fc-e2cc-4289-a905-4650db1538e3
+2023-10-31 14:33:47,956 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 666e3aeb-71b3-49b4-9ef9-51b336ba7975)
+2023-10-31 14:33:47,960 - basicLogger - INFO - Received event add_weight request with a trace id of ab4cc76a-92f1-431d-85bd-52a78298d5dd
+2023-10-31 14:33:48,049 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: fba49c2c-cded-47a5-8693-143fe5c142e1)
+2023-10-31 14:33:48,053 - basicLogger - INFO - Received event add_weight request with a trace id of c328b69f-8457-4cc6-8240-01ead8f75f73
+2023-10-31 14:33:53,163 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 1e729dd8-8a0e-4c94-875b-c45869047c58)
+2023-10-31 14:33:53,163 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: d72dd06b-431a-4f25-aded-1d490848aedb)
+2023-10-31 14:33:53,168 - basicLogger - INFO - Received event add_macros request with a trace id of b62a0e0a-9a45-4f43-8ae9-ef424a514c20
+2023-10-31 14:33:53,168 - basicLogger - INFO - Received event add_macros request with a trace id of 10d5a8f8-4292-4b85-a1b5-370411c4f4d7
+2023-10-31 14:33:53,179 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 5a4ce3fc-e2cc-4289-a905-4650db1538e3)
+2023-10-31 14:33:53,181 - basicLogger - INFO - Received event add_macros request with a trace id of 7930f7b1-21eb-432d-a0c6-9566431f3e85
+2023-10-31 14:33:53,665 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: ab4cc76a-92f1-431d-85bd-52a78298d5dd)
+2023-10-31 14:33:53,669 - basicLogger - INFO - Received event add_macros request with a trace id of 5b7b5dfe-e188-42cf-afad-fbb757173df1
+2023-10-31 14:33:53,744 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: c328b69f-8457-4cc6-8240-01ead8f75f73)
+2023-10-31 14:33:53,748 - basicLogger - INFO - Received event add_macros request with a trace id of a9aea48a-aa71-444f-a913-269ed5c0a240
+2023-10-31 14:33:58,755 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b62a0e0a-9a45-4f43-8ae9-ef424a514c20)
+2023-10-31 14:33:58,755 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 10d5a8f8-4292-4b85-a1b5-370411c4f4d7)
+2023-10-31 14:33:58,755 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 7930f7b1-21eb-432d-a0c6-9566431f3e85)
+2023-10-31 14:33:58,760 - basicLogger - INFO - Received event add_weight request with a trace id of 618224ce-80c3-434e-a107-30412c64a59a
+2023-10-31 14:33:58,761 - basicLogger - INFO - Received event add_weight request with a trace id of eab4474a-1f56-4e83-b589-61fdf6317e92
+2023-10-31 14:33:58,763 - basicLogger - INFO - Received event add_weight request with a trace id of 14ff153e-ee42-4f70-af71-6cbe6b173745
+2023-10-31 14:33:59,219 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 5b7b5dfe-e188-42cf-afad-fbb757173df1)
+2023-10-31 14:33:59,222 - basicLogger - INFO - Received event add_weight request with a trace id of 8d2a9a1e-f48f-47af-ba40-79169d4f8b4b
+2023-10-31 14:33:59,295 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a9aea48a-aa71-444f-a913-269ed5c0a240)
+2023-10-31 14:33:59,299 - basicLogger - INFO - Received event add_weight request with a trace id of 784e9bd4-6505-4828-92a8-3555c4bbcb3a
+2023-10-31 14:34:04,202 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 618224ce-80c3-434e-a107-30412c64a59a)
+2023-10-31 14:34:04,206 - basicLogger - INFO - Received event add_macros request with a trace id of 717ba6e4-c02f-4be3-9917-048363a1225f
+2023-10-31 14:34:04,218 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: eab4474a-1f56-4e83-b589-61fdf6317e92)
+2023-10-31 14:34:04,221 - basicLogger - INFO - Received event add_macros request with a trace id of d52b772f-cc9a-4dc3-9ea1-d55da1f85f55
+2023-10-31 14:34:04,248 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 14ff153e-ee42-4f70-af71-6cbe6b173745)
+2023-10-31 14:34:04,252 - basicLogger - INFO - Received event add_macros request with a trace id of 0bbf202e-240d-4eef-8313-e781b9272b94
+2023-10-31 14:34:04,669 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 8d2a9a1e-f48f-47af-ba40-79169d4f8b4b)
+2023-10-31 14:34:04,673 - basicLogger - INFO - Received event add_macros request with a trace id of 1866118a-8a00-4ca0-a6ed-fd8177f59500
+2023-10-31 14:34:04,762 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 784e9bd4-6505-4828-92a8-3555c4bbcb3a)
+2023-10-31 14:34:04,766 - basicLogger - INFO - Received event add_macros request with a trace id of f13ff10f-9ce5-4bb4-aae9-63891954dab0
+2023-10-31 14:34:09,691 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: d52b772f-cc9a-4dc3-9ea1-d55da1f85f55)
+2023-10-31 14:34:09,691 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 717ba6e4-c02f-4be3-9917-048363a1225f)
+2023-10-31 14:34:09,739 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 0bbf202e-240d-4eef-8313-e781b9272b94)
+2023-10-31 14:34:10,155 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1866118a-8a00-4ca0-a6ed-fd8177f59500)
+2023-10-31 14:34:10,233 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: f13ff10f-9ce5-4bb4-aae9-63891954dab0)
+2023-10-31 14:34:54,707 - basicLogger - INFO - Received event add_macros request with a trace id of 1723876e-b2fd-4a69-aa33-9b974d100d54
+2023-10-31 14:35:00,355 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1723876e-b2fd-4a69-aa33-9b974d100d54)
+2023-10-31 14:43:55,566 - basicLogger - INFO - Received event add_macros request with a trace id of cce47b8e-c225-492e-9e4c-0de5ecdb151f
+2023-10-31 14:44:01,022 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: cce47b8e-c225-492e-9e4c-0de5ecdb151f)
+2023-10-31 14:48:05,941 - basicLogger - INFO - Received event add_weight request with a trace id of e07f177a-5980-4679-8752-5578b02ec858
+2023-10-31 14:48:11,409 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: e07f177a-5980-4679-8752-5578b02ec858)
+2023-10-31 14:49:27,218 - basicLogger - INFO - Received event add_weight request with a trace id of 89433a72-4012-4680-b495-f151637228b4
+2023-10-31 14:49:32,648 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 89433a72-4012-4680-b495-f151637228b4)
+2023-10-31 14:51:32,747 - basicLogger - INFO - Received event add_weight request with a trace id of ff180cfe-c913-4979-bec8-dc6650fd6446
+2023-10-31 14:51:32,950 - basicLogger - INFO - Received event add_weight request with a trace id of 1dc62ec1-6fc4-4a73-b93f-00727c0f6c0e
+2023-10-31 14:51:33,140 - basicLogger - INFO - Received event add_weight request with a trace id of 3586b927-2ba4-4bd2-ae46-61233d4cbf76
+2023-10-31 14:51:33,342 - basicLogger - INFO - Received event add_weight request with a trace id of b67c218f-1405-4295-9e87-37dc889085c3
+2023-10-31 14:51:33,540 - basicLogger - INFO - Received event add_weight request with a trace id of 06772f09-bda7-4b58-bebd-77c56f23e9f6
+2023-10-31 14:51:38,238 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: ff180cfe-c913-4979-bec8-dc6650fd6446)
+2023-10-31 14:51:38,242 - basicLogger - INFO - Received event add_macros request with a trace id of dd03b6cf-4214-4651-81b1-cd8d7551d102
+2023-10-31 14:51:38,423 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 1dc62ec1-6fc4-4a73-b93f-00727c0f6c0e)
+2023-10-31 14:51:38,427 - basicLogger - INFO - Received event add_macros request with a trace id of c9b023bc-ccf7-4f3c-a357-9fc512c46407
+2023-10-31 14:51:38,620 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 3586b927-2ba4-4bd2-ae46-61233d4cbf76)
+2023-10-31 14:51:38,624 - basicLogger - INFO - Received event add_macros request with a trace id of d09a9a25-9d59-4cfa-9cc5-7f8f6a97b896
+2023-10-31 14:51:38,787 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: b67c218f-1405-4295-9e87-37dc889085c3)
+2023-10-31 14:51:38,791 - basicLogger - INFO - Received event add_macros request with a trace id of c13fba28-5830-4402-8d68-7bbf974244b3
+2023-10-31 14:51:39,006 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 06772f09-bda7-4b58-bebd-77c56f23e9f6)
+2023-10-31 14:51:39,014 - basicLogger - INFO - Received event add_macros request with a trace id of 768f397d-54ea-4d61-8752-bd4f428f081f
+2023-10-31 14:51:43,714 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: dd03b6cf-4214-4651-81b1-cd8d7551d102)
+2023-10-31 14:51:43,718 - basicLogger - INFO - Received event add_weight request with a trace id of 8d0c3052-68a9-45bb-8083-6d2d0aa3f10d
+2023-10-31 14:51:43,874 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c9b023bc-ccf7-4f3c-a357-9fc512c46407)
+2023-10-31 14:51:43,878 - basicLogger - INFO - Received event add_weight request with a trace id of a747de97-2d91-4d8c-b29d-9bbc4ad18ab4
+2023-10-31 14:51:44,076 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: d09a9a25-9d59-4cfa-9cc5-7f8f6a97b896)
+2023-10-31 14:51:44,080 - basicLogger - INFO - Received event add_weight request with a trace id of d6213317-8a92-4982-8ba7-741a6d50e276
+2023-10-31 14:51:44,267 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c13fba28-5830-4402-8d68-7bbf974244b3)
+2023-10-31 14:51:44,271 - basicLogger - INFO - Received event add_weight request with a trace id of 5ea77733-7eea-4404-9769-f518eab7f9fa
+2023-10-31 14:51:44,489 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 768f397d-54ea-4d61-8752-bd4f428f081f)
+2023-10-31 14:51:44,493 - basicLogger - INFO - Received event add_weight request with a trace id of 18342700-b330-4f57-9be8-df81e4e863bc
+2023-10-31 14:51:49,217 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 8d0c3052-68a9-45bb-8083-6d2d0aa3f10d)
+2023-10-31 14:51:49,221 - basicLogger - INFO - Received event add_macros request with a trace id of 8a39f2f8-2445-4ee6-b8c5-ba8115535119
+2023-10-31 14:51:49,337 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a747de97-2d91-4d8c-b29d-9bbc4ad18ab4)
+2023-10-31 14:51:49,341 - basicLogger - INFO - Received event add_macros request with a trace id of ed48eef6-2a0d-4509-b087-584850612b7e
+2023-10-31 14:51:49,557 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: d6213317-8a92-4982-8ba7-741a6d50e276)
+2023-10-31 14:51:49,561 - basicLogger - INFO - Received event add_macros request with a trace id of 54e4f964-7380-4cfe-9176-893fc70a051f
+2023-10-31 14:51:49,738 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 5ea77733-7eea-4404-9769-f518eab7f9fa)
+2023-10-31 14:51:49,742 - basicLogger - INFO - Received event add_macros request with a trace id of 30be61f8-8b06-4dd0-a9e4-dae95f05b6c8
+2023-10-31 14:51:49,954 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 18342700-b330-4f57-9be8-df81e4e863bc)
+2023-10-31 14:51:49,958 - basicLogger - INFO - Received event add_macros request with a trace id of 80e01cad-c9a3-4faa-a2c9-810574b6c015
+2023-10-31 14:51:54,712 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 8a39f2f8-2445-4ee6-b8c5-ba8115535119)
+2023-10-31 14:51:54,718 - basicLogger - INFO - Received event add_weight request with a trace id of f16d179e-6ff2-4d1d-8ab6-c73f3e6da956
+2023-10-31 14:51:54,826 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: ed48eef6-2a0d-4509-b087-584850612b7e)
+2023-10-31 14:51:54,830 - basicLogger - INFO - Received event add_weight request with a trace id of 7ffd37db-1301-4b3e-b9e9-7435e95c3243
+2023-10-31 14:51:55,032 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 54e4f964-7380-4cfe-9176-893fc70a051f)
+2023-10-31 14:51:55,036 - basicLogger - INFO - Received event add_weight request with a trace id of 764921e9-f04e-4dbd-b0e9-c4f4c7a17870
+2023-10-31 14:51:55,209 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 30be61f8-8b06-4dd0-a9e4-dae95f05b6c8)
+2023-10-31 14:51:55,213 - basicLogger - INFO - Received event add_weight request with a trace id of 3ec54c1a-37dd-4872-9c77-ca6278596e14
+2023-10-31 14:51:55,467 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 80e01cad-c9a3-4faa-a2c9-810574b6c015)
+2023-10-31 14:51:55,475 - basicLogger - INFO - Received event add_weight request with a trace id of e459e877-1fad-4406-91f4-08f76c90e184
+2023-10-31 14:52:00,211 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f16d179e-6ff2-4d1d-8ab6-c73f3e6da956)
+2023-10-31 14:52:00,215 - basicLogger - INFO - Received event add_macros request with a trace id of b8f855e8-e754-4a1d-8074-d47751465a5a
+2023-10-31 14:52:00,279 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 7ffd37db-1301-4b3e-b9e9-7435e95c3243)
+2023-10-31 14:52:00,283 - basicLogger - INFO - Received event add_macros request with a trace id of 4115cc27-b98d-4003-a689-b3cd66c44627
+2023-10-31 14:52:00,494 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 764921e9-f04e-4dbd-b0e9-c4f4c7a17870)
+2023-10-31 14:52:00,502 - basicLogger - INFO - Received event add_macros request with a trace id of 1337bc96-282d-4780-a086-19905ce7103a
+2023-10-31 14:52:00,706 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 3ec54c1a-37dd-4872-9c77-ca6278596e14)
+2023-10-31 14:52:00,710 - basicLogger - INFO - Received event add_macros request with a trace id of 43287f20-f072-42b7-9911-82dade5e93f4
+2023-10-31 14:52:00,933 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: e459e877-1fad-4406-91f4-08f76c90e184)
+2023-10-31 14:52:00,937 - basicLogger - INFO - Received event add_macros request with a trace id of 067258a2-d71b-41dc-80b4-c321cee61d67
+2023-10-31 14:52:05,706 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b8f855e8-e754-4a1d-8074-d47751465a5a)
+2023-10-31 14:52:05,714 - basicLogger - INFO - Received event add_weight request with a trace id of cbe5fb32-477e-41fa-a8a8-a406ba4bd017
+2023-10-31 14:52:05,758 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 4115cc27-b98d-4003-a689-b3cd66c44627)
+2023-10-31 14:52:05,766 - basicLogger - INFO - Received event add_weight request with a trace id of 64f10415-01f6-4260-bed4-2075c54089cd
+2023-10-31 14:52:05,966 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1337bc96-282d-4780-a086-19905ce7103a)
+2023-10-31 14:52:05,970 - basicLogger - INFO - Received event add_weight request with a trace id of abb1548e-d0bb-4411-aa08-ddd8658d954c
+2023-10-31 14:52:06,206 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 43287f20-f072-42b7-9911-82dade5e93f4)
+2023-10-31 14:52:06,210 - basicLogger - INFO - Received event add_weight request with a trace id of 6ff51ee4-bc73-44b6-883e-6d749c795743
+2023-10-31 14:52:06,408 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 067258a2-d71b-41dc-80b4-c321cee61d67)
+2023-10-31 14:52:06,412 - basicLogger - INFO - Received event add_weight request with a trace id of f345a75f-4599-4eda-bcf5-ce9543f809ab
+2023-10-31 14:52:11,238 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 64f10415-01f6-4260-bed4-2075c54089cd)
+2023-10-31 14:52:11,238 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: cbe5fb32-477e-41fa-a8a8-a406ba4bd017)
+2023-10-31 14:52:11,246 - basicLogger - INFO - Received event add_macros request with a trace id of ceaf0a2f-5383-4432-ab83-7511a0801282
+2023-10-31 14:52:11,246 - basicLogger - INFO - Received event add_macros request with a trace id of 7a8b4971-75ba-4e9a-9f2c-2523bb712500
+2023-10-31 14:52:11,428 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: abb1548e-d0bb-4411-aa08-ddd8658d954c)
+2023-10-31 14:52:11,432 - basicLogger - INFO - Received event add_macros request with a trace id of 1dfd9bf9-a364-4763-b207-e628f6794a2b
+2023-10-31 14:52:11,677 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 6ff51ee4-bc73-44b6-883e-6d749c795743)
+2023-10-31 14:52:11,681 - basicLogger - INFO - Received event add_macros request with a trace id of fc1493f7-ef5e-4f14-bd1b-65c6b6f89884
+2023-10-31 14:52:11,892 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: f345a75f-4599-4eda-bcf5-ce9543f809ab)
+2023-10-31 14:52:11,896 - basicLogger - INFO - Received event add_macros request with a trace id of f24d0412-df6c-438c-ad49-723d8a9ac6ea
+2023-10-31 14:52:16,686 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: ceaf0a2f-5383-4432-ab83-7511a0801282)
+2023-10-31 14:52:16,690 - basicLogger - INFO - Received event add_weight request with a trace id of a472db71-4065-4def-bb46-792622a73170
+2023-10-31 14:52:16,718 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 7a8b4971-75ba-4e9a-9f2c-2523bb712500)
+2023-10-31 14:52:16,722 - basicLogger - INFO - Received event add_weight request with a trace id of 7b12ee65-0d29-430e-beff-1573e3987fef
+2023-10-31 14:52:16,894 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 1dfd9bf9-a364-4763-b207-e628f6794a2b)
+2023-10-31 14:52:16,901 - basicLogger - INFO - Received event add_weight request with a trace id of cac840e8-0af8-412e-93c4-c95796c6600d
+2023-10-31 14:52:17,171 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: fc1493f7-ef5e-4f14-bd1b-65c6b6f89884)
+2023-10-31 14:52:17,176 - basicLogger - INFO - Received event add_weight request with a trace id of 1f743f18-327d-4f35-9304-c690965f17c1
+2023-10-31 14:52:17,387 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: f24d0412-df6c-438c-ad49-723d8a9ac6ea)
+2023-10-31 14:52:17,391 - basicLogger - INFO - Received event add_weight request with a trace id of be4cae44-c9a7-42ef-86b9-57af604359cf
+2023-10-31 14:52:22,214 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 7b12ee65-0d29-430e-beff-1573e3987fef)
+2023-10-31 14:52:22,218 - basicLogger - INFO - Received event add_macros request with a trace id of 5b3ca3a3-9add-4ab5-8cbd-71cb4e9057b3
+2023-10-31 14:52:22,230 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a472db71-4065-4def-bb46-792622a73170)
+2023-10-31 14:52:22,234 - basicLogger - INFO - Received event add_macros request with a trace id of 0ccce659-7f07-47d2-9aa2-b9be2361bf46
+2023-10-31 14:52:22,395 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: cac840e8-0af8-412e-93c4-c95796c6600d)
+2023-10-31 14:52:22,403 - basicLogger - INFO - Received event add_macros request with a trace id of a452baf6-75fc-4214-953b-7cf587305e78
+2023-10-31 14:52:22,619 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 1f743f18-327d-4f35-9304-c690965f17c1)
+2023-10-31 14:52:22,623 - basicLogger - INFO - Received event add_macros request with a trace id of a4664ad8-13ab-4d90-a336-c9be50ee274b
+2023-10-31 14:52:22,864 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: be4cae44-c9a7-42ef-86b9-57af604359cf)
+2023-10-31 14:52:22,868 - basicLogger - INFO - Received event add_macros request with a trace id of a9fce4bb-4d74-497e-be4a-afba14ffc5f1
+2023-10-31 14:52:27,681 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 5b3ca3a3-9add-4ab5-8cbd-71cb4e9057b3)
+2023-10-31 14:52:27,685 - basicLogger - INFO - Received event add_weight request with a trace id of 3e220da6-9daa-479e-864c-2b0116709579
+2023-10-31 14:52:27,709 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 0ccce659-7f07-47d2-9aa2-b9be2361bf46)
+2023-10-31 14:52:27,713 - basicLogger - INFO - Received event add_weight request with a trace id of b521c9b3-ddd7-41ca-b155-da5987c76478
+2023-10-31 14:52:27,895 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a452baf6-75fc-4214-953b-7cf587305e78)
+2023-10-31 14:52:27,899 - basicLogger - INFO - Received event add_weight request with a trace id of 4b1aaec0-6770-4165-800e-19158391c9bf
+2023-10-31 14:52:28,080 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a4664ad8-13ab-4d90-a336-c9be50ee274b)
+2023-10-31 14:52:28,084 - basicLogger - INFO - Received event add_weight request with a trace id of 0a27e857-6172-47b0-b46a-a6ea22de0348
+2023-10-31 14:52:28,358 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a9fce4bb-4d74-497e-be4a-afba14ffc5f1)
+2023-10-31 14:52:28,362 - basicLogger - INFO - Received event add_weight request with a trace id of 0e37270a-2891-4781-95c5-abe7c2faaebf
+2023-10-31 14:52:33,164 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 3e220da6-9daa-479e-864c-2b0116709579)
+2023-10-31 14:52:33,164 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: b521c9b3-ddd7-41ca-b155-da5987c76478)
+2023-10-31 14:52:33,172 - basicLogger - INFO - Received event add_macros request with a trace id of 0abe4587-6d3b-4261-998a-346535377a3e
+2023-10-31 14:52:33,172 - basicLogger - INFO - Received event add_macros request with a trace id of c13db76c-0a1e-4ec4-9efe-e4f2e444be0c
+2023-10-31 14:52:33,356 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 4b1aaec0-6770-4165-800e-19158391c9bf)
+2023-10-31 14:52:33,360 - basicLogger - INFO - Received event add_macros request with a trace id of a740f5cb-5b70-4b9d-824b-64d7542843a1
+2023-10-31 14:52:33,552 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 0a27e857-6172-47b0-b46a-a6ea22de0348)
+2023-10-31 14:52:33,556 - basicLogger - INFO - Received event add_macros request with a trace id of 3dc845cd-1eae-437e-8fd4-01f3f80589ac
+2023-10-31 14:52:33,819 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 0e37270a-2891-4781-95c5-abe7c2faaebf)
+2023-10-31 14:52:33,826 - basicLogger - INFO - Received event add_macros request with a trace id of 72f5ce03-53c3-4a88-93e2-65ed2e18f9f7
+2023-10-31 14:52:38,617 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: c13db76c-0a1e-4ec4-9efe-e4f2e444be0c)
+2023-10-31 14:52:38,621 - basicLogger - INFO - Received event add_weight request with a trace id of fb662aa1-70ca-4515-a2ae-8def71338c7b
+2023-10-31 14:52:38,649 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 0abe4587-6d3b-4261-998a-346535377a3e)
+2023-10-31 14:52:38,657 - basicLogger - INFO - Received event add_weight request with a trace id of 6f670f8d-55ba-4bee-881b-695012b4b15d
+2023-10-31 14:52:38,833 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a740f5cb-5b70-4b9d-824b-64d7542843a1)
+2023-10-31 14:52:38,837 - basicLogger - INFO - Received event add_weight request with a trace id of a642e940-1e1e-4f20-927d-9e1860b80b74
+2023-10-31 14:52:39,023 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 3dc845cd-1eae-437e-8fd4-01f3f80589ac)
+2023-10-31 14:52:39,027 - basicLogger - INFO - Received event add_weight request with a trace id of a8d903c2-1920-4a9b-857e-bdbfd5995830
+2023-10-31 14:52:39,277 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 72f5ce03-53c3-4a88-93e2-65ed2e18f9f7)
+2023-10-31 14:52:39,285 - basicLogger - INFO - Received event add_weight request with a trace id of 9a880499-7926-45cf-ac8f-0cd71f03fee4
+2023-10-31 14:52:44,081 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 6f670f8d-55ba-4bee-881b-695012b4b15d)
+2023-10-31 14:52:44,085 - basicLogger - INFO - Received event add_macros request with a trace id of 366e7502-3416-4e63-b50b-5542e77c75b7
+2023-10-31 14:52:44,111 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: fb662aa1-70ca-4515-a2ae-8def71338c7b)
+2023-10-31 14:52:44,115 - basicLogger - INFO - Received event add_macros request with a trace id of b1df3e93-261d-46f0-8d99-8f625066c178
+2023-10-31 14:52:44,305 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a642e940-1e1e-4f20-927d-9e1860b80b74)
+2023-10-31 14:52:44,310 - basicLogger - INFO - Received event add_macros request with a trace id of f23af34c-f0e3-4a5c-8f2f-ef89cd3fdf89
+2023-10-31 14:52:44,519 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a8d903c2-1920-4a9b-857e-bdbfd5995830)
+2023-10-31 14:52:44,523 - basicLogger - INFO - Received event add_macros request with a trace id of b76a18f0-5dc5-45c8-a92b-a5395e88bf9d
+2023-10-31 14:52:44,760 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 9a880499-7926-45cf-ac8f-0cd71f03fee4)
+2023-10-31 14:52:44,764 - basicLogger - INFO - Received event add_macros request with a trace id of 80b0c801-1731-4029-afee-16a33121c891
+2023-10-31 14:52:49,547 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 366e7502-3416-4e63-b50b-5542e77c75b7)
+2023-10-31 14:52:49,547 - basicLogger - INFO - Received event add_weight request with a trace id of a74ddc05-704e-4dc3-a378-7f15311937c0
+2023-10-31 14:52:49,571 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b1df3e93-261d-46f0-8d99-8f625066c178)
+2023-10-31 14:52:49,575 - basicLogger - INFO - Received event add_weight request with a trace id of a20c7245-2a78-408a-ab62-f04265c602bf
+2023-10-31 14:52:49,760 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: f23af34c-f0e3-4a5c-8f2f-ef89cd3fdf89)
+2023-10-31 14:52:49,780 - basicLogger - INFO - Received event add_weight request with a trace id of 06d85f7f-522f-4bde-8917-64582092b4a1
+2023-10-31 14:52:49,996 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: b76a18f0-5dc5-45c8-a92b-a5395e88bf9d)
+2023-10-31 14:52:50,000 - basicLogger - INFO - Received event add_weight request with a trace id of 992732aa-f6ad-4112-b433-687c765a6ac1
+2023-10-31 14:52:50,241 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 80b0c801-1731-4029-afee-16a33121c891)
+2023-10-31 14:52:50,245 - basicLogger - INFO - Received event add_weight request with a trace id of bdfbea3f-053a-4305-8fb6-ba0ee56e9bf7
+2023-10-31 14:52:54,995 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a74ddc05-704e-4dc3-a378-7f15311937c0)
+2023-10-31 14:52:54,999 - basicLogger - INFO - Received event add_macros request with a trace id of a1c5494a-7952-4d7a-b818-7e3372f8e041
+2023-10-31 14:52:55,035 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: a20c7245-2a78-408a-ab62-f04265c602bf)
+2023-10-31 14:52:55,039 - basicLogger - INFO - Received event add_macros request with a trace id of 87030d49-bf5e-43f6-b4ba-3743d03bc914
+2023-10-31 14:52:55,239 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 06d85f7f-522f-4bde-8917-64582092b4a1)
+2023-10-31 14:52:55,243 - basicLogger - INFO - Received event add_macros request with a trace id of 5e23e016-9baa-40c0-9599-ff52e5bb4c88
+2023-10-31 14:52:55,454 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: 992732aa-f6ad-4112-b433-687c765a6ac1)
+2023-10-31 14:52:55,458 - basicLogger - INFO - Received event add_macros request with a trace id of 3dea2307-23bd-47f2-a814-ad3cf61161d3
+2023-10-31 14:52:55,688 - basicLogger - INFO - Pushed add_weight event to Kafka (Id: bdfbea3f-053a-4305-8fb6-ba0ee56e9bf7)
+2023-10-31 14:52:55,692 - basicLogger - INFO - Received event add_macros request with a trace id of 0b2fd122-2a0c-4eef-9719-8f602689b398
+2023-10-31 14:53:00,468 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: a1c5494a-7952-4d7a-b818-7e3372f8e041)
+2023-10-31 14:53:00,500 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 87030d49-bf5e-43f6-b4ba-3743d03bc914)
+2023-10-31 14:53:00,723 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 5e23e016-9baa-40c0-9599-ff52e5bb4c88)
+2023-10-31 14:53:00,899 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 3dea2307-23bd-47f2-a814-ad3cf61161d3)
+2023-10-31 14:53:01,145 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 0b2fd122-2a0c-4eef-9719-8f602689b398)

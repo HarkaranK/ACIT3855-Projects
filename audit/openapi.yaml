@@ -1,0 +1,198 @@
+---
+openapi: 3.0.0
+info:
+  title: Macro Nutrient API
+  description: This API tracks the nutrients absorbed throughout the day
+  contact:
+    email: hkang79@my.bcit.ca
+  version: 1.0.0
+
+tags:
+- name: macros
+  description: Individual nutrients for a day
+- name: weight_average
+  description: The average weight for a given day
+
+paths:
+  /weight:
+
+    get: 
+      tags:
+        - weight_average
+      summary: Get new weight Average readings
+      # operationId: app.get_event_index
+      operationId: app.get_weight_record_index
+      description: Gets weight average readings added after a timestamp
+      parameters:
+        - name: index
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a list of weight average events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/weight_logging'
+
+        '400':
+          description: Invalid Request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /macro:
+    get:  
+      tags:
+        - macros
+      summary: Get new macros readings
+      operationId: app.get_macros_record_index
+      description: Gets macros readings added after a timestamp
+      parameters:
+        - name: index
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a list of macro events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/macro_logging'
+
+        '400':
+          description: Invalid Request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    weight_logging:
+      required:
+      - note
+      - weight
+      type: object
+      properties:
+        weight:
+          type: number
+          example: 179.5
+        note:
+          type: string
+          example: Feeling kind of bloated today
+        trace_id:
+          type: string
+          format: uuid
+    macro_logging:
+      required:
+      - calcium
+      - carbohydrate
+      - fats
+      - iron
+      - magnesium
+      - omega_3
+      - omega_6
+      - potassium
+      - protein
+      - sodium
+      - vitamin_A
+      - vitamin_B
+      - vitamin_C
+      - vitamin_D
+      - vitamin_E
+      - vitamin_K
+      - zinc
+      type: object
+      properties:
+        protein:
+          type: number
+          example: 27
+        carbohydrate:
+          type: number
+          example: 12
+        fats:
+          type: number
+          example: 15
+        vitamin_A:
+          type: number
+          example: 17
+        vitamin_B:
+          type: number
+          example: 19
+        vitamin_C:
+          type: number
+          example: 8
+        vitamin_D:
+          type: number
+          example: 4
+        vitamin_E:
+          type: number
+          example: 24
+        vitamin_K:
+          type: number
+          example: 29
+        calcium:
+          type: number
+          example: 22.2
+        sodium:
+          type: number
+          example: 23
+        iron:
+          type: number
+          example: 4.1
+        potassium:
+          type: number
+          example: 1.7
+        magnesium:
+          type: number
+          example: 3.7
+        zinc:
+          type: number
+          example: 22
+        omega_3:
+          type: number
+          example: 4
+        omega_6:
+          type: number
+          example: 12
+        trace_id:
+          type: string
+          format: uuid

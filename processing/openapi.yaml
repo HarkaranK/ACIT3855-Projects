@@ -1,0 +1,66 @@
+---
+openapi: 3.0.0
+info:
+  title: Macro Nutrient API
+  description: This API tracks the nutrients absorbed throughout the day
+  contact:
+    email: hkang79@my.bcit.ca
+  version: 1.0.0
+
+
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets Weight and macros processed statistics
+      tags:
+        - statistics
+      responses:
+        '200':
+          description: Successfully returned a list of Weight and Macro events
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+tags:
+  - name: statistics
+    description: Operations related to event statistics
+
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - num_weight_readings
+      - max_weight_readings
+      - num_macro_readings
+      - max_protein_readings
+      - last_updated
+      properties:
+        num_weight_readings:
+          type: number
+          example: 40000
+        max_weight_readings:
+          type: number
+          example: 500
+        num_macro_readings:
+          type: number
+          example: 40000
+        max_protein_readings:
+          type: number
+          example: 225
+        last_updated:
+          type: string
+          example: "2023-10-18T16:19:03Z"
+      type: object
+

@@ -1,0 +1,10 @@
+version: 1
+eventstore1:
+  url: http://localhost:8091/weight
+eventstore2:
+  url: http://localhost:8091/macro
+
+events:
+  hostname: lab6-servicebased.eastus.cloudapp.azure.com
+  port: 9092
+  topic: macro_weight_tracker
