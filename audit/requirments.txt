@@ -1,0 +1,4 @@
+connexion==2.14.2
+swagger-ui-bundle==0.0.9
+requests==2.31.0
+pykafka==2.8.0
