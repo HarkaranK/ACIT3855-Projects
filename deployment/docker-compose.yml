@@ -44,12 +44,14 @@ services:
     volumes:
       - my-db:/var/lib/mysql
 
+
   Receiver:
     image: receiver
     ports:
       - "8080:8080"
     depends_on:
       - "kafka"
+
 
   storage:
     image: storage
@@ -58,7 +60,7 @@ services:
     depends_on:
       - "kafka"
       - "db"
-
+  
   processing:
     image: processing
     ports:

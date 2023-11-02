@@ -8,3 +8,5 @@ RUN pip3 install -r requirments.txt
 COPY . /app
 ENTRYPOINT ["python3"]
 CMD ["app.py"]
+ENV IMAGE_NAME="storage" 
+ENV TAG="latest"
