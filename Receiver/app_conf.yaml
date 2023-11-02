@@ -1,8 +1,8 @@
 version: 1
 eventstore1:
-  url: http://localhost:8091/weight
+  url: http://lab6-servicebased.eastus.cloudapp.azure.com:8091/weight
 eventstore2:
-  url: http://localhost:8091/macro
+  url: http://lab6-servicebased.eastus.cloudapp.azure.com:8091/macro
 
 events:
   hostname: lab6-servicebased.eastus.cloudapp.azure.com

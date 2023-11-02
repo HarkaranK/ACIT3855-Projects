@@ -4,4 +4,4 @@ datastore:
 scheduler:
   period_sec: 5
 eventstore:
-  url: http://localhost:8091
+  url: http://lab6-servicebased.eastus.cloudapp.azure.com:8091
