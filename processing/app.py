@@ -109,6 +109,7 @@ def populate_stats():
 
 def init_scheduler():
     sched = BackgroundScheduler(daemon=True)
+    #sched = BackgroundScheduler(daemon=False)
     sched.add_job(populate_stats,
                  'interval',
                  seconds=app_config['scheduler']['period_sec'])

@@ -2,6 +2,7 @@ version: 1
 datastore:
   filename: data.json
 scheduler:
-  period_sec: 5
+  period_sec: 10
 eventstore:
-  url: http://lab6-servicebased.eastus.cloudapp.azure.com:8091
+  url: http://localhost:8091
+  #url: http://lab6-servicebased.eastus.cloudapp.azure.com:8091
