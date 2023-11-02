@@ -6,9 +6,9 @@ import json
 import uuid
 import requests
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from base import Base
+#from sqlalchemy import create_engine
+#from sqlalchemy.orm import sessionmaker
+#from base import Base
 
 import os.path
 from apscheduler.schedulers.background import BackgroundScheduler

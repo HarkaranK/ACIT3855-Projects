@@ -2,9 +2,9 @@ FROM ubuntu:18.04
 LABEL maintainer="kang.harkaran21@gmail.com"
 RUN apt-get update -y && \
     apt-get install -y python3 python3-pip
-COPY ./requirments.txt /app/requirments.txt
+COPY ./requirements.txt /app/requirements.txt
 WORKDIR /app
-RUN pip3 install -r requirments.txt
+RUN pip3 install -r requirements.txt
 COPY . /app
 ENTRYPOINT ["python3"]
 CMD ["app.py"]
