@@ -71,9 +71,9 @@ def get_macros_record_index(index):
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
+app.add_api(REST_API, strict_validation=True, validate_responses=True )
 CORS(app.app)
 app.app.config['CORS_HEADERS'] = 'Content-Type'
-app.add_api(REST_API, strict_validation=True, validate_responses=True )
 
 if __name__ == "__main__":
     app.run(port=8092)
