@@ -8,7 +8,7 @@ import uuid
 #from SQLAlchemy import create_engine
 #from sqlalchemy.orm import sessionmaker
 
-
+from flask_cors import CORS, cross_origin
 
 import yaml
 import logging.config
@@ -71,6 +71,8 @@ def get_macros_record_index(index):
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api(REST_API, strict_validation=True, validate_responses=True )
 
 if __name__ == "__main__":
