@@ -1296,3 +1296,4 @@
 2023-11-23 10:59:08,447 - basicLogger - ERROR - Connection to Kafka failed: 
 2023-11-23 10:59:11,452 - basicLogger - INFO - Trying to connect to Kafka, attempt 5
 2023-11-23 10:59:12,098 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 11:04:44,992 - basicLogger - INFO - Received event add_macros request with a trace id of 91f4dfd9-f299-42d8-a007-27cde733c837
