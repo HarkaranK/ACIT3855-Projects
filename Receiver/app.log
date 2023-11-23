@@ -1286,3 +1286,13 @@
 2023-11-23 10:48:50,040 - basicLogger - ERROR - Connection to Kafka failed: 
 2023-11-23 10:48:53,040 - basicLogger - INFO - Trying to connect to Kafka, attempt 5
 2023-11-23 10:48:53,687 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:58:56,764 - basicLogger - INFO - Trying to connect to Kafka, attempt 1
+2023-11-23 10:58:57,433 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:59:00,447 - basicLogger - INFO - Trying to connect to Kafka, attempt 2
+2023-11-23 10:59:01,101 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:59:04,108 - basicLogger - INFO - Trying to connect to Kafka, attempt 3
+2023-11-23 10:59:04,772 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:59:07,776 - basicLogger - INFO - Trying to connect to Kafka, attempt 4
+2023-11-23 10:59:08,447 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:59:11,452 - basicLogger - INFO - Trying to connect to Kafka, attempt 5
+2023-11-23 10:59:12,098 - basicLogger - ERROR - Connection to Kafka failed: 

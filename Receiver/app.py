@@ -42,7 +42,7 @@ def get_kafka():
             retry_count += 1
     raise Exception("Failed to connect to Kafka after retries")
 
-client, producer = get_kafka()
+    client, producer = get_kafka()
 
 def send_kafka(event_type, payload):
     client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
