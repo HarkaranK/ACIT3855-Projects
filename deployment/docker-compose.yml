@@ -5,6 +5,9 @@ services:
     ports:
       - "2181"
     hostname: zookeeper
+    volumes:
+      - /home/azureuser/zookeeper/data:/opt/zookeeper-3.4.13/data
+
   kafka:
     image: wurstmeister/kafka
     command: [start-kafka.sh]
@@ -21,6 +24,7 @@ services:
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
+      - /home/azureuser/kafka:/kafka/kafka-logs
     depends_on:
       - "zookeeper"
   db:
@@ -49,6 +53,11 @@ services:
     image: receiver
     ports:
       - "8080:8080"
+    environment:
+      - TARGET_ENV=test
+    volumes:
+      - /home/azureuser/config/receiver:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       - "kafka"
 
@@ -57,6 +66,11 @@ services:
     image: storage
     ports:
       - "8091:8091"
+    environment:
+      - TARGET_ENV=test
+    volumes:
+      - /home/azureuser/config/storage:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       - "kafka"
       - "db"
@@ -66,6 +80,12 @@ services:
     ports:
       - "8100:8100"
     network_mode: "host"
+    environment:
+      - TARGET_ENV=test
+    volumes:
+      - /home/azureuser/config/processing:/config
+      - /home/azureuser/logs:/logs
+      - processing-db:/data
     depends_on:
       - "storage"
 
@@ -73,6 +93,11 @@ services:
     image: audit
     ports:
       - "8110:8110"
+    environment:
+      - TARGET_ENV=test
+    volumes:
+      - /home/azureuser/config/audit_log:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       - "kafka"
 
@@ -87,3 +112,4 @@ services:
 # Names our volume
 volumes:
   my-db:
+    processing-db:
