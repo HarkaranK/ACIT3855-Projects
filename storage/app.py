@@ -35,8 +35,9 @@ with open('log_conf.yaml', 'r') as f:
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
-logger.info("App Conf File: %s" % app_config)
-logger.info("Log Conf File: %s" % log_config)
+# Accidently added some lab10 stuff
+# logger.info("App Conf File: %s" % app_config) 
+# logger.info("Log Conf File: %s" % log_config)
 
 
 # Logs Hostname
