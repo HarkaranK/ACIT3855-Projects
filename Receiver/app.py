@@ -21,6 +21,28 @@ logger = logging.getLogger('basicLogger')
 
 REST_API = "./openapi.yaml"
 
+def get_kafka():
+    retry_count = 0
+    max_retries = app_config['kafka']['max_retries']
+    sleep_time = app_config['kafka']['retry_delay_sec']
+
+    while retry_count < max_retries:
+        try:
+            logger.info(f"Trying to connect to Kafka, attempt {retry_count+1}")
+            client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
+            kafka_topic = client.topics[str.encode(app_config['events']['topic'])]
+            producer = kafka_topic.get_sync_producer()
+            logger.info("Connected to Kafka successfully")
+            return client, producer
+            
+        except Exception as e:
+            logger.error(f"Connection to Kafka failed: {str(e)}")
+            time.sleep(sleep_time)
+            retry_count += 1
+    raise Exception("Failed to connect to Kafka after retries")
+
+client, producer = get_kafka()
+
 def send_kafka(event_type, payload):
     client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
     topic = client.topics[str.encode(app_config['events']['topic'])]

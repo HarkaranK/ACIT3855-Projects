@@ -8,9 +8,9 @@ import requests
 
 from flask_cors import CORS, cross_origin
 
-#from sqlalchemy import create_engine
-#from sqlalchemy.orm import sessionmaker
-#from base import Base
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from base import Base
 
 import os.path
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -57,9 +57,8 @@ def populate_stats():
                     "last_updated": "2000-01-01T00:00:00Z"
                 }
 
-    weight_event_response = requests.get(f"{app_config['eventstore']['url']}/weight?timestamp={current_stats['last_updated']}")
-    macro_event_response = requests.get(f"{app_config['eventstore']['url']}/macro?timestamp={current_stats['last_updated']}")
-
+    weight_event_response = requests.get(f"{app_config['eventstore']['url']}/weight?timestamp={last_updated}&end_timestamp={current_timestamp}")
+    macro_event_response = requests.get(f"{app_config['eventstore']['url']}/macro?timestamp={last_updated}&end_timestamp={current_timestamp}")
 
     if weight_event_response.status_code != 200:
         logger.error(f"Error fetching weight events: {weight_event_response.status_code}")
