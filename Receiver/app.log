@@ -1274,3 +1274,15 @@
 2023-10-31 14:53:00,723 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 5e23e016-9baa-40c0-9599-ff52e5bb4c88)
 2023-10-31 14:53:00,899 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 3dea2307-23bd-47f2-a814-ad3cf61161d3)
 2023-10-31 14:53:01,145 - basicLogger - INFO - Pushed adding_macro event to Kafka (Id: 0b2fd122-2a0c-4eef-9719-8f602689b398)
+2023-11-23 10:47:01,336 - basicLogger - INFO - Trying to connect to Kafka, attempt 1
+2023-11-23 10:47:02,018 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:48:38,318 - basicLogger - INFO - Trying to connect to Kafka, attempt 1
+2023-11-23 10:48:38,990 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:48:42,006 - basicLogger - INFO - Trying to connect to Kafka, attempt 2
+2023-11-23 10:48:42,642 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:48:45,644 - basicLogger - INFO - Trying to connect to Kafka, attempt 3
+2023-11-23 10:48:46,308 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:48:49,316 - basicLogger - INFO - Trying to connect to Kafka, attempt 4
+2023-11-23 10:48:50,040 - basicLogger - ERROR - Connection to Kafka failed: 
+2023-11-23 10:48:53,040 - basicLogger - INFO - Trying to connect to Kafka, attempt 5
+2023-11-23 10:48:53,687 - basicLogger - ERROR - Connection to Kafka failed: 
