@@ -45,9 +45,9 @@ def get_kafka():
 client, producer = get_kafka()
 
 def send_kafka(event_type, payload):
-    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-    topic = client.topics[str.encode(app_config['events']['topic'])]
-    producer = topic.get_sync_producer()
+    # client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
+    # topic = client.topics[str.encode(app_config['events']['topic'])]
+    #producer = topic.get_sync_producer()
     
     msg = {
         "type": event_type,
