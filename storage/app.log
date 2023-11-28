@@ -7971,3 +7971,9 @@
 2023-11-28 12:41:07,805 - basicLogger - INFO - Connected to MySQL database at lab6-servicebased.eastus.cloudapp.azure.com:3306
 2023-11-28 12:41:07,921 - basicLogger - INFO - Connected to MySQL database at lab6-servicebased.eastus.cloudapp.azure.com:3306
 2023-11-28 12:41:07,967 - basicLogger - INFO - Trying to connect to Kafka, attempt 1
+2023-11-28 12:48:50,201 - basicLogger - INFO - Connected to MySQL database at lab6-servicebased.eastus.cloudapp.azure.com:3306
+2023-11-28 12:48:50,324 - basicLogger - INFO - Connected to MySQL database at lab6-servicebased.eastus.cloudapp.azure.com:3306
+2023-11-28 12:48:50,364 - basicLogger - INFO - Trying to connect to Kafka, attempt 1
+2023-11-28 12:48:51,054 - basicLogger - INFO - Successfully connected to Kafka
+2023-11-28 12:48:51,120 - basicLogger - INFO - Message: {'type': 'adding_macros', 'datetime': '2023-11-28T20:45:30', 'payload': {'calcium': 27, 'carbohydrate': 12, 'fats': 15, 'iron': 4.1, 'magnesium': 3.7, 'omega_3': 4, 'omega_6': 12, 'potassium': 1.7, 'protein': 340, 'sodium': 23, 'vitamin_A': 17, 'vitamin_B': 19, 'vitamin_C': 8, 'vitamin_D': 4, 'vitamin_E': 24, 'vitamin_K': 29, 'zinc': 224, 'trace_id': 'c992c9f5-479b-412e-9009-5cc77dfe2b3b'}}
+2023-11-28 12:48:51,125 - basicLogger - INFO - Stored event adding_macros request with a trace id of c992c9f5-479b-412e-9009-5cc77dfe2b3b

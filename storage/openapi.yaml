@@ -34,7 +34,7 @@ paths:
 
         - name: end_timestamp
           in: query
-          description: End of the date range for return records
+          description: End of the date range for weight records
           schema:
             type: string
             format: date-time
@@ -69,7 +69,7 @@ paths:
 
         - name: end_timestamp
           in: query
-          description: End of the date range for return records
+          description: End of the date range for macro records
           schema:
             type: string
             format: date-time

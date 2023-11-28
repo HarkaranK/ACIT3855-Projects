@@ -15,7 +15,7 @@ from adding_weight import WeightRecord
 
 import yaml
 import logging.config
-import logging
+import logginggi
 
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
@@ -52,19 +52,6 @@ DB_SESSION = sessionmaker(bind=DB_ENGINE)
 REST_API = "./openapi.yaml"
 
 def process_messages():
-    # hostname = "%s:%d" % (app_config["events"]["hostname"],
-    #                       app_config["events"]["port"])
-
-    # client = KafkaClient(hosts=hostname)
-    # topic = client.topics[str.encode(app_config["events"]["topic"])]
-
-    # consumer = topic.get_simple_consumer(consumer_group=b'event_group',
-    #     reset_offset_on_start=False,
-    #     auto_offset_reset=OffsetType.LATEST
-    # )
-
-########## Old
-
     max_retries = app_config['kafka']['max_retries']
     retry_delay_sec = app_config['kafka']['retry_delay_sec']
     retry_count = 0
@@ -143,7 +130,7 @@ def process_messages():
 def get_weight(timestamp, end_timestamp):
     session = DB_SESSION()
 
-    timestamp_datetime = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
     end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     readings = session.query(WeightRecord).filter(and_(WeightRecord.date_created >= timestamp_datetime, WeightRecord.date_created < end_timestamp_datetime))
 
@@ -158,7 +145,7 @@ def get_weight(timestamp, end_timestamp):
 def get_macros(timestamp, end_timestamp):
     session = DB_SESSION()
 
-    timestamp_datetime = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
     end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     readings = session.query(MacroRecord).filter(and_(MacroRecord.date_created >= timestamp_datetime, MacroRecord.date_created < end_timestamp_datetime))
 
