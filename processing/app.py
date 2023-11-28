@@ -8,10 +8,6 @@ import requests
 
 from flask_cors import CORS, cross_origin
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from base import Base
-
 import os.path
 from apscheduler.schedulers.background import BackgroundScheduler
 
