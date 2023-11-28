@@ -20,6 +20,7 @@ import logging
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread
+import time
 
 with open('app_conf.yaml', 'r') as f:
     app_config = yaml.safe_load(f.read())
