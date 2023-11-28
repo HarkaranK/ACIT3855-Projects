@@ -15,7 +15,7 @@ from adding_weight import WeightRecord
 
 import yaml
 import logging.config
-import logginggi
+import logging
 
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
