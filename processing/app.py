@@ -5,7 +5,7 @@ import os
 import json
 import uuid
 import requests
-
+from datetime import datetime
 from flask_cors import CORS, cross_origin
 
 import os.path
@@ -53,7 +53,7 @@ def populate_stats():
                     "last_updated": "2000-01-01T00:00:00Z"
                 }
 
-    current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+    current_timestamp = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
     last_updated = current_stats['last_updated']
 
     weight_event_response = requests.get(f"{app_config['eventstore']['url']}/weight?timestamp={last_updated}&end_timestamp={current_timestamp}")
