@@ -53,6 +53,9 @@ def populate_stats():
                     "last_updated": "2000-01-01T00:00:00Z"
                 }
 
+    current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+    last_updated = current_stats['last_updated']
+
     weight_event_response = requests.get(f"{app_config['eventstore']['url']}/weight?timestamp={last_updated}&end_timestamp={current_timestamp}")
     macro_event_response = requests.get(f"{app_config['eventstore']['url']}/macro?timestamp={last_updated}&end_timestamp={current_timestamp}")
 
@@ -93,7 +96,7 @@ def populate_stats():
         
         current_stats['max_protein_readings'] = current_max_protein
 
-    current_stats["last_updated"] = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+    current_stats["last_updated"] = current_timestamp #datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 
