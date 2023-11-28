@@ -1299,3 +1299,7 @@
 2023-11-23 11:04:44,992 - basicLogger - INFO - Received event add_macros request with a trace id of 91f4dfd9-f299-42d8-a007-27cde733c837
 2023-11-23 11:06:10,251 - basicLogger - INFO - Received event add_macros request with a trace id of b06c8d23-ce48-4ee8-a53b-afa878e6de85
 2023-11-23 11:06:27,223 - basicLogger - INFO - Received event add_weight request with a trace id of 14abba1e-a910-4c20-b79c-e6654fa94ed9
+2023-11-28 14:36:52,811 - basicLogger - INFO - Trying to connect to Kafka, attempt 1
+2023-11-28 14:36:53,222 - basicLogger - INFO - Connected to Kafka successfully
+2023-11-28 14:36:53,251 - basicLogger - INFO - Trying to connect to Kafka, attempt 1
+2023-11-28 14:36:53,625 - basicLogger - INFO - Connected to Kafka successfully
