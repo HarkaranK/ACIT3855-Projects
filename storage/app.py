@@ -130,8 +130,8 @@ def process_messages():
 def get_weight(timestamp, end_timestamp):
     session = DB_SESSION()
 
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    timestamp_datetime = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    end_timestamp_datetime = datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     readings = session.query(WeightRecord).filter(and_(WeightRecord.date_created >= timestamp_datetime, WeightRecord.date_created < end_timestamp_datetime))
 
     results_list = []
@@ -145,8 +145,8 @@ def get_weight(timestamp, end_timestamp):
 def get_macros(timestamp, end_timestamp):
     session = DB_SESSION()
 
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    timestamp_datetime = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    end_timestamp_datetime = datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     readings = session.query(MacroRecord).filter(and_(MacroRecord.date_created >= timestamp_datetime, MacroRecord.date_created < end_timestamp_datetime))
 
     results_list = []
