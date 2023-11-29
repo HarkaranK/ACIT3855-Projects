@@ -35,7 +35,7 @@ services:
     volumes:
       - /home/azureuser/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
     depends_on:
-      - "receiver"
+      - "Receiver"
       - "storage"
       - "processing"
       - "audit_log"
