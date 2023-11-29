@@ -38,7 +38,7 @@ services:
       - "Receiver"
       - "storage"
       - "processing"
-      - "audit_log"
+      - "audit"
       - "dashboard"
     ports:
       - "80:80"
