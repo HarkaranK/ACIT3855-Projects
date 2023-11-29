@@ -169,7 +169,7 @@ def get_macros(timestamp, end_timestamp):
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api(REST_API, strict_validation=True, validate_responses=True)
+app.add_api(REST_API, base_path="/storage", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
     

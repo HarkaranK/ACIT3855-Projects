@@ -90,7 +90,7 @@ def adding_macros(body):
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api(REST_API, strict_validation=True, validate_responses=True )
+app.add_api(REST_API,base_path="/receiver" ,strict_validation=True, validate_responses=True )
 
 if __name__ == "__main__":
     app.run(port=8080)
