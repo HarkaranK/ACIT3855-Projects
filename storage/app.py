@@ -21,8 +21,19 @@ from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread
 import time
+import os
 
-with open('app_conf.yaml', 'r') as f:
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    app_conf_file = "/config/app_conf.yaml"
+    log_conf_file = "/config/log_conf.yaml"
+else:
+    print("In Dev Environment")
+    app_conf_file = "app_conf.yaml"
+    log_conf_file = "log_conf.yaml"
+
+
+with open('app_conf_file', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
 db_user = app_config['datastore']['user']
@@ -31,14 +42,13 @@ db_hostname = app_config['datastore']['hostname']
 db_port = app_config['datastore']['port']
 db_name = app_config['datastore']['db']
 
-with open('log_conf.yaml', 'r') as f:
+with open('log_conf_file', 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
-# Accidently added some lab10 stuff
-# logger.info("App Conf File: %s" % app_config) 
-# logger.info("Log Conf File: %s" % log_config)
+logger.info("App Conf File: %s" % app_config) 
+logger.info("Log Conf File: %s" % log_config)
 
 
 # Logs Hostname
