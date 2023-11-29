@@ -64,7 +64,7 @@ services:
   Receiver:
     image: receiver
     ports:
-      - "8080:8080"
+      - "8080"
     networks:
       - "api.network"    
     environment:
@@ -79,7 +79,7 @@ services:
   storage:
     image: storage
     ports:
-      - "8091:8091"
+      - "8091"
     networks:
       - "api.network"
     environment:
@@ -94,7 +94,7 @@ services:
   processing:
     image: processing
     ports:
-      - "8100:8100"
+      - "8100"
     networks:
       - "api.network"
     # network_mode: "host"
@@ -110,7 +110,7 @@ services:
   audit:
     image: audit
     ports:
-      - "8110:8110"
+      - "8110"
     networks:
       - "api.network"
     environment:
@@ -124,7 +124,7 @@ services:
   dashboard:
     image: dashboard
     ports:
-      - "3000:3000"
+      - "3000"
     networks:
       - "api.network"
     depends_on:
