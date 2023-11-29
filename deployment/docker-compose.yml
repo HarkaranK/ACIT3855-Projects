@@ -122,14 +122,14 @@ services:
       - "kafka"
 
   dashboard:
-          image: dashboard
-          ports:
-            - "3000:3000"
-          network:
-            - "api.network"
-          depends_on:
-            - "processing"
-            - "audit"
+    image: dashboard
+    ports:
+      - "3000:3000"
+    networks:
+      - "api.network"
+    depends_on:
+      - "processing"
+      - "audit"
       
 # Names our volume
 volumes:
