@@ -27,7 +27,7 @@ else:
     app_conf_file = "app_conf.yaml"
     log_conf_file = "log_conf.yaml"
 
-with open('app_conf_file', 'r') as f:
+with open(app_conf_file, 'r') as f:
     app_config = yaml.safe_load(f.read())
 
 db_user = app_config['datastore']['user']
@@ -36,7 +36,7 @@ db_hostname = app_config['datastore']['hostname']
 db_port = app_config['datastore']['port']
 db_name = app_config['datastore']['db']
 
-with open('log_conf_file', 'r') as f:
+with open(log_conf_file, 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
