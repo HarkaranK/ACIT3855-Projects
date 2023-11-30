@@ -85,7 +85,7 @@ def process_messages():
                 time.sleep(retry_delay_sec)
             else:
                 logger.error("Max retry attempts reached, could not connect to Kafka")
-               # return
+                return
 
 ####### Msg
 
