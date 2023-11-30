@@ -11,7 +11,11 @@ export default function EndpointAudit(props) {
 
     const getAudit = () => {
         const rand_val = Math.floor(Math.random() * 100);
+<<<<<<< HEAD
         fetch(`http://lab6-servicebased.eastus.cloudapp.azure.com/audit_log/${props.endpoint}?index=${rand_val}`)
+=======
+        fetch(`http://lab6-servicebased.eastus.cloudapp.azure.com:8110/${props.endpoint}?index=${rand_val}`)
+>>>>>>> c9bd0fe336c26b2f574103660134ca3a4620523a
         // fetch(`http://lab6-servicebased.eastus.cloudapp.azure.com/${props.endpoint}?index=2`)
             .then(res => res.json())
             .then((result)=>{
